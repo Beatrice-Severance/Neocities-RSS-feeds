@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-07-09T20:55:18.654Z",
+  "generatedAt": "2026-07-09T22:20:44.809Z",
   "items": [
+    {
+      "title": "France downs Morocco 2-0 to advance to the World Cup semifinal",
+      "link": "https://www.npr.org/2026/07/09/nx-s1-5887619/2026-world-cup-fifa-france-morocco-quarterfinal",
+      "pubDate": "Thu, 09 Jul 2026 18:01:54 -0400",
+      "source": "NPR News",
+      "category": "News"
+    },
     {
       "title": "Smithsonian chief emphasizes 'accuracy and integrity' after White House report",
       "link": "https://www.npr.org/2026/07/09/nx-s1-5887518/smithsonian-chief-lonnie-bunch-white-house-accusations",
@@ -30,7 +37,7 @@
       "category": "News"
     },
     {
-      "title": "OUTDOOR ACCESS FOR DISABLED IN VERMONT",
+      "title": "Vermont is creating a statewide trail, and making sure it's accessible to all",
       "link": "https://www.npr.org/2026/07/09/nx-s1-5879435/outdoor-access-for-disabled-in-vermont",
       "pubDate": "Thu, 09 Jul 2026 14:00:00 -0400",
       "source": "NPR News",
@@ -51,11 +58,18 @@
       "category": "News"
     },
     {
-      "title": "Former Olympian pleads not guilty in reflecting pool vandalism charge",
-      "link": "https://www.npr.org/2026/07/09/nx-s1-5887308/reflecting-pool-vandalism-charges-plea-olympian-canoeist-david-hearn",
-      "pubDate": "Thu, 09 Jul 2026 10:59:11 -0400",
-      "source": "NPR News",
-      "category": "News"
+      "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/",
+      "pubDate": "Thu, 09 Jul 2026 22:09:27 +0000",
+      "source": "NASA",
+      "category": "Science"
+    },
+    {
+      "title": "NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar",
+      "link": "https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/",
+      "pubDate": "Thu, 09 Jul 2026 20:08:35 +0000",
+      "source": "NASA",
+      "category": "Science"
     },
     {
       "title": "Principal Investigator and Quality Assessment Reports Evaluate Umbra Synthetic Aperture Radar Data",
@@ -96,20 +110,6 @@
       "title": "Hubble Captures Star-Studded Cluster",
       "link": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
       "pubDate": "Wed, 08 Jul 2026 14:13:53 +0000",
-      "source": "NASA",
-      "category": "Science"
-    },
-    {
-      "title": "Cottonwood Fire Chars Utah",
-      "link": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
-      "pubDate": "Wed, 08 Jul 2026 04:01:00 +0000",
-      "source": "NASA",
-      "category": "Science"
-    },
-    {
-      "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
-      "link": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
-      "pubDate": "Tue, 07 Jul 2026 18:00:00 +0000",
       "source": "NASA",
       "category": "Science"
     },
