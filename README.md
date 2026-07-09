@@ -110,5 +110,4 @@ Repo → **Actions** tab → **"Update RSS feeds"** → **Run workflow**.
   Actions tab.
 - **A specific feed won't load / times out** — check the run's log for
   which feed failed, and consider removing or replacing it in
-  `feeds-config.json` (see the Reuters note above for a real example of
-  this happening).
+  `feeds-config.json`.
