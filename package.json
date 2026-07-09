@@ -1,0 +1,12 @@
+{
+  "name": "rss-hub-builder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetches RSS feeds on a schedule and writes a static feeds-data.json",
+  "scripts": {
+    "build": "node fetch-feeds.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
