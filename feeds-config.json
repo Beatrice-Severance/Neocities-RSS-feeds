@@ -1,6 +1,5 @@
 [
   { "category": "News", "name": "NPR News",     "url": "https://feeds.npr.org/1001/rss.xml" },
-  { "category": "World News", "name": "Reuters World", "url": "https://www.reutersagency.com/feed/?best-topics=world" },
   { "category": "Science",    "name": "NASA",          "url": "https://www.nasa.gov/news-release/feed/" },
   { "category": "Science",    "name": "Science (AAAS)", "url": "https://www.science.org/rss/news_current.xml" },
   { "category": "Science",    "name": "Nature",        "url": "https://www.nature.com/nature.rss" }
