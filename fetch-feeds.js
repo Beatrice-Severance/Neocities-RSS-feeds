@@ -4,7 +4,7 @@
 
 const fs = require("fs");
 const Parser = require("rss-parser");
-const parser = new Parser();
+const parser = new Parser({ timeout: 15000 }); // give up on a feed after 15s
 
 const FEEDS = JSON.parse(fs.readFileSync("./feeds-config.json", "utf-8"));
 
@@ -14,6 +14,16 @@ const WEATHER_LOCATION = {
   lat: 43.0731,
   lon: -89.4012,
 };
+
+async function fetchWithTimeout(url, ms = 15000) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), ms);
+  try {
+    return await fetch(url, { signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
 
 async function fetchFeed(feed) {
   try {
@@ -33,11 +43,11 @@ async function fetchFeed(feed) {
 
 async function fetchWeather() {
   try {
-    const pointRes = await fetch(`https://api.weather.gov/points/${WEATHER_LOCATION.lat},${WEATHER_LOCATION.lon}`);
+    const pointRes = await fetchWithTimeout(`https://api.weather.gov/points/${WEATHER_LOCATION.lat},${WEATHER_LOCATION.lon}`);
     if (!pointRes.ok) throw new Error(`points lookup failed: ${pointRes.status}`);
     const pointData = await pointRes.json();
 
-    const forecastRes = await fetch(pointData.properties.forecast);
+    const forecastRes = await fetchWithTimeout(pointData.properties.forecast);
     if (!forecastRes.ok) throw new Error(`forecast fetch failed: ${forecastRes.status}`);
     const forecastData = await forecastRes.json();
 
