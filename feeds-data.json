@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-10T14:21:28.332Z",
+  "generatedAt": "2026-07-10T19:24:24.073Z",
   "items": [
+    {
+      "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
+      "pubDate": "Fri, 10 Jul 2026 15:08:57 -0400",
+      "source": "NPR News",
+      "category": "News"
+    },
+    {
+      "title": "A major housing bill is set to become law at midnight — even though Trump says he won't sign",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature",
+      "pubDate": "Fri, 10 Jul 2026 10:55:21 -0400",
+      "source": "NPR News",
+      "category": "News"
+    },
     {
       "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
       "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
@@ -12,13 +26,6 @@
       "title": "Taliban declares war on smartphones",
       "link": "https://www.npr.org/2026/07/10/g-s1-132396/smartphones-taliban-afghanistan-ban",
       "pubDate": "Fri, 10 Jul 2026 07:12:39 -0400",
-      "source": "NPR News",
-      "category": "News"
-    },
-    {
-      "title": "Shelling at night, gunfire by day in Israel's expanding zone of control in Gaza",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-      "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News"
     },
@@ -44,18 +51,25 @@
       "category": "News"
     },
     {
-      "title": "Trump leans on 'communist' messaging as economic angst drives Democrats",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5876512/trump-communist-messaging-economy-democrats",
+      "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
       "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News"
     },
     {
-      "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
-      "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News"
+      "title": "NASA Photographer Captures Images from F-18 Over Washington",
+      "link": "https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/",
+      "pubDate": "Fri, 10 Jul 2026 16:36:14 +0000",
+      "source": "NASA",
+      "category": "Science"
+    },
+    {
+      "title": "Waxing Gibbous Moon",
+      "link": "https://www.nasa.gov/image-article/waxing-gibbous-moon-6/",
+      "pubDate": "Fri, 10 Jul 2026 15:08:59 +0000",
+      "source": "NASA",
+      "category": "Science"
     },
     {
       "title": "Where Venezuela’s Earthquakes Shifted the Ground",
@@ -100,17 +114,17 @@
       "category": "Science"
     },
     {
-      "title": "Super Typhoon Bavi",
-      "link": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
-      "pubDate": "Thu, 09 Jul 2026 04:01:00 +0000",
-      "source": "NASA",
+      "title": "NSF makes billion-dollar gamble on research with an economic payoff",
+      "link": "https://www.science.org/content/article/nsf-makes-billion-dollar-gamble-research-economic-payoff",
+      "pubDate": "2026-07-10T01:15:50.000Z",
+      "source": "Science (AAAS)",
       "category": "Science"
     },
     {
-      "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-      "pubDate": "Wed, 08 Jul 2026 21:04:14 +0000",
-      "source": "NASA",
+      "title": "Spain's largest research organization confronts its dark past",
+      "link": "https://www.science.org/content/article/largest-research-organization-spain-confronts-its-dark-past",
+      "pubDate": "2026-07-10T12:30:46.000Z",
+      "source": "Science (AAAS)",
       "category": "Science"
     },
     {
@@ -156,17 +170,59 @@
       "category": "Science"
     },
     {
-      "title": "Detection schemes could deter putting nuclear warheads in space",
-      "link": "https://www.science.org/content/article/detection-schemes-could-deter-putting-nuclear-warheads-space",
-      "pubDate": "2026-07-08T11:05:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
+      "link": "https://www.nature.com/articles/s41586-026-10853-5",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science"
     },
     {
-      "title": "Chatbots can help perpetuate stigma around certain health conditions",
-      "link": "https://www.science.org/content/article/chatbots-can-help-perpetuate-stigma-around-certain-health-conditions",
-      "pubDate": "2026-07-07T04:55:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Alpine crossing took a heavy toll on Hannibal’s elephants and troops",
+      "link": "https://www.nature.com/articles/d41586-026-02113-3",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science"
+    },
+    {
+      "title": "Briefing Chat: The 30 year-legacy of a science icon — Dolly the sheep",
+      "link": "https://www.nature.com/articles/d41586-026-02185-1",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science"
+    },
+    {
+      "title": "Which ‘AI scientist’ suits your lab? A guide for the perplexed",
+      "link": "https://www.nature.com/articles/d41586-026-02091-6",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science"
+    },
+    {
+      "title": "Think preprints are unreliable? Analysis of 70,000 studies might change your mind",
+      "link": "https://www.nature.com/articles/d41586-026-02167-3",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science"
+    },
+    {
+      "title": "Lab-grown sperm: scientists inch closer to fertility breakthrough",
+      "link": "https://www.nature.com/articles/d41586-026-02172-6",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science"
+    },
+    {
+      "title": "NSF plans cuts to core science programmes to fund White House initiative",
+      "link": "https://www.nature.com/articles/d41586-026-02135-x",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science"
+    },
+    {
+      "title": "Found: the toxic killer that caused an ocean catastrophe",
+      "link": "https://www.nature.com/articles/d41586-026-02112-4",
+      "pubDate": "2026-07-09T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science"
     }
   ],
@@ -174,8 +230,8 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 83,
+        "name": "This Afternoon",
+        "temperature": 84,
         "temperatureUnit": "F",
         "shortForecast": "Partly Sunny"
       },
@@ -183,7 +239,7 @@
         "name": "Tonight",
         "temperature": 63,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy"
+        "shortForecast": "Mostly Cloudy"
       },
       {
         "name": "Saturday",
