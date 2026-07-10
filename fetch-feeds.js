@@ -47,10 +47,18 @@ function extractThumbnail(item) {
     }
   }
 
-  // 4. Last resort: pull the first <img src="..."> out of the HTML body
+  // 4. Last resort: pull a real <img src="..."> out of the HTML body.
+  // Skip tracking pixels and placeholder/invalid URLs some feeds embed
+  // (NPR, for example, appends a 1x1 tracking pixel to every article and
+  // sometimes leaves a literal "undefined" as the src).
   const html = item["content:encoded"] || item.content || "";
-  const match = html.match(/<img[^>]+src=["']([^"'>]+)["']/i);
-  if (match) return match[1];
+  const imgMatches = [...html.matchAll(/<img[^>]+src=["']([^"'>]+)["']/gi)];
+  for (const m of imgMatches) {
+    const url = m[1];
+    if (!url || url === "undefined") continue;
+    if (/pixel|tracking|1x1|spacer/i.test(url)) continue;
+    return url;
+  }
 
   return null;
 }
