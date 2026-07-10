@@ -49,6 +49,7 @@ function renderWeather(weather) {
     const card = document.createElement("div");
     card.className = "weather-card";
     card.innerHTML = `
+      <img class="weather-icon" src="${period.icon}" alt="${period.shortForecast}" loading="lazy">
       <p class="weather-period">${period.name}</p>
       <p class="weather-temp">${period.temperature}°${period.temperatureUnit}</p>
       <p class="weather-desc">${period.shortForecast}</p>

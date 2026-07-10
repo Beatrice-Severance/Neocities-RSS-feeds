@@ -107,6 +107,7 @@ async function fetchWeather() {
         temperature: p.temperature,
         temperatureUnit: p.temperatureUnit,
         shortForecast: p.shortForecast,
+        icon: p.icon,
       })),
     };
   } catch (err) {
