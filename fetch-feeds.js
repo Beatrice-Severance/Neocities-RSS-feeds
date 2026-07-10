@@ -6,6 +6,10 @@ const fs = require("fs");
 const Parser = require("rss-parser");
 const parser = new Parser({
   timeout: 15000, // give up on a feed after 15s
+  headers: {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+  },
   customFields: {
     item: [
       ["media:content", "mediaContent", { keepArray: true }],
