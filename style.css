@@ -44,6 +44,24 @@ main {
 .category li {
   padding: 0.6rem 0;
   border-bottom: 1px solid var(--border);
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+}
+
+.thumb {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+  background: var(--border);
+}
+
+.item-text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
 }
 
 .category li a {

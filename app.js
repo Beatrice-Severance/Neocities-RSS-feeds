@@ -14,9 +14,15 @@ function renderCategory(category, items) {
     .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
     .forEach(item => {
       const li = document.createElement("li");
+      const thumb = item.thumbnail
+        ? `<img class="thumb" src="${item.thumbnail}" alt="" loading="lazy" onerror="this.remove()">`
+        : "";
       li.innerHTML = `
-        <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
-        <span class="meta">${item.source} · ${new Date(item.pubDate).toLocaleDateString()}</span>
+        ${thumb}
+        <div class="item-text">
+          <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+          <span class="meta">${item.source} · ${new Date(item.pubDate).toLocaleDateString()}</span>
+        </div>
       `;
       list.appendChild(li);
     });

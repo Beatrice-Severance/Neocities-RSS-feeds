@@ -4,7 +4,15 @@
 
 const fs = require("fs");
 const Parser = require("rss-parser");
-const parser = new Parser({ timeout: 15000 }); // give up on a feed after 15s
+const parser = new Parser({
+  timeout: 15000, // give up on a feed after 15s
+  customFields: {
+    item: [
+      ["media:content", "mediaContent", { keepArray: true }],
+      ["media:thumbnail", "mediaThumbnail"],
+    ],
+  },
+});
 
 const FEEDS = JSON.parse(fs.readFileSync("./feeds-config.json", "utf-8"));
 
@@ -14,6 +22,38 @@ const WEATHER_LOCATION = {
   lat: 43.0731,
   lon: -89.4012,
 };
+
+// Tries a few common places feeds hide a thumbnail image, in order of
+// reliability. Returns null if nothing usable is found — the page just
+// won't show an image for that item, rather than breaking.
+function extractThumbnail(item) {
+  // 1. A standard <enclosure> pointing at an image
+  if (item.enclosure?.url && (!item.enclosure.type || item.enclosure.type.startsWith("image"))) {
+    return item.enclosure.url;
+  }
+
+  // 2. Media RSS <media:thumbnail url="...">
+  const thumbUrl = item.mediaThumbnail?.$?.url || item.mediaThumbnail?.url;
+  if (thumbUrl) return thumbUrl;
+
+  // 3. Media RSS <media:content ... medium="image">
+  if (item.mediaContent) {
+    const list = Array.isArray(item.mediaContent) ? item.mediaContent : [item.mediaContent];
+    for (const entry of list) {
+      const url = entry?.$?.url || entry?.url;
+      const medium = entry?.$?.medium;
+      const type = entry?.$?.type;
+      if (url && (medium === "image" || type?.startsWith("image") || !medium)) return url;
+    }
+  }
+
+  // 4. Last resort: pull the first <img src="..."> out of the HTML body
+  const html = item["content:encoded"] || item.content || "";
+  const match = html.match(/<img[^>]+src=["']([^"'>]+)["']/i);
+  if (match) return match[1];
+
+  return null;
+}
 
 async function fetchWithTimeout(url, ms = 15000) {
   const controller = new AbortController();
@@ -34,6 +74,7 @@ async function fetchFeed(feed) {
       pubDate: item.pubDate || item.isoDate,
       source: feed.name,
       category: feed.category,
+      thumbnail: extractThumbnail(item),
     }));
   } catch (err) {
     console.error(`Failed to fetch ${feed.name}: ${err.message}`);
