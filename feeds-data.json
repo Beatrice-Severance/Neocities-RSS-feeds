@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T11:50:04.537Z",
+  "generatedAt": "2026-07-10T14:21:28.332Z",
   "items": [
     {
-      "title": "U.S.-Iran fighting appears to pause. And, life inside Gaza's expanding military zones",
+      "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
       "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
       "pubDate": "Fri, 10 Jul 2026 07:43:38 -0400",
       "source": "NPR News",
@@ -30,13 +30,6 @@
       "category": "News"
     },
     {
-      "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
-      "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News"
-    },
-    {
       "title": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
       "link": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election",
       "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
@@ -53,6 +46,13 @@
     {
       "title": "Trump leans on 'communist' messaging as economic angst drives Democrats",
       "link": "https://www.npr.org/2026/07/10/nx-s1-5876512/trump-communist-messaging-economy-democrats",
+      "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News"
+    },
+    {
+      "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
       "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News"
@@ -168,62 +168,6 @@
       "pubDate": "2026-07-07T04:55:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science"
-    },
-    {
-      "title": "Alpine crossing took a heavy toll on Hannibal’s elephants and troops",
-      "link": "https://www.nature.com/articles/d41586-026-02113-3",
-      "pubDate": "2026-07-10T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science"
-    },
-    {
-      "title": "Found: the toxic killer that caused an ocean catastrophe",
-      "link": "https://www.nature.com/articles/d41586-026-02112-4",
-      "pubDate": "2026-07-09T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science"
-    },
-    {
-      "title": "Pair of ‘super-puff’ planets are lighter than candy floss",
-      "link": "https://www.nature.com/articles/d41586-026-02114-2",
-      "pubDate": "2026-07-09T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science"
-    },
-    {
-      "title": "Graduating without a thesis: meet the people getting ‘practical’ PhDs in China",
-      "link": "https://www.nature.com/articles/d41586-026-01242-z",
-      "pubDate": "2026-07-09T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science"
-    },
-    {
-      "title": "Whoops! Most arXiv papers contain information never meant to be shared",
-      "link": "https://www.nature.com/articles/d41586-026-02057-8",
-      "pubDate": "2026-07-09T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science"
-    },
-    {
-      "title": "‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history",
-      "link": "https://www.nature.com/articles/d41586-026-01357-3",
-      "pubDate": "2026-07-09T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science"
-    },
-    {
-      "title": "Nukes in space? Orbital detector could sniff out warheads",
-      "link": "https://www.nature.com/articles/d41586-026-02141-z",
-      "pubDate": "2026-07-08T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science"
-    },
-    {
-      "title": "Observation of Floquet rotational super-radiance",
-      "link": "https://www.nature.com/articles/s41586-026-10725-y",
-      "pubDate": "2026-07-08T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science"
     }
   ],
   "weather": {
@@ -233,11 +177,11 @@
         "name": "Today",
         "temperature": 83,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Fog then Partly Sunny"
+        "shortForecast": "Partly Sunny"
       },
       {
         "name": "Tonight",
-        "temperature": 64,
+        "temperature": 63,
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy"
       },
