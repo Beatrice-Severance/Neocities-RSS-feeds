@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T20:47:38.360Z",
+  "generatedAt": "2026-07-10T20:58:25.429Z",
   "items": [
     {
       "title": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
@@ -329,25 +329,29 @@
         "name": "This Afternoon",
         "temperature": 86,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny"
+        "shortForecast": "Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
         "name": "Tonight",
         "temperature": 63,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
       },
       {
         "name": "Saturday",
         "temperature": 86,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny"
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       },
       {
         "name": "Saturday Night",
         "temperature": 64,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear"
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       }
     ]
   }
