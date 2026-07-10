@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-10T21:09:27.039Z",
+  "generatedAt": "2026-07-10T21:59:58.881Z",
   "items": [
+    {
+      "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins",
+      "pubDate": "Fri, 10 Jul 2026 17:22:01 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F3f%2Fa194c0974390a768ca63b5533f1e%2Fgettyimages-2280200612.jpg"
+    },
     {
       "title": "Patriotic art gets the spotlight as NEA funding shifts. Cue 'The Ronald Reagan Overture'",
       "link": "https://www.npr.org/2026/07/10/nx-s1-5870578/ronald-reagan-250th-patriotic-art",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5840x3893+0+0/resize/5840x3893!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2Fae%2Fbd47fcec42e994e2f69676d2a172%2Fap24185420651726.jpg"
-    },
-    {
-      "title": "One U.S. visa program is growing rapidly. No one is happy with it",
-      "link": "https://www.npr.org/2026/07/10/g-s1-132915/congress-agriculture-h2a-visa-program",
-      "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7038x4568+0+0/resize/7038x4568!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F96%2Fa43ddf904952bec8a8dff1ecf305%2Fgettyimages-2269280825-1.jpg"
     },
     {
       "title": "Early Career Faculty (ECF) 2025 Awards",
@@ -130,6 +130,14 @@
       "thumbnail": "https://science.nasa.gov/wp-content/uploads/2026/07/ubrma-cover-and-sar-image.png?w=1920"
     },
     {
+      "title": "Ancient DNA solves Medici murder mystery",
+      "link": "https://www.science.org/content/article/ancient-dna-solves-medici-murder-mystery",
+      "pubDate": "2026-07-10T05:05:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "DNA could act like a famed gravity-defying pump",
       "link": "https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump",
       "pubDate": "2026-07-10T02:23:00.000Z",
@@ -181,14 +189,6 @@
       "title": "A molecular quirk unique to octopuses makes them better at building proteins",
       "link": "https://www.science.org/content/article/molecular-quirk-unique-octopuses-makes-them-better-building-proteins",
       "pubDate": "2026-07-08T04:25:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Surprising claim of superstringy universe may be based on a mistake",
-      "link": "https://www.science.org/content/article/surprising-claim-superstringy-universe-may-be-based-mistake",
-      "pubDate": "2026-07-08T03:23:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -329,7 +329,7 @@
         "name": "This Afternoon",
         "temperature": 86,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
+        "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
