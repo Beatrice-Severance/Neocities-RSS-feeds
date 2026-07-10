@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-09T22:20:44.809Z",
+  "generatedAt": "2026-07-10T02:50:11.771Z",
   "items": [
+    {
+      "title": "In private call, Education Dept. tried, but failed, to reassure disability advocates",
+      "link": "https://www.npr.org/2026/07/09/nx-s1-5887650/education-department-special-ed-hhs",
+      "pubDate": "Thu, 09 Jul 2026 21:03:56 -0400",
+      "source": "NPR News",
+      "category": "News"
+    },
+    {
+      "title": "Trump's arch clears another hurdle, setting up a big debate: Do height limits apply?",
+      "link": "https://www.npr.org/2026/07/09/nx-s1-5884728/trump-arch-height-act-commission-meeting",
+      "pubDate": "Thu, 09 Jul 2026 20:44:48 -0400",
+      "source": "NPR News",
+      "category": "News"
+    },
     {
       "title": "France downs Morocco 2-0 to advance to the World Cup semifinal",
       "link": "https://www.npr.org/2026/07/09/nx-s1-5887619/2026-world-cup-fifa-france-morocco-quarterfinal",
@@ -40,20 +54,6 @@
       "title": "Vermont is creating a statewide trail, and making sure it's accessible to all",
       "link": "https://www.npr.org/2026/07/09/nx-s1-5879435/outdoor-access-for-disabled-in-vermont",
       "pubDate": "Thu, 09 Jul 2026 14:00:00 -0400",
-      "source": "NPR News",
-      "category": "News"
-    },
-    {
-      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
-      "link": "https://www.npr.org/2026/07/09/nx-s1-5885052/spacexai-stabilityai-deepfake-csam-class-action",
-      "pubDate": "Thu, 09 Jul 2026 13:49:33 -0400",
-      "source": "NPR News",
-      "category": "News"
-    },
-    {
-      "title": "'Solo agers' are a growing group. Changes that would help them could help everyone",
-      "link": "https://www.npr.org/2026/07/09/nx-s1-5886348/solo-agers-demographics-caregiving-family-aging",
-      "pubDate": "Thu, 09 Jul 2026 11:58:19 -0400",
       "source": "NPR News",
       "category": "News"
     },
@@ -230,28 +230,28 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 81,
-        "temperatureUnit": "F",
-        "shortForecast": "Scattered Showers And Thunderstorms"
-      },
-      {
         "name": "Tonight",
-        "temperature": 65,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "shortForecast": "Scattered Showers And Thunderstorms then Patchy Fog"
+        "shortForecast": "Slight Chance Showers And Thunderstorms"
       },
       {
         "name": "Friday",
         "temperature": 82,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Fog then Mostly Sunny"
+        "shortForecast": "Patchy Fog then Partly Sunny"
       },
       {
         "name": "Friday Night",
         "temperature": 62,
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy"
+      },
+      {
+        "name": "Saturday",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny"
       }
     ]
   }
