@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-07-10T02:50:11.771Z",
+  "generatedAt": "2026-07-10T06:43:27.221Z",
   "items": [
+    {
+      "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo",
+      "link": "https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo",
+      "pubDate": "Fri, 10 Jul 2026 02:33:38 -0400",
+      "source": "NPR News",
+      "category": "News"
+    },
+    {
+      "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
+      "link": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
+      "pubDate": "Fri, 10 Jul 2026 02:12:36 -0400",
+      "source": "NPR News",
+      "category": "News"
+    },
+    {
+      "title": "President Trump cleans house at the bipartisan Election Assistance Commission",
+      "link": "https://www.npr.org/2026/07/09/nx-s1-5887690/trump-election-assistance-commission",
+      "pubDate": "Thu, 09 Jul 2026 22:52:32 -0400",
+      "source": "NPR News",
+      "category": "News"
+    },
     {
       "title": "In private call, Education Dept. tried, but failed, to reassure disability advocates",
       "link": "https://www.npr.org/2026/07/09/nx-s1-5887650/education-department-special-ed-hhs",
@@ -37,25 +58,11 @@
       "category": "News"
     },
     {
-      "title": "EPA proposes weakening heavy-duty truck pollution rules",
-      "link": "https://www.npr.org/2026/07/09/nx-s1-5886354/epa-heavy-duty-truck-emissions",
-      "pubDate": "Thu, 09 Jul 2026 15:03:41 -0400",
-      "source": "NPR News",
-      "category": "News"
-    },
-    {
-      "title": "A new kind of robot swims the seas and soars the skies",
-      "link": "https://www.npr.org/2026/07/09/nx-s1-5885040/robot-flying-aerial-aquatic-mit-birds",
-      "pubDate": "Thu, 09 Jul 2026 14:01:11 -0400",
-      "source": "NPR News",
-      "category": "News"
-    },
-    {
-      "title": "Vermont is creating a statewide trail, and making sure it's accessible to all",
-      "link": "https://www.npr.org/2026/07/09/nx-s1-5879435/outdoor-access-for-disabled-in-vermont",
-      "pubDate": "Thu, 09 Jul 2026 14:00:00 -0400",
-      "source": "NPR News",
-      "category": "News"
+      "title": "Where Venezuela’s Earthquakes Shifted the Ground",
+      "link": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
+      "pubDate": "Fri, 10 Jul 2026 04:00:00 +0000",
+      "source": "NASA",
+      "category": "Science"
     },
     {
       "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
@@ -103,13 +110,6 @@
       "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
       "link": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
       "pubDate": "Wed, 08 Jul 2026 21:04:14 +0000",
-      "source": "NASA",
-      "category": "Science"
-    },
-    {
-      "title": "Hubble Captures Star-Studded Cluster",
-      "link": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
-      "pubDate": "Wed, 08 Jul 2026 14:13:53 +0000",
       "source": "NASA",
       "category": "Science"
     },
@@ -230,28 +230,28 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
-        "temperature": 66,
+        "name": "Overnight",
+        "temperature": 64,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms"
+        "shortForecast": "Slight Chance Rain Showers"
       },
       {
         "name": "Friday",
-        "temperature": 82,
+        "temperature": 83,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Fog then Partly Sunny"
+        "shortForecast": "Patchy Fog then Slight Chance Rain Showers"
       },
       {
         "name": "Friday Night",
-        "temperature": 62,
+        "temperature": 63,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy"
+        "shortForecast": "Slight Chance Rain Showers then Partly Cloudy"
       },
       {
         "name": "Saturday",
-        "temperature": 84,
+        "temperature": 85,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny"
+        "shortForecast": "Sunny"
       }
     ]
   }
