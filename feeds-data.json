@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T02:28:15.764Z",
+  "generatedAt": "2026-07-11T05:39:02.232Z",
   "items": [
     {
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
@@ -26,7 +26,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x4284+0+0/resize/5712x4284!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2F26%2F6024affc424fbe1f768d961a9087%2Fimg-2852.jpeg"
     },
     {
-      "title": "A major housing bill is set to become law at midnight — even though Trump says he won't sign",
+      "title": "Largest housing affordability bill in decades becomes law without Trump's signature",
       "link": "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature",
       "pubDate": "Fri, 10 Jul 2026 10:55:21 -0400",
       "source": "NPR News",
@@ -326,7 +326,7 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 62,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy",
@@ -341,7 +341,7 @@
       },
       {
         "name": "Saturday Night",
-        "temperature": 64,
+        "temperature": 62,
         "temperatureUnit": "F",
         "shortForecast": "Clear",
         "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
