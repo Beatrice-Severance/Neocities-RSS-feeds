@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T21:59:58.881Z",
+  "generatedAt": "2026-07-11T02:28:15.764Z",
   "items": [
     {
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
@@ -130,6 +130,14 @@
       "thumbnail": "https://science.nasa.gov/wp-content/uploads/2026/07/ubrma-cover-and-sar-image.png?w=1920"
     },
     {
+      "title": "New NSF policy would ban almost all collaborations with Chinese scientists",
+      "link": "https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists",
+      "pubDate": "2026-07-10T05:55:28.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Ancient DNA solves Medici murder mystery",
       "link": "https://www.science.org/content/article/ancient-dna-solves-medici-murder-mystery",
       "pubDate": "2026-07-10T05:05:00.000Z",
@@ -181,14 +189,6 @@
       "title": "Study dampens hope that meningitis vaccine can also prevent gonorrhea",
       "link": "https://www.science.org/content/article/study-dampens-hope-meningitis-vaccine-can-also-prevent-gonorrhea",
       "pubDate": "2026-07-08T05:00:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "A molecular quirk unique to octopuses makes them better at building proteins",
-      "link": "https://www.science.org/content/article/molecular-quirk-unique-octopuses-makes-them-better-building-proteins",
-      "pubDate": "2026-07-08T04:25:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -326,15 +326,8 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 63,
+        "temperature": 62,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
@@ -350,8 +343,15 @@
         "name": "Saturday Night",
         "temperature": 64,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Clear",
+        "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
+      },
+      {
+        "name": "Sunday",
+        "temperature": 87,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       }
     ]
   }
