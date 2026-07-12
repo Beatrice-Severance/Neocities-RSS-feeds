@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-07-11T21:46:35.291Z",
+  "generatedAt": "2026-07-12T02:33:41.090Z",
   "items": [
+    {
+      "title": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5890213/missouri-kentucky-summer-camp-flooding",
+      "pubDate": "Sat, 11 Jul 2026 21:38:29 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "U.S. launches strikes after Iran fires on civilian vessel in Strait of Hormuz",
+      "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz",
+      "pubDate": "Sat, 11 Jul 2026 21:32:36 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8169x5174+0+0/resize/8169x5174!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F12%2F95fc9a6146e6a1f22ff138e3833c%2Fap26192753034166.jpg"
+    },
+    {
+      "title": "In a nailbiter, England moves on to the World Cup semifinals, defeating Norway 2-1",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5890169/2026-world-cup-fifa-england-norway-quarterfinal",
+      "pubDate": "Sat, 11 Jul 2026 19:46:50 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4889x3186+0+0/resize/4889x3186!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Ffd%2F213e6cd24cd0b8d43c44744f7c80%2Fgettyimages-2285690431.jpg"
+    },
     {
       "title": "Palestinian aid worker who organized World Cup screenings killed in Israeli strike",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike",
@@ -40,30 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7640x5094+0+0/resize/7640x5094!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2F42%2F625f3705461d98f61f047acfe39c%2Fgettyimages-2149547402.jpg"
-    },
-    {
-      "title": "Most people who need glasses don't have them. Can the post office change that?",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india",
-      "pubDate": "Sat, 11 Jul 2026 07:49:47 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3712+0+0/resize/5568x3712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F3a%2F2b7ae267443fb28f38919fb0d0b8%2Findia-post-office-eye-exam-11.jpg"
-    },
-    {
-      "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota",
-      "pubDate": "Sat, 11 Jul 2026 06:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4095+0+0/resize/6000x4095!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2F1d%2Fc2d4f42148a38b52dee61180a580%2Fgettyimages-2284475080.jpg"
-    },
-    {
-      "title": "With the white nationalist group Patriot Front, what you see is not what you get",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc",
-      "pubDate": "Sat, 11 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5999x3999+0+0/resize/5999x3999!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F3b%2Fbd333b7640178d633a46d2900deb%2F2026-07-04t174823z-806138528-rc217ma8zg2b-rtrmadp-3-usa-250-washingtondc.JPG"
     },
     {
       "title": "Early Career Faculty (ECF) 2025 Awards",
@@ -326,13 +326,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 63,
         "temperatureUnit": "F",
@@ -341,7 +334,7 @@
       },
       {
         "name": "Sunday",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
@@ -352,6 +345,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Clear",
         "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
+      },
+      {
+        "name": "Monday",
+        "temperature": 94,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/hot?size=medium"
       }
     ]
   }
