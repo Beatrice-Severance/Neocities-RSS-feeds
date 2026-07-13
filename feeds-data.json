@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-12T21:47:05.689Z",
+  "generatedAt": "2026-07-13T06:15:22.611Z",
   "items": [
+    {
+      "title": "McConnell says a fall led to his hospitalization, breaking weeks of silence",
+      "link": "https://www.npr.org/2026/07/13/nx-s1-5891492/mcconnell-fall-hospitalization",
+      "pubDate": "Mon, 13 Jul 2026 01:49:09 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5327x3551+0+0/resize/5327x3551!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F26%2F8204ec8546e3b02c502eadcd3d0a%2Fap26190531439762.jpg"
+    },
+    {
+      "title": "Want to own a real T. rex? It could cost you $30 million",
+      "link": "https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions",
+      "pubDate": "Sun, 12 Jul 2026 20:14:03 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F93%2Fe7ff880f49cea11246eb142fe35e%2Fgettyimages-2283666884.jpg"
+    },
     {
       "title": "Georgia's unique in the American Revolution told through its historical markers",
       "link": "https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers",
@@ -48,22 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7728x5152+0+0/resize/7728x5152!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F7a%2F6bf9fcdc4272ab0a0beeb2966e95%2Fsenegal-rice-farmers-13.jpg"
-    },
-    {
-      "title": "Campaign text messages could soon get more effective — and annoying",
-      "link": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
-      "pubDate": "Sun, 12 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5062x3376+0+0/resize/5062x3376!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2F3d%2Ffdff0e0e4d7cb5d6b7de582175e6%2Fgettyimages-2206244669.jpg"
-    },
-    {
-      "title": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
-      "link": "https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist",
-      "pubDate": "Sun, 12 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F3a%2F4a0d8a224df5bf41421e2cc10f3b%2F2026-05-maga-exhibits-marka27-lstevens-008.jpg"
     },
     {
       "title": "Early Career Faculty (ECF) 2025 Awards",
@@ -326,15 +326,8 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 89,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
-      },
-      {
-        "name": "Tonight",
-        "temperature": 67,
+        "name": "Overnight",
+        "temperature": 68,
         "temperatureUnit": "F",
         "shortForecast": "Clear",
         "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
@@ -350,8 +343,15 @@
         "name": "Monday Night",
         "temperature": 70,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Clear",
+        "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
+      },
+      {
+        "name": "Tuesday",
+        "temperature": 96,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/hot?size=medium"
       }
     ]
   }
