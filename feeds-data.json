@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-14T02:13:55.870Z",
+  "generatedAt": "2026-07-14T05:28:04.233Z",
   "items": [
+    {
+      "title": "The star-studded World Cup semifinals kick off with France vs. Spain",
+      "link": "https://www.npr.org/2026/07/14/nx-s1-5891860/2026-world-cup-fifa-spain-france-argentina-england-semifinals",
+      "pubDate": "Tue, 14 Jul 2026 01:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F73%2F1c%2F8d3fec624aa9be474a437a0c9b38%2Fsoccer-player-quadtych-v2.jpg"
+    },
     {
       "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
       "link": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs",
@@ -58,12 +66,68 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3747x2498+209+409/resize/3747x2498!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2Ff9%2Fa3ca15be4194a0590d57f8d3b477%2Fimg-7605.jpg"
     },
     {
-      "title": "A guard punched him on camera. It was still nearly impossible for him to sue",
-      "link": "https://www.npr.org/2026/07/13/nx-s1-5825915/prison-grievance-retaliation-complaints",
-      "pubDate": "Mon, 13 Jul 2026 05:10:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2520+0+0/resize/4800x2520!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F25%2F5e%2Faf6c8a8f46ea8734a7dd47f69d70%2Fthemarshallproject-grievances-blue-color-4800x2520-mm.jpg"
+      "title": "Fans of the Arctic",
+      "link": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
+      "pubDate": "Tue, 14 Jul 2026 04:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fans-of-the-arctic/duelingalluvialfans_oli2_20250801.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
+      "pubDate": "Tue, 14 Jul 2026 01:04:04 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04942_opgs_edr_ncam_NLB_836217572EDR_F1230102NCAM00290M_.jpg?w=1024&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA Study Points to Smoother Air Taxi Rides",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+      "pubDate": "Mon, 13 Jul 2026 21:46:11 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048"
+    },
+    {
+      "title": "NASA Astronaut Anil Menon",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
+      "pubDate": "Mon, 13 Jul 2026 15:11:16 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/jsc2026e000758orig.jpg?w=1638"
+    },
+    {
+      "title": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
+      "pubDate": "Mon, 13 Jul 2026 14:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2024/07/keystones/STScI-01J1TC4ZFSNREMHK7R0FC90RQM.png?w=1340&#038;h=520&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "Wild, Scenic, and Increasingly Rusty",
+      "link": "https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/",
+      "pubDate": "Mon, 13 Jul 2026 04:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/wild,-scenic,-and-increasingly-rusty/alaska_rustyrivers_20240520.jpg?w=2160&#038;h=1700&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "Early Career Faculty (ECF) 2025 Awards",
+      "link": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
+      "pubDate": "Fri, 10 Jul 2026 19:23:55 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/",
+      "pubDate": "Fri, 10 Jul 2026 19:00:53 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/1_BILLION_CLASSIFICATIONS.png?w=1257&#038;h=325&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Scrawled signature names a Maya astronomer for the first time",
@@ -262,11 +326,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 69,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Clear",
+        "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
       },
       {
         "name": "Tuesday",
@@ -279,8 +343,8 @@
         "name": "Tuesday Night",
         "temperature": 71,
         "temperatureUnit": "F",
-        "shortForecast": "Clear",
-        "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Wednesday",
