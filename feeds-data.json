@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-07-15T10:47:24.195Z",
+  "generatedAt": "2026-07-15T13:39:26.289Z",
   "items": [
+    {
+      "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+      "link": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+      "pubDate": "Wed, 15 Jul 2026 08:40:50 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2F26%2F8aa3fd3f4936bdd8b5a40b6741b1%2Ffarflungpostcard-rr.jpg"
+    },
+    {
+      "title": "Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops",
+      "link": "https://www.npr.org/2026/07/15/g-s1-133652/up-first-newsletter-todd-blanche-iran-strait-of-hormuz-ice-traffic-stops",
+      "pubDate": "Wed, 15 Jul 2026 08:04:13 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "How to keep cool in this year's extreme summer heat even without air conditioning",
+      "link": "https://www.npr.org/2026/07/15/g-s1-133383/extreme-summer-heat-air-conditioning",
+      "pubDate": "Wed, 15 Jul 2026 07:19:28 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6625x8283+0+0/resize/6625x8283!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2Fd5%2F4f677d4c4b2d8a86104c10eca805%2Fheatwave-archive.jpg"
+    },
     {
       "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
       "link": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
@@ -8,30 +32,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x685+0+0/resize/1024x685!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2F3d%2Fdf800b9a44dd9e565ac28866c2e5%2Fgettyimages-2285448249.jpg"
-    },
-    {
-      "title": "Todd Blanche faces high-stakes confirmation hearing for attorney general",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5891870/todd-blanche-senate-confirmation-attorney-general",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5200x3467+0+0/resize/5200x3467!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2F56%2F060377244a72a8f7c5ee43709427%2Fgettyimages-2284198019.jpg"
-    },
-    {
-      "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1393x929+0+75/resize/1393x929!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2F15%2Fe1c3fdd940738a45e39a8a7910f3%2Frear-admiral-erica-schwartz.jpg"
-    },
-    {
-      "title": "Todd Blanche's confirmation brings one Epstein survivor to center stage",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5850397/jeffrey-epstein-todd-blanche-dani-bensky-survivor-victims-sexual-abuse-trafficking",
-      "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5337x7472+0+0/resize/5337x7472!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F26%2F3a%2Febf2284744c2835b279a12fbac52%2Faune-062226-24.jpg"
     },
     {
       "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
@@ -42,28 +42,44 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4896x3264+0+0/resize/4896x3264!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2F59%2Feb1be9c64c4c874a99bc0bddb2d4%2Fgettyimages-2282553289.jpg"
     },
     {
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief",
-      "pubDate": "Wed, 15 Jul 2026 04:50:19 -0400",
+      "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing",
+      "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1393x929+0+75/resize/1393x929!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2F15%2Fe1c3fdd940738a45e39a8a7910f3%2Frear-admiral-erica-schwartz.jpg"
+    },
+    {
+      "title": "Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5850397/jeffrey-epstein-todd-blanche-dani-bensky-survivor-victims-sexual-abuse-trafficking",
+      "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5337x7472+0+0/resize/5337x7472!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F26%2F3a%2Febf2284744c2835b279a12fbac52%2Faune-062226-24.jpg"
+    },
+    {
+      "title": "Todd Blanche faces high-stakes confirmation hearing for attorney general",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5891870/todd-blanche-senate-confirmation-attorney-general",
+      "pubDate": "Wed, 15 Jul 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News",
       "thumbnail": null
     },
     {
-      "title": "Mystery bidder buys T. rex nicknamed 'Gus' for a record $50 million",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex",
-      "pubDate": "Wed, 15 Jul 2026 02:25:26 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6016x4512+0+0/resize/6016x4512!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F53%2F1b%2Fb88ca59b4560a60283b90e063e37%2Fap26195563377996.jpg"
+      "title": "Volunteer Measures Record Louisiana Rainfall ",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/volunteer-measures-record-louisiana-rainfall/",
+      "pubDate": "Wed, 15 Jul 2026 12:32:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/NationalWeatherServiceLakeCharlesMeteorologists.jpg?w=1300&#038;h=975&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "Trump will speak on elections in Thursday primetime address",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5894580/trump-elections-primetime-address",
-      "pubDate": "Wed, 15 Jul 2026 02:00:46 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4640x3096+0+0/resize/4640x3096!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2F82%2F68462c7249e095005507b6b1d806%2Fap26195596071522.jpg"
+      "title": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/",
+      "pubDate": "Wed, 15 Jul 2026 12:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KX448CEBRHBBJW579AG64G0H.jpg?w=3840&#038;h=2160&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now",
@@ -112,22 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://images-assets.nasa.gov/image/AFRC2026-0146-38/AFRC2026-0146-38~large.jpg?w=1919&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars",
-      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
-      "pubDate": "Tue, 14 Jul 2026 14:00:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/tde.jpg?w=2048"
-    },
-    {
-      "title": "Fans of the Arctic",
-      "link": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
-      "pubDate": "Tue, 14 Jul 2026 04:01:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fans-of-the-arctic/duelingalluvialfans_oli2_20250801.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Bungee-jumping mice may reveal why astronauts skip on the Moon",
@@ -194,8 +194,24 @@
       "thumbnail": null
     },
     {
+      "title": "Relapse",
+      "link": "https://www.nature.com/articles/d41586-026-02133-z",
+      "pubDate": "2026-07-15T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Beyond lithium: how sodium-ion batteries could change the world",
       "link": "https://www.nature.com/articles/d41586-026-02150-y",
+      "pubDate": "2026-07-15T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "AI avatars are reshaping society in China – the law is trying to catch up",
+      "link": "https://www.nature.com/articles/d41586-026-01674-7",
       "pubDate": "2026-07-15T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -236,22 +252,6 @@
     {
       "title": "How the calendar came to be",
       "link": "https://www.nature.com/articles/d41586-026-02102-6",
-      "pubDate": "2026-07-14T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "‘Dark comet’ unmasked by its mysterious motions",
-      "link": "https://www.nature.com/articles/d41586-026-02192-2",
-      "pubDate": "2026-07-14T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Seeking an industry role after your PhD? Make sure your CV reflects that",
-      "link": "https://www.nature.com/articles/d41586-026-01855-4",
       "pubDate": "2026-07-14T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -326,21 +326,14 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Overnight",
-        "temperature": 70,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
-      },
-      {
-        "name": "Wednesday",
+        "name": "Today",
         "temperature": 95,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/hot?size=medium"
       },
       {
-        "name": "Wednesday Night",
+        "name": "Tonight",
         "temperature": 72,
         "temperatureUnit": "F",
         "shortForecast": "Areas Of Smoke",
@@ -352,6 +345,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Areas Of Smoke then Slight Chance Showers And Thunderstorms",
         "icon": "https://api.weather.gov/icons/land/day/smoke/tsra_hi,20?size=medium"
+      },
+      {
+        "name": "Thursday Night",
+        "temperature": 70,
+        "temperatureUnit": "F",
+        "shortForecast": "Slight Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=medium"
       }
     ]
   }
