@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-15T02:12:41.589Z",
+  "generatedAt": "2026-07-15T05:29:05.937Z",
   "items": [
+    {
+      "title": "Supreme Court Justices give chilling accounts of threats to their safety",
+      "link": "https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety",
+      "pubDate": "Tue, 14 Jul 2026 23:19:25 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3906x2604+0+0/resize/3906x2604!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd1%2Fd9%2F8e6807af48ada37e22d450084a2c%2Fgettyimages-2286066874.jpg"
+    },
     {
       "title": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
       "link": "https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal",
@@ -8,6 +16,14 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3228x2152+0+0/resize/3228x2152!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F94%2Fe4861c324cbd88d60a306966fa24%2Fgettyimages-2285495729.jpg"
+    },
+    {
+      "title": "Supreme Court Justices Barrett and Kagan discuss security funding on Capitol Hill",
+      "link": "https://www.npr.org/2026/07/14/nx-s1-5888645/supreme-court-justices-barrett-and-kagan-discuss-security-funding-on-capitol-hill",
+      "pubDate": "Tue, 14 Jul 2026 16:29:34 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
     },
     {
       "title": "How do young people feel about AI? 7 teens weigh in",
@@ -50,20 +66,12 @@
       "thumbnail": null
     },
     {
-      "title": "Some international artists are skipping U.S. tours. Others may follow suit",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us",
-      "pubDate": "Tue, 14 Jul 2026 10:46:11 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1036x583+8+0/resize/1036x583!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F38%2F8a5de8d3489bbdaf0148728e2409%2Fvisa.jpg"
-    },
-    {
-      "title": "Inflation slowed sharply -- but it may not last",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve",
-      "pubDate": "Tue, 14 Jul 2026 10:40:20 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F0f%2F3d7c06344d9ea5c6b2bf053b9e36%2Fgettyimages-2281933921.jpg"
+      "title": "Heat Dome Broils the Western U.S.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/",
+      "pubDate": "Wed, 15 Jul 2026 04:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712.jpg?w=2160&#038;h=1640&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "NASA Invites Media to Serbia Artemis Accords Signing Ceremony",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04942_opgs_edr_ncam_NLB_836217572EDR_F1230102NCAM00290M_.jpg?w=1024&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA Study Points to Smoother Air Taxi Rides",
-      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
-      "pubDate": "Mon, 13 Jul 2026 21:46:11 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048"
     },
     {
       "title": "Bungee-jumping mice may reveal why astronauts skip on the Moon",
@@ -326,7 +326,7 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 71,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
