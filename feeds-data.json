@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T21:55:36.076Z",
+  "generatedAt": "2026-07-15T02:12:41.589Z",
   "items": [
     {
       "title": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
@@ -130,6 +130,22 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg?w=2048"
     },
     {
+      "title": "Bungee-jumping mice may reveal why astronauts skip on the Moon",
+      "link": "https://www.science.org/content/article/bungee-jumping-mice-may-reveal-why-astronauts-skip-moon",
+      "pubDate": "2026-07-14T05:35:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "U.S. researchers outraged at proposed changes to federal grants",
+      "link": "https://www.science.org/content/article/u-s-researchers-outraged-proposed-changes-federal-grants",
+      "pubDate": "2026-07-14T05:30:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Astrónomo maya identificado por primera vez gracias a firma en un mural",
       "link": "https://www.science.org/content/article/astronomo-maya-identificado-por-primera-vez-gracias-firma-en-un-mural",
       "pubDate": "2026-07-14T04:50:00.000Z",
@@ -178,22 +194,6 @@
       "thumbnail": null
     },
     {
-      "title": "Ancient DNA solves Medici murder mystery",
-      "link": "https://www.science.org/content/article/ancient-dna-solves-medici-murder-mystery",
-      "pubDate": "2026-07-10T05:05:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "DNA could act like a famed gravity-defying pump",
-      "link": "https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump",
-      "pubDate": "2026-07-10T02:23:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
       "title": "Bird flu H5N1 in Australia: protect Australian species from bird flu virus",
       "link": "https://www.nature.com/articles/d41586-026-02188-y",
       "pubDate": "2026-07-14T00:00:00.000Z",
@@ -234,6 +234,14 @@
       "thumbnail": null
     },
     {
+      "title": "‘Dark comet’ unmasked by its mysterious motions ",
+      "link": "https://www.nature.com/articles/d41586-026-02192-2",
+      "pubDate": "2026-07-14T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Seeking an industry role after your PhD? Make sure your CV reflects that",
       "link": "https://www.nature.com/articles/d41586-026-01855-4",
       "pubDate": "2026-07-14T00:00:00.000Z",
@@ -244,14 +252,6 @@
     {
       "title": "Africa’s response to this Ebola outbreak shows how to shape global health",
       "link": "https://www.nature.com/articles/d41586-026-02148-6",
-      "pubDate": "2026-07-14T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "DNA-shredding CRISPR enzyme takes aim at cancer cells",
-      "link": "https://www.nature.com/articles/d41586-026-02122-2",
       "pubDate": "2026-07-14T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -326,18 +326,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/hot?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 72,
+        "temperature": 71,
         "temperatureUnit": "F",
-        "shortForecast": "Clear",
-        "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Wednesday",
@@ -352,6 +345,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Smoke",
         "icon": "https://api.weather.gov/icons/land/night/smoke?size=medium"
+      },
+      {
+        "name": "Thursday",
+        "temperature": 92,
+        "temperatureUnit": "F",
+        "shortForecast": "Smoke",
+        "icon": "https://api.weather.gov/icons/land/day/smoke/tsra_hi,20?size=medium"
       }
     ]
   }
