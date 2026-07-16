@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T02:25:19.543Z",
+  "generatedAt": "2026-07-16T05:38:23.731Z",
   "items": [
     {
       "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
@@ -64,6 +64,70 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3510x2089+0+0/resize/3510x2089!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2Fed%2Fc33fea8742d69b5efbff951c9a85%2Fap26181126175585.jpg"
+    },
+    {
+      "title": "Ontario Wildfire Smoke Moves East",
+      "link": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
+      "pubDate": "Thu, 16 Jul 2026 04:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
+      "pubDate": "Wed, 15 Jul 2026 21:56:38 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2024/12/afrc2024-0166-033orig.jpg?w=1536"
+    },
+    {
+      "title": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
+      "link": "https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+      "pubDate": "Wed, 15 Jul 2026 19:28:53 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/sciadv.aea2105-f2_HillsboroughClasts.jpg?w=3000&#038;h=1792&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings",
+      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/",
+      "pubDate": "Wed, 15 Jul 2026 18:50:52 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://images-assets.nasa.gov/image/art002e021278/art002e021278~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "Anil Menon Launches to Space Station",
+      "link": "https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/",
+      "pubDate": "Wed, 15 Jul 2026 18:48:36 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/nhq20260714-admin-0014orig.jpg?w=1365"
+    },
+    {
+      "title": "Curiosity Finds Evidence of an Ancient Sandstorm",
+      "link": "https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/",
+      "pubDate": "Wed, 15 Jul 2026 18:16:45 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26728/PIA26728.png?w=3498&#038;h=1188&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA’s Perseverance Rover Provides Sweeping View of Broom Point",
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/",
+      "pubDate": "Wed, 15 Jul 2026 17:59:50 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26755/PIA26755.png?w=4452&#038;h=1574&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "Perseverance’s Trip to ‘Broom Point’",
+      "link": "https://science.nasa.gov/photojournal/perseverances-trip-to-broom-point/",
+      "pubDate": "Wed, 15 Jul 2026 17:27:10 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26754/PIA26754.png?w=4505&#038;h=1774&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "A <em>T. rex</em> named Gus is now the most expensive fossil ever sold",
@@ -262,32 +326,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 71,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy then Patchy Fog",
-        "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium"
+        "shortForecast": "Areas Of Smoke",
+        "icon": "https://api.weather.gov/icons/land/night/smoke?size=medium"
       },
       {
         "name": "Thursday",
         "temperature": 90,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Fog then Isolated Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/fog/tsra_hi,30?size=medium"
+        "shortForecast": "Patchy Smoke then Slight Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/smoke/tsra_hi,40?size=medium"
       },
       {
         "name": "Thursday Night",
         "temperature": 69,
         "temperatureUnit": "F",
-        "shortForecast": "Isolated Showers And Thunderstorms then Areas Of Smoke",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/tsra_hi?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,40/bkn?size=medium"
       },
       {
         "name": "Friday",
-        "temperature": 90,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "shortForecast": "Areas Of Smoke then Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/smoke/tsra_hi,30?size=medium"
+        "shortForecast": "Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra_hi,30?size=medium"
       }
     ]
   }
