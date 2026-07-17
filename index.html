@@ -10,9 +10,59 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>My News Hub</h1>
-    <p class="subtitle">A curated feed of the sources I follow</p>
+  <header class="hero-ocean">
+    <svg class="hero-svg" viewBox="0 0 1200 320" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <defs>
+        <linearGradient id="skyToSea" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#cabdf2"/>
+          <stop offset="30%" stop-color="#8b93d8"/>
+          <stop offset="62%" stop-color="#4c6e93"/>
+          <stop offset="100%" stop-color="#1f4959"/>
+        </linearGradient>
+      </defs>
+      <rect x="0" y="0" width="1200" height="300" fill="url(#skyToSea)"/>
+      <ellipse cx="620" cy="70" rx="720" ry="34" fill="#ffffff" opacity="0.14"/>
+
+      <!-- manta ray -->
+      <g transform="translate(210,110)">
+        <g class="creature manta">
+          <path d="M0,-8 C-58,-38 -104,-10 -128,0 C-104,10 -58,38 0,8 C58,38 104,10 128,0 C104,-10 58,-38 0,-8 Z" fill="#6f5fa0" opacity="0.92"/>
+          <path d="M-8,-4 Q-22,-15 -32,-7 Q-22,-1 -8,4 Z" fill="#6f5fa0"/>
+          <path d="M0,5 Q5,28 -3,50" stroke="#6f5fa0" stroke-width="3" fill="none" stroke-linecap="round"/>
+        </g>
+      </g>
+
+      <!-- koi -->
+      <g transform="translate(860,68) scale(0.85)">
+        <g class="creature koi">
+          <ellipse cx="0" cy="0" rx="46" ry="16" fill="#fdf6ed"/>
+          <polygon points="-46,0 -72,-15 -72,15" fill="#f2a679"/>
+          <polygon points="8,-15 24,-27 29,-6" fill="#f2a679" opacity="0.9"/>
+          <polygon points="8,15 24,27 29,6" fill="#f2a679" opacity="0.9"/>
+          <circle cx="18" cy="-4" r="6" fill="#e8785a"/>
+          <circle cx="-4" cy="6" r="5" fill="#e8785a"/>
+          <circle cx="34" cy="0" r="2.5" fill="#2a2a2a"/>
+          <path d="M40,2 Q53,9 59,4" stroke="#e8785a" stroke-width="1.5" fill="none"/>
+          <path d="M40,-2 Q53,-9 59,-4" stroke="#e8785a" stroke-width="1.5" fill="none"/>
+        </g>
+      </g>
+
+      <!-- gar -->
+      <g transform="translate(520,225) scale(1.05)">
+        <g class="creature gar">
+          <path d="M-70,0 Q-40,-8 0,-4 Q40,-2 78,0 Q40,2 0,4 Q-40,8 -70,0 Z" fill="#6fa98c"/>
+          <polygon points="78,0 97,-3 97,3" fill="#4c8f5c"/>
+          <polygon points="-70,0 -85,-11 -85,11" fill="#4c8f5c"/>
+          <circle cx="58" cy="-1" r="2" fill="#20342a"/>
+        </g>
+      </g>
+
+      <path d="M0,272 C300,315 900,232 1200,272 L1200,300 L0,300 Z" style="fill:var(--bg)"/>
+    </svg>
+    <div class="hero-text">
+      <h1>My <span class="accent">News</span> Hub</h1>
+      <p class="subtitle">A curated feed of the sources I follow</p>
+    </div>
   </header>
 
   <section id="weather-root" class="category"></section>
