@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-16T22:02:08.395Z",
+  "generatedAt": "2026-07-17T02:27:49.696Z",
   "items": [
+    {
+      "title": "An analysis of President Trump's address",
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5896487/an-analysis-of-president-trumps-address",
+      "pubDate": "Thu, 16 Jul 2026 21:38:04 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "White House says ICE traffic stops will continue after deadly shootings",
       "link": "https://www.npr.org/2026/07/16/nx-s1-5896396/ice-traffic-stops-shootings",
@@ -10,7 +18,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F43%2Fe90733de43a1b293c812f7d83831%2Fgettyimages-2285754957.jpg"
     },
     {
-      "title": "Flood sirens blare in southcentral Texas as rivers reach perilous heights",
+      "title": "Flood sirens blare in South Central Texas as rivers reach perilous heights",
       "link": "https://www.npr.org/2026/07/16/nx-s1-5896458/flood-sirens-texas-rivers-reach-dangerous-heights",
       "pubDate": "Thu, 16 Jul 2026 17:30:03 -0400",
       "source": "NPR News",
@@ -18,12 +26,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8234x5489+0+0/resize/8234x5489!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F63%2F21930e67454e9d86aa663e0a79a9%2Fgettyimages-2286415760.jpg"
     },
     {
-      "title": "After years of false claims on voting, Trump to give an address on election integrity",
+      "title": "After years of false claims on elections, Trump alleges 'shocking vulnerabilities'",
       "link": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
       "pubDate": "Thu, 16 Jul 2026 16:50:26 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5527x3940+0+0/resize/5527x3940!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2Fc6%2F2fee43d4477d8f66297d7a45c035%2Fgettyimages-2286276355.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7679x5171+0+0/resize/7679x5171!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F13%2F11fcc11940bd86dc82c110d32c1a%2Fgettyimages-2285783761.jpg"
+    },
+    {
+      "title": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota",
+      "pubDate": "Thu, 16 Jul 2026 16:32:27 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc0%2F06%2F84459d6048b38f75da7cdb321dda%2Fgettyimages-2286420676.jpg"
     },
     {
       "title": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
@@ -50,20 +66,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x4284+0+0/resize/5712x4284!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2Fa5%2Fff0a2f1f494d86daa3d7d2a7b917%2Fap26196480132620.jpg"
     },
     {
-      "title": "Trump wants a permanent fence around the D.C. park known for White House protests",
-      "link": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
-      "pubDate": "Thu, 16 Jul 2026 08:13:23 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2332x1368+0+0/resize/2332x1368!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8e%2F0f%2F21d3d8cf43c9928686646bec2421%2Flafayette-render.png"
-    },
-    {
-      "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
-      "link": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
-      "pubDate": "Thu, 16 Jul 2026 07:33:11 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5958x3972+0+0/resize/5958x3972!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2Fc4%2F23f12e8a4ac8bcb0e3135a047b91%2Fgettyimages-2285691587.jpg"
+      "title": "NASA Welcomes Serbia as Newest Artemis Accords Signatory ",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/",
+      "pubDate": "Thu, 16 Jul 2026 22:37:19 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/serbia.jpg?w=2048"
     },
     {
       "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
@@ -122,12 +130,12 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/nhq20260714-admin-0014orig.jpg?w=1365"
     },
     {
-      "title": "Curiosity Finds Evidence of an Ancient Sandstorm",
-      "link": "https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/",
-      "pubDate": "Wed, 15 Jul 2026 18:16:45 +0000",
-      "source": "NASA",
+      "title": "Alzheimer’s trial results lend momentum to strategies targeting tau",
+      "link": "https://www.science.org/content/article/alzheimer-s-trial-results-lend-momentum-strategies-targeting-tau",
+      "pubDate": "2026-07-16T05:35:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26728/PIA26728.png?w=3498&#038;h=1188&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
       "title": "Rocked by aid cuts, Malawi rethinks how it funds health",
@@ -181,14 +189,6 @@
       "title": "A <em>T. rex</em> named Gus is now the most expensive fossil ever sold",
       "link": "https://www.science.org/content/article/t-rex-named-gus-now-most-expensive-fossil-ever-sold",
       "pubDate": "2026-07-15T05:10:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Scandinavian radar array will probe mysteries of the northern lights",
-      "link": "https://www.science.org/content/article/scandinavian-radar-array-will-probe-mysteries-northern-lights",
-      "pubDate": "2026-07-15T05:00:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -326,32 +326,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 91,
-        "temperatureUnit": "F",
-        "shortForecast": "Areas Of Smoke",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 68,
         "temperatureUnit": "F",
-        "shortForecast": "Areas Of Smoke",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/tsra_hi?size=medium"
+        "shortForecast": "Smoke",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,20/tsra_sct?size=medium"
       },
       {
         "name": "Friday",
         "temperature": 90,
         "temperatureUnit": "F",
-        "shortForecast": "Areas Of Smoke then Isolated Showers And Thunderstorms",
+        "shortForecast": "Areas Of Smoke then Slight Chance Showers And Thunderstorms",
         "icon": "https://api.weather.gov/icons/land/day/smoke/tsra_hi,20?size=medium"
       },
       {
         "name": "Friday Night",
         "temperature": 73,
         "temperatureUnit": "F",
-        "shortForecast": "Scattered Showers And Thunderstorms then Mostly Clear",
+        "shortForecast": "Chance Showers And Thunderstorms then Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/few?size=medium"
+      },
+      {
+        "name": "Saturday",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "shortForecast": "Isolated Rain Showers then Isolated Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra_hi,20?size=medium"
       }
     ]
   }
