@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-17T02:27:49.696Z",
+  "generatedAt": "2026-07-17T05:40:58.293Z",
   "items": [
+    {
+      "title": "Japan revises law to ensure supply of (male) heirs to the imperial throne",
+      "link": "https://www.npr.org/2026/07/17/g-s1-133536/japan-revises-law-to-ensure-supply-of-male-heirs-to-the-imperial-throne",
+      "pubDate": "Fri, 17 Jul 2026 01:29:46 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4327x2885+0+0/resize/4327x2885!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F10%2F47a4ee14413f879cdd72dd339d34%2Fgettyimages-2254321285.jpg"
+    },
     {
       "title": "An analysis of President Trump's address",
       "link": "https://www.npr.org/2026/07/16/nx-s1-5896487/an-analysis-of-president-trumps-address",
@@ -26,7 +34,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8234x5489+0+0/resize/8234x5489!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F63%2F21930e67454e9d86aa663e0a79a9%2Fgettyimages-2286415760.jpg"
     },
     {
-      "title": "After years of false claims on elections, Trump alleges 'shocking vulnerabilities'",
+      "title": "In primetime speech, Trump doesn't provide evidence for illegal voting",
       "link": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
       "pubDate": "Thu, 16 Jul 2026 16:50:26 -0400",
       "source": "NPR News",
@@ -58,12 +66,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4106x2866+0+0/resize/4106x2866!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2F83%2F64884889444d943d3ddbd0f24a87%2Fgettyimages-2178034883.jpg"
     },
     {
-      "title": "Hong Kong official warns booksellers on security risks after raids",
-      "link": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
-      "pubDate": "Thu, 16 Jul 2026 09:31:33 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x4284+0+0/resize/5712x4284!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2Fa5%2Fff0a2f1f494d86daa3d7d2a7b917%2Fap26196480132620.jpg"
+      "title": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+      "pubDate": "Fri, 17 Jul 2026 04:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/bijagosarchipelago_oli_20251128.jpg?w=1440&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "NASA Welcomes Serbia as Newest Artemis Accords Signatory ",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://images-assets.nasa.gov/image/art002e021278/art002e021278~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Anil Menon Launches to Space Station",
-      "link": "https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/",
-      "pubDate": "Wed, 15 Jul 2026 18:48:36 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/nhq20260714-admin-0014orig.jpg?w=1365"
     },
     {
       "title": "Alzheimer’s trial results lend momentum to strategies targeting tau",
@@ -326,32 +326,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
-        "temperature": 68,
+        "name": "Overnight",
+        "temperature": 69,
         "temperatureUnit": "F",
         "shortForecast": "Smoke",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,20/tsra_sct?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/smoke?size=medium"
       },
       {
         "name": "Friday",
-        "temperature": 90,
+        "temperature": 91,
         "temperatureUnit": "F",
         "shortForecast": "Areas Of Smoke then Slight Chance Showers And Thunderstorms",
         "icon": "https://api.weather.gov/icons/land/day/smoke/tsra_hi,20?size=medium"
       },
       {
         "name": "Friday Night",
-        "temperature": 73,
+        "temperature": 74,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms then Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/few?size=medium"
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Saturday",
-        "temperature": 88,
+        "temperature": 89,
         "temperatureUnit": "F",
-        "shortForecast": "Isolated Rain Showers then Isolated Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra_hi,20?size=medium"
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       }
     ]
   }
