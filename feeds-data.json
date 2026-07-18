@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T02:12:56.465Z",
+  "generatedAt": "2026-07-18T05:23:29.828Z",
   "items": [
     {
       "title": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
@@ -326,29 +326,29 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
-        "temperature": 74,
+        "name": "Overnight",
+        "temperature": 75,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Slight Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium"
       },
       {
         "name": "Saturday",
-        "temperature": 89,
+        "temperature": 88,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+        "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/sct?size=medium"
       },
       {
         "name": "Saturday Night",
-        "temperature": 63,
+        "temperature": 62,
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy then Areas Of Smoke",
         "icon": "https://api.weather.gov/icons/land/night/sct/smoke?size=medium"
       },
       {
         "name": "Sunday",
-        "temperature": 85,
+        "temperature": 82,
         "temperatureUnit": "F",
         "shortForecast": "Areas Of Smoke",
         "icon": "https://api.weather.gov/icons/land/day/smoke?size=medium"
