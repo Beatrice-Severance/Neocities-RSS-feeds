@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T21:50:21.313Z",
+  "generatedAt": "2026-07-20T02:45:23.441Z",
   "items": [
     {
       "title": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
@@ -326,17 +326,10 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "shortForecast": "Areas Of Smoke",
-        "icon": "https://api.weather.gov/icons/land/day/smoke?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 63,
         "temperatureUnit": "F",
-        "shortForecast": "Areas Of Smoke",
+        "shortForecast": "Patchy Smoke",
         "icon": "https://api.weather.gov/icons/land/night/smoke?size=medium"
       },
       {
@@ -352,6 +345,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms",
         "icon": "https://api.weather.gov/icons/land/night/tsra_hi,70/tsra_hi,20?size=medium"
+      },
+      {
+        "name": "Tuesday",
+        "temperature": 83,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       }
     ]
   }
