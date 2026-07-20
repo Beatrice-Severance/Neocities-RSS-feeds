@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-20T11:43:12.988Z",
+  "generatedAt": "2026-07-20T14:01:15.258Z",
   "items": [
+    {
+      "title": "Putin meets North Korean foreign minister in diplomatic push",
+      "link": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
+      "pubDate": "Mon, 20 Jul 2026 09:18:51 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4022x2681+0+0/resize/4022x2681!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2Fa1%2F23c57f044a9dac4406254ce76eac%2Fap26200603941244.jpg"
+    },
+    {
+      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+      "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
+      "pubDate": "Mon, 20 Jul 2026 07:40:28 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "At least 930 people have died in Congo's Ebola outbreak",
       "link": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
@@ -26,7 +42,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2Fce%2F2594826843389b09f28b9b6ce602%2F260717-lk-distresstolerance-dig-16x9.jpg"
     },
     {
-      "title": "'I just wanted to give up': Disabled patients face Medicaid denials from IT errors",
+      "title": "Deloitte-run systems denied Medicaid to disabled people. New laws could make it worse",
       "link": "https://www.npr.org/2026/07/20/nx-s1-5896359/medicaid-disabled-patients-denied-deloitte-michigan",
       "pubDate": "Mon, 20 Jul 2026 05:00:00 -0400",
       "source": "NPR News",
@@ -42,28 +58,20 @@
       "thumbnail": null
     },
     {
-      "title": "Keir Starmer resigns, Andy Burnham becomes U.K. prime minister",
+      "title": "Andy Burnham becomes U.K. prime minister",
       "link": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
       "pubDate": "Mon, 20 Jul 2026 04:41:42 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3989x2660+0+0/resize/3989x2660!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2F3a%2Fd0046c1b4cc7bb634db50cc2f3fc%2Fap26198468362635.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3247x2165+0+0/resize/3247x2165!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd2%2Fca%2F139b12ce489bb8e529ea7ba999f1%2Fap26201426207805.jpg"
     },
     {
-      "title": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
-      "link": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber",
-      "pubDate": "Sun, 19 Jul 2026 17:29:52 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5925x3950+0+0/resize/5925x3950!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F09%2Fc6c13cdf4cc6a45b1fab7fbf1961%2Fgettyimages-2286180531.jpg"
-    },
-    {
-      "title": "Who is Andy Burnham, the U.K.'s new prime minister?",
-      "link": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
-      "pubDate": "Sun, 19 Jul 2026 12:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6975x4650+0+0/resize/6975x4650!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F1e%2F8bd362044c85854297f900887396%2Fgettyimages-2285822442.jpg"
+      "title": "Shaping the Emerald City",
+      "link": "https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/",
+      "pubDate": "Mon, 20 Jul 2026 04:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shaping-the-emerald-city/ISS074-E-723719.jpg?w=2160&#038;h=1440&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "NASA Pushes New Wing Design to Find Structural Limits",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg?w=1080"
-    },
-    {
-      "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
-      "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
-      "pubDate": "Fri, 17 Jul 2026 17:38:38 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26749/PIA26749.png?w=2363&#038;h=1360&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Trump administration ends dozens of grants for studying patient care",
@@ -330,18 +330,18 @@
         "temperature": 87,
         "temperatureUnit": "F",
         "shortForecast": "Patchy Smoke",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,40/tsra_sct,20?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,70/tsra_sct,60?size=medium"
       },
       {
         "name": "Tonight",
         "temperature": 69,
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,90/sct?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,80/sct?size=medium"
       },
       {
         "name": "Tuesday",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
         "shortForecast": "Patchy Smoke then Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/smoke/sct?size=medium"
