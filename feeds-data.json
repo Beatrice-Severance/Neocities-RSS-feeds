@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-20T16:22:41.422Z",
+  "generatedAt": "2026-07-20T19:41:22.758Z",
   "items": [
+    {
+      "title": "Court ruling freezes Paramount-Warner Bros. merger for now",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5900888/paramount-wbd-tro-restraining-lawsuit",
+      "pubDate": "Mon, 20 Jul 2026 13:55:31 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4895x3263+0+0/resize/4895x3263!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2F49%2Fc279919a4f79899f76e496ac2d68%2Fgettyimages-2250352798.jpg"
+    },
+    {
+      "title": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests",
+      "pubDate": "Mon, 20 Jul 2026 12:36:04 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x4024+0+0/resize/6048x4024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2F0c%2F38c9af504e95b57983ae9d1d0fd5%2Fap26201449245142.jpg"
+    },
     {
       "title": "Putin meets North Korean foreign minister in diplomatic push",
       "link": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
@@ -50,20 +66,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2Fce%2F2594826843389b09f28b9b6ce602%2F260717-lk-distresstolerance-dig-16x9.jpg"
     },
     {
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief",
-      "pubDate": "Mon, 20 Jul 2026 04:43:08 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
+      "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+      "link": "https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/",
+      "pubDate": "Mon, 20 Jul 2026 18:54:44 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg?w=1920"
     },
     {
-      "title": "Andy Burnham becomes U.K. prime minister",
-      "link": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
-      "pubDate": "Mon, 20 Jul 2026 04:41:42 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3247x2165+0+0/resize/3247x2165!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd2%2Fca%2F139b12ce489bb8e529ea7ba999f1%2Fap26201426207805.jpg"
+      "title": "New NASA Earth Missions Gear Up to Start Science Flights  ",
+      "link": "https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/",
+      "pubDate": "Mon, 20 Jul 2026 18:25:11 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/LRC-2026-OCIO_P-01034.jpg?w=7145&#038;h=4763&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet",
@@ -112,22 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/10-1177-1358863x221086619-fig2.jpg?w=947"
-    },
-    {
-      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center ",
-      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
-      "pubDate": "Fri, 17 Jul 2026 20:34:59 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
-      "link": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
-      "pubDate": "Fri, 17 Jul 2026 20:05:23 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg?w=2048"
     },
     {
       "title": "Goats love to bash heads—but it might give them brain damage",
@@ -326,11 +326,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
+        "name": "This Afternoon",
         "temperature": 85,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Smoke",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,40?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Tonight",
@@ -348,7 +348,7 @@
       },
       {
         "name": "Tuesday Night",
-        "temperature": 55,
+        "temperature": 54,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
