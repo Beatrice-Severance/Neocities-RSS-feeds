@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T02:45:23.441Z",
+  "generatedAt": "2026-07-20T06:16:06.520Z",
   "items": [
     {
       "title": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
@@ -326,7 +326,7 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 63,
         "temperatureUnit": "F",
         "shortForecast": "Patchy Smoke",
@@ -334,24 +334,24 @@
       },
       {
         "name": "Monday",
-        "temperature": 88,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/tsra_hi,40?size=medium"
+        "shortForecast": "Patchy Smoke",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,40/tsra_sct,20?size=medium"
       },
       {
         "name": "Monday Night",
-        "temperature": 70,
+        "temperature": 69,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,70/tsra_hi,20?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,90/sct?size=medium"
       },
       {
         "name": "Tuesday",
-        "temperature": 83,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+        "shortForecast": "Patchy Smoke then Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/smoke/few?size=medium"
       }
     ]
   }
