@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-21T02:28:59.254Z",
+  "generatedAt": "2026-07-21T05:48:32.682Z",
   "items": [
+    {
+      "title": "Powerball ticket sales begin Tuesday in the United Kingdom",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5901828/powerball-begin-united-kingdom",
+      "pubDate": "Tue, 21 Jul 2026 01:28:53 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F85%2F5b%2Fcf6e9eb5446a8c5f5b025762aef0%2Fap26201771737222.jpg"
+    },
     {
       "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
       "link": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test",
@@ -58,12 +66,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4022x2681+0+0/resize/4022x2681!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2Fa1%2F23c57f044a9dac4406254ce76eac%2Fap26200603941244.jpg"
     },
     {
-      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
-      "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
-      "pubDate": "Mon, 20 Jul 2026 07:40:28 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
+      "title": "Why Maine’s Sandy Shorelines Turn Jagged",
+      "link": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
+      "pubDate": "Tue, 21 Jul 2026 04:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/why-maine"
     },
     {
       "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/afrc2025-0136-2115-copy.jpeg?w=1536"
-    },
-    {
-      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
-      "link": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
-      "pubDate": "Fri, 17 Jul 2026 22:32:27 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26586/PIA26586.png?w=1648&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "U.S. judge rejects Trump’s justification for terminating thousands of grants",
@@ -326,29 +326,29 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 69,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/sct?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Tuesday",
-        "temperature": 80,
+        "temperature": 82,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Tuesday Night",
-        "temperature": 54,
+        "temperature": 56,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Wednesday",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
