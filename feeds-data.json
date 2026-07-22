@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-21T22:01:51.887Z",
+  "generatedAt": "2026-07-22T02:27:59.140Z",
   "items": [
+    {
+      "title": "House votes to extend government funding, aiming to avoid an election year shutdown",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5902245/government-funding-house-vote-continuing-resolution",
+      "pubDate": "Tue, 21 Jul 2026 22:20:15 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5178x3452+0+0/resize/5178x3452!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2F05%2Fb3f1fb714c06922e496305a62f50%2Fap26198586834014.jpg"
+    },
     {
       "title": "Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans",
       "link": "https://www.npr.org/2026/07/21/nx-s1-5902101/smithsonian-house-hearing",
@@ -58,12 +66,12 @@
       "thumbnail": null
     },
     {
-      "title": "Defense Secretary Pete Hegseth goes to the Hill with nearly $90B funding request",
-      "link": "https://www.npr.org/2026/07/21/nx-s1-5900838/defense-secretary-pete-hegseth-goes-to-the-hill-with-350b-funding-request",
-      "pubDate": "Tue, 21 Jul 2026 06:41:41 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
+      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica",
+      "link": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
+      "pubDate": "Wed, 22 Jul 2026 00:33:08 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26617/PIA26617.png?w=4200&#038;h=3300&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "NASA to Host Media Briefing on Roman Telescope, Launching Next Month",
@@ -122,12 +130,12 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-sobron.png?w=889"
     },
     {
-      "title": "Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness ",
-      "link": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
-      "pubDate": "Tue, 21 Jul 2026 15:23:46 +0000",
-      "source": "NASA",
+      "title": "Chimps and bonobos hug and hold hands just like us",
+      "link": "https://www.science.org/content/article/chimps-and-bonobos-hug-and-hold-hands-just-us",
+      "pubDate": "2026-07-21T07:01:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-smith.png?w=1409"
+      "thumbnail": null
     },
     {
       "title": "Rapid spread of Ebola spurs ‘remarkably’ quick drug and vaccine trials",
@@ -181,14 +189,6 @@
       "title": "China’s detention of U.S. seismologist and data-sharing crackdown alarm researchers",
       "link": "https://www.science.org/content/article/china-s-detention-u-s-seismologist-and-data-sharing-crackdown-alarm-researchers",
       "pubDate": "2026-07-17T04:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "U.K. government details plan for dramatic aid cuts to African nations",
-      "link": "https://www.science.org/content/article/u-k-government-details-plan-dramatic-aid-cuts-african-nations",
-      "pubDate": "2026-07-17T02:50:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -326,22 +326,15 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 81,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 55,
+        "temperature": 54,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Wednesday",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
@@ -352,6 +345,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Thursday",
+        "temperature": 80,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       }
     ]
   }
