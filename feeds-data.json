@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T05:51:27.402Z",
+  "generatedAt": "2026-07-23T08:26:00.249Z",
   "items": [
     {
       "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
@@ -327,21 +327,21 @@
     "periods": [
       {
         "name": "Overnight",
-        "temperature": 52,
+        "temperature": 54,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Thursday",
-        "temperature": 77,
+        "temperature": 78,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Thursday Night",
-        "temperature": 58,
+        "temperature": 59,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
@@ -350,8 +350,8 @@
         "name": "Friday",
         "temperature": 80,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       }
     ]
   }
