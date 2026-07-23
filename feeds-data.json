@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T22:02:39.819Z",
+  "generatedAt": "2026-07-23T02:32:19.318Z",
   "items": [
     {
-      "title": "House passes Pentagon funding and limits on stock trades in a last dash before recess",
+      "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
       "link": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation",
       "pubDate": "Wed, 22 Jul 2026 17:51:19 -0400",
       "source": "NPR News",
@@ -130,6 +130,14 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920"
     },
     {
+      "title": "White House report calls for big changes to ‘calcified’ U.S. science system",
+      "link": "https://www.science.org/content/article/white-house-report-calls-big-changes-calcified-u-s-science-system",
+      "pubDate": "2026-07-22T06:30:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Contagious fish cancer overruns New England lake",
       "link": "https://www.science.org/content/article/contagious-fish-cancer-overruns-new-england-lake",
       "pubDate": "2026-07-22T11:00:00.000Z",
@@ -186,10 +194,10 @@
       "thumbnail": null
     },
     {
-      "title": "Trump administration ends dozens of grants for studying patient care",
-      "link": "https://www.science.org/content/article/trump-administration-officially-ends-dozens-grants-studying-patient-care",
-      "pubDate": "2026-07-17T06:15:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Could small-team science be dying out?",
+      "link": "https://www.nature.com/articles/d41586-026-02174-4",
+      "pubDate": "2026-07-23T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
@@ -244,14 +252,6 @@
     {
       "title": "Non-epitaxial perovskite polariton laser diode operating under direct current",
       "link": "https://www.nature.com/articles/s41586-026-10824-w",
-      "pubDate": "2026-07-22T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Prior therapy defines mutation profiles in childhood cancer at relapse",
-      "link": "https://www.nature.com/articles/s41586-026-10803-1",
       "pubDate": "2026-07-22T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -322,5 +322,37 @@
       "thumbnail": "https://dims.apnews.com/dims4/default/ead9d22/2147483647/strip/false/crop/1280x720+0+0/resize/980x551!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F99%2F5366fc344cc2b3672ec1969f47bb%2Ftapestry-thumb.png"
     }
   ],
-  "weather": null
+  "weather": {
+    "location": "Madison, WI",
+    "periods": [
+      {
+        "name": "Tonight",
+        "temperature": 52,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Thursday",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+      },
+      {
+        "name": "Thursday Night",
+        "temperature": 58,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+      },
+      {
+        "name": "Friday",
+        "temperature": 80,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+      }
+    ]
+  }
 }
