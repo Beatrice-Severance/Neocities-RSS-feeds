@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-07-23T19:13:07.897Z",
+  "generatedAt": "2026-07-23T22:02:03.759Z",
   "items": [
+    {
+      "title": "How to keep an ancient text interesting to students? Make it a summer blockbuster",
+      "link": "https://www.npr.org/2026/07/23/nx-s1-5903075/odyssey-movie-english-teachers-school",
+      "pubDate": "Thu, 23 Jul 2026 16:37:47 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3074x2049+0+0/resize/3074x2049!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2F4c%2Fa3bee50e43fab4f64965c0a7ac14%2Fct-03414.jpg"
+    },
+    {
+      "title": "Egyptian warrior princesses, ancient avocados, and more science news",
+      "link": "https://www.npr.org/2026/07/23/nx-s1-5897598/egyptian-warrior-princesses-ancient-avocados-and-more-science-news",
+      "pubDate": "Thu, 23 Jul 2026 16:36:23 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "Trump cuts target federal advisory boards. What does it mean for agencies like NASA?",
+      "link": "https://www.npr.org/2026/07/23/nx-s1-5869732/trump-cuts-target-federal-advisory-boards-what-does-it-mean-for-agencies-like-nasa",
+      "pubDate": "Thu, 23 Jul 2026 16:33:52 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "Invasive species cause more harm in the Global South",
+      "link": "https://www.npr.org/2026/07/23/nx-s1-5902194/invasive-species-cause-more-harm-in-the-global-south",
+      "pubDate": "Thu, 23 Jul 2026 16:33:18 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "Trump allies are poised to weaken protections for historic sites — not just in D.C.",
+      "link": "https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council",
+      "pubDate": "Thu, 23 Jul 2026 16:14:58 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F40%2F14%2Fa04f9fb14180bd09d55df4b48222%2Fap26176738848836-1.jpg"
+    },
     {
       "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
       "link": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote",
@@ -26,44 +66,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6200x3736+0+0/resize/6200x3736!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2Fe0%2Ffe3b1de544f6825c99bb7abc3e34%2Fgettyimages-2257020568.jpg"
     },
     {
-      "title": "Get into med school in the graphic memoir 'See One, Do One, Teach One'",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5901975/med-school-graphic-memoir-grace-farris",
-      "pubDate": "Thu, 23 Jul 2026 08:36:29 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1132x1500+0+0/resize/1132x1500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F6a%2F5a3adfaf45649f71195df4bb0472%2F71qvnjflgml-sl1500.jpg"
-    },
-    {
-      "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
-      "link": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
-      "pubDate": "Thu, 23 Jul 2026 07:39:57 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
-    },
-    {
-      "title": "This AI tool promises a 'second pair of eyes' to clinicians. Did patients benefit?",
-      "link": "https://www.npr.org/2026/07/23/g-s1-134929/ai-artificial-intelligence-healthcare",
-      "pubDate": "Thu, 23 Jul 2026 07:36:52 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Fad%2F25dd07484e36918187a378aa44ac%2Fai-health-clinic-1209293318.jpg"
-    },
-    {
-      "title": "Why health officials do not have a good handle on the current Ebola outbreak",
-      "link": "https://www.npr.org/2026/07/23/g-s1-134959/ebola-outbreak-democratic-republic-congo",
-      "pubDate": "Thu, 23 Jul 2026 07:23:43 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2Fdc%2F1713b90145b39777278f77ca5608%2Febola-contact-tracing-2277596614.jpg"
-    },
-    {
-      "title": "Trump says Saudi Arabia's nuclear deal hinges on the kingdom normalizing Israel ties",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
-      "pubDate": "Thu, 23 Jul 2026 06:55:44 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F61%2F5123cd8e429a879c6fd9db14e84a%2Fgettyimages-2247380580.jpg"
+      "title": "Look for NASA+ Now Streaming on Amazon Fire TV",
+      "link": "https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/",
+      "pubDate": "Thu, 23 Jul 2026 19:11:29 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/nasa-image.jpeg?w=785"
     },
     {
       "title": "Crews Move Artemis IV Liquid Hydrogen Tank",
@@ -122,12 +130,20 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/williams.jpg?w=2048"
     },
     {
-      "title": "A New Look – and Sound – for Messier 94",
-      "link": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
-      "pubDate": "Wed, 22 Jul 2026 16:45:52 +0000",
-      "source": "NASA",
+      "title": "Four takeaways from our investigation into a hidden gene-editing death",
+      "link": "https://www.science.org/content/article/four-takeaways-our-investigation-hidden-gene-editing-death",
+      "pubDate": "2026-07-23T05:00:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/250th-ngc4736.jpg?w=864"
+      "thumbnail": null
+    },
+    {
+      "title": "The Genesis Mission, the Department of Energy’s big AI push, unveils first grants",
+      "link": "https://www.science.org/content/article/genesis-mission-department-energy-s-big-ai-push-unveils-first-grants",
+      "pubDate": "2026-07-23T04:35:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
     },
     {
       "title": "Exclusive: Death of girl in Chinese gene-editing trial was never made public",
@@ -178,22 +194,6 @@
       "thumbnail": null
     },
     {
-      "title": "Rapid spread of Ebola spurs ‘remarkably’ quick drug and vaccine trials",
-      "link": "https://www.science.org/content/article/rapid-spread-ebola-spurs-remarkably-quick-drug-and-vaccine-trials",
-      "pubDate": "2026-07-21T03:25:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Earth’s core may be far cooler than scientists thought",
-      "link": "https://www.science.org/content/article/earth-s-core-may-be-far-cooler-scientists-thought",
-      "pubDate": "2026-07-21T12:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
       "title": "What <i>The Odyssey</i> reveals about ancient science — from botany to psychiatry",
       "link": "https://www.nature.com/articles/d41586-026-02275-0",
       "pubDate": "2026-07-23T00:00:00.000Z",
@@ -204,6 +204,14 @@
     {
       "title": "Could small-team science be dying out?",
       "link": "https://www.nature.com/articles/d41586-026-02174-4",
+      "pubDate": "2026-07-23T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "International PhD students to face strict limits on time in the US ",
+      "link": "https://www.nature.com/articles/d41586-026-02280-3",
       "pubDate": "2026-07-23T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -245,14 +253,6 @@
       "title": "Rising stars of mathematics awarded prestigious 2026 Fields Medal",
       "link": "https://www.nature.com/articles/d41586-026-02169-1",
       "pubDate": "2026-07-23T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Electronic-resonance enhanced molecule for perovskite solar cells",
-      "link": "https://www.nature.com/articles/s41586-026-10919-4",
-      "pubDate": "2026-07-22T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
