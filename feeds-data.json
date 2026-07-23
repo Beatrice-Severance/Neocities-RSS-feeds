@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-23T13:52:04.280Z",
+  "generatedAt": "2026-07-23T16:24:41.558Z",
   "items": [
+    {
+      "title": "In a first, Chinese woman wins the prestigious Fields Medal",
+      "link": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
+      "pubDate": "Thu, 23 Jul 2026 10:56:47 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F44%2Fcf5c8fd148408a55f224ff362553%2Fhong-wang4-c-simons-foundation.JPG"
+    },
+    {
+      "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
+      "link": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
+      "pubDate": "Thu, 23 Jul 2026 10:12:45 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6200x3736+0+0/resize/6200x3736!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2Fe0%2Ffe3b1de544f6825c99bb7abc3e34%2Fgettyimages-2257020568.jpg"
+    },
     {
       "title": "Get into med school in the graphic memoir 'See One, Do One, Teach One'",
       "link": "https://www.npr.org/2026/07/23/nx-s1-5901975/med-school-graphic-memoir-grace-farris",
@@ -34,20 +50,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2Fdc%2F1713b90145b39777278f77ca5608%2Febola-contact-tracing-2277596614.jpg"
     },
     {
-      "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
+      "title": "Trump says Saudi Arabia's nuclear deal hinges on the kingdom normalizing Israel ties",
       "link": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
       "pubDate": "Thu, 23 Jul 2026 06:55:44 -0400",
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F61%2F5123cd8e429a879c6fd9db14e84a%2Fgettyimages-2247380580.jpg"
-    },
-    {
-      "title": "These Catholic sisters want to start a new order with a difficult mission: helping clergy abuse survivors",
-      "link": "https://www.npr.org/2026/07/23/g-s1-134254/these-catholic-sisters-want-to-start-a-new-order-with-a-difficult-mission-helping-clergy-abuse-survivors",
-      "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4153x2492+0+0/resize/4153x2492!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2F39%2Fcfbcea374371907991ed59851478%2Fdsc02865.jpg"
     },
     {
       "title": "How predominantly Black areas in 6 states have been split up by redistricting",
@@ -58,12 +66,28 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/1600x900!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Fed%2Fcd05e1694794a30d1a0bb543ed58%2Fartboard-1-100.jpg"
     },
     {
-      "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day",
-      "pubDate": "Thu, 23 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x4284+0+0/resize/5712x4284!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2F81%2F506ae070415bb8855c968ac1c927%2Fimg-0230.JPG"
+      "title": "Crews Move Artemis IV Liquid Hydrogen Tank",
+      "link": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
+      "pubDate": "Thu, 23 Jul 2026 15:20:19 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/maf-20260515-cs4-lh2to451-08orig.jpg?w=2048"
+    },
+    {
+      "title": "NASA’s MAVEN Illuminates New Understanding of Auroras at Mars",
+      "link": "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/",
+      "pubDate": "Thu, 23 Jul 2026 15:19:33 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22076/PIA22076.tif?w=2048"
+    },
+    {
+      "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission",
+      "link": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
+      "pubDate": "Thu, 23 Jul 2026 14:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/05/jsc2025e063520-altorig.jpg?w=1151"
     },
     {
       "title": "Olympic Mountain Glory",
@@ -104,30 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/250th-ngc4736.jpg?w=864"
-    },
-    {
-      "title": "Mapping Io’s Hidden Heat With NASA’s Juno",
-      "link": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/",
-      "pubDate": "Wed, 22 Jul 2026 15:00:19 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26757/PIA26757.png?w=1307&#038;h=1188&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA’s Juno Peers Beneath Io’s Surface",
-      "link": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
-      "pubDate": "Wed, 22 Jul 2026 14:58:58 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26756/PIA26756.png?w=1339&#038;h=813&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io",
-      "link": "https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/",
-      "pubDate": "Wed, 22 Jul 2026 14:54:35 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://images-assets.nasa.gov/image/PIA26484/PIA26484~large.jpg?w=1920&amp;h=1241&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "title": "White House report calls for big changes to ‘calcified’ U.S. science system",
@@ -194,6 +194,14 @@
       "thumbnail": null
     },
     {
+      "title": "What <i>The Odyssey</i> reveals about ancient science – from botany to psychiatry",
+      "link": "https://www.nature.com/articles/d41586-026-02275-0",
+      "pubDate": "2026-07-23T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Could small-team science be dying out?",
       "link": "https://www.nature.com/articles/d41586-026-02174-4",
       "pubDate": "2026-07-23T00:00:00.000Z",
@@ -218,6 +226,14 @@
       "thumbnail": null
     },
     {
+      "title": "Rising stars of mathematics awarded prestigious 2026 Fields Medal",
+      "link": "https://www.nature.com/articles/d41586-026-02169-1",
+      "pubDate": "2026-07-23T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Electronic-resonance enhanced molecule for perovskite solar cells",
       "link": "https://www.nature.com/articles/s41586-026-10919-4",
       "pubDate": "2026-07-22T00:00:00.000Z",
@@ -236,22 +252,6 @@
     {
       "title": "What counts as a moon? Huge ‘exosatellite’ sparks debate",
       "link": "https://www.nature.com/articles/d41586-026-02299-6",
-      "pubDate": "2026-07-22T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "How do quantum computers work?",
-      "link": "https://www.nature.com/articles/d41586-026-02219-8",
-      "pubDate": "2026-07-22T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Structures and inhibition of the Crimean–Congo haemorrhagic fever virus polymerase",
-      "link": "https://www.nature.com/articles/s41586-026-10701-6",
       "pubDate": "2026-07-22T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -329,8 +329,8 @@
         "name": "Today",
         "temperature": 78,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+        "shortForecast": "Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
         "name": "Tonight",
