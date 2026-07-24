@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T16:40:34.447Z",
+  "generatedAt": "2026-07-24T19:21:57.579Z",
   "items": [
     {
       "title": "A former nun explains why she ran away from her 'Cloistered' life",
@@ -42,6 +42,22 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/5654x3182!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe3%2F67%2F8bf1e69442ae93279d11fbeaba9f%2Fryan-zohran-jimothy.jpg"
     },
     {
+      "title": "A defiant Trump imposes replacement tariffs on biggest U.S. trading partners",
+      "link": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada",
+      "pubDate": "Fri, 24 Jul 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5602x3734+0+0/resize/5602x3734!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2Fb0%2Fe30246a447b2be4061d299eb5957%2Fgettyimages-2287240092.jpg"
+    },
+    {
+      "title": "Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why",
+      "link": "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist",
+      "pubDate": "Fri, 24 Jul 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4320x2160+0+0/resize/4320x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2Ff1%2F9c16ad564bcf97898b5eed7df9cc%2Fthe-polygamist-n-s1-e22-00-10-47-13.png"
+    },
+    {
       "title": "Video: Scientists watch orcas ram a sunfish so hard it explodes",
       "link": "https://www.npr.org/2026/07/24/nx-s1-5905327/orcas-ram-sunfish-hard-explodes",
       "pubDate": "Fri, 24 Jul 2026 05:00:00 -0400",
@@ -50,20 +66,28 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4786x3188+0+0/resize/4786x3188!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F90%2F568507a145dd89b26fa8dc655515%2Fgettyimages-2278767462.jpg"
     },
     {
-      "title": "West Virginia paid digital nomads to move there during COVID. Many are staying",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5869402/remote-work-west-virginia-cash-incentive",
-      "pubDate": "Fri, 24 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F3e%2Fa2605d464270acca7cfa2e3965d6%2Fascend-46.jpg"
+      "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
+      "link": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
+      "pubDate": "Fri, 24 Jul 2026 17:47:06 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%201.png"
     },
     {
-      "title": "A defiant Trump imposes replacement tariffs on biggest U.S. trading partners",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada",
-      "pubDate": "Fri, 24 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5602x3734+0+0/resize/5602x3734!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2Fb0%2Fe30246a447b2be4061d299eb5957%2Fgettyimages-2287240092.jpg"
+      "title": "New Crew Members Welcomed to International Space Station",
+      "link": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
+      "pubDate": "Fri, 24 Jul 2026 16:43:02 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/iss074e0814792orig.jpg?w=2048"
+    },
+    {
+      "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon    ",
+      "link": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
+      "pubDate": "Fri, 24 Jul 2026 16:35:46 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/capstone2.jpg?w=2048"
     },
     {
       "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
@@ -106,28 +130,20 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/nasa-promo-image-horizontal.png?w=2048"
     },
     {
-      "title": "Crews Move Artemis IV Liquid Hydrogen Tank",
-      "link": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
-      "pubDate": "Thu, 23 Jul 2026 15:20:19 +0000",
-      "source": "NASA",
+      "title": "FDA committee votes to make peptides more widely available",
+      "link": "https://www.science.org/content/article/fda-committee-votes-make-peptides-more-widely-available",
+      "pubDate": "2026-07-24T01:43:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/maf-20260515-cs4-lh2to451-08orig.jpg?w=2048"
+      "thumbnail": null
     },
     {
-      "title": "NASA’s MAVEN Illuminates New Understanding of Auroras at Mars",
-      "link": "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/",
-      "pubDate": "Thu, 23 Jul 2026 15:19:33 +0000",
-      "source": "NASA",
+      "title": "Are dolphins the only animals that call each other by name?",
+      "link": "https://www.science.org/content/article/are-dolphins-only-animals-call-each-other-name",
+      "pubDate": "2026-07-24T12:50:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22076/PIA22076.tif?w=2048"
-    },
-    {
-      "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission",
-      "link": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
-      "pubDate": "Thu, 23 Jul 2026 14:00:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/05/jsc2025e063520-altorig.jpg?w=1151"
+      "thumbnail": null
     },
     {
       "title": "NIH is again terminating grants that the Trump administration dislikes",
@@ -178,18 +194,10 @@
       "thumbnail": null
     },
     {
-      "title": "White House report calls for big changes to ‘calcified’ U.S. science system",
-      "link": "https://www.science.org/content/article/white-house-report-calls-big-changes-calcified-u-s-science-system",
-      "pubDate": "2026-07-22T06:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Contagious fish cancer overruns New England lake",
-      "link": "https://www.science.org/content/article/contagious-fish-cancer-overruns-new-england-lake",
-      "pubDate": "2026-07-22T11:00:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+      "link": "https://www.nature.com/articles/s41586-026-10911-y",
+      "pubDate": "2026-07-24T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
@@ -204,6 +212,14 @@
     {
       "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
       "link": "https://www.nature.com/articles/d41586-026-02338-2",
+      "pubDate": "2026-07-24T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
+      "link": "https://www.nature.com/articles/d41586-026-02268-z",
       "pubDate": "2026-07-24T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -236,22 +252,6 @@
     {
       "title": "Breathalyser can tell if you are burning fat from a single exhalation",
       "link": "https://www.nature.com/articles/d41586-026-02295-w",
-      "pubDate": "2026-07-23T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
-      "link": "https://www.nature.com/articles/d41586-026-02024-3",
-      "pubDate": "2026-07-23T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Humanity spoke thousands of languages at the dawn of farming — now many of them are lost",
-      "link": "https://www.nature.com/articles/d41586-026-02279-w",
       "pubDate": "2026-07-23T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -326,11 +326,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
+        "name": "This Afternoon",
         "temperature": 80,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+        "shortForecast": "Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
         "name": "Tonight",
@@ -343,15 +343,15 @@
         "name": "Saturday",
         "temperature": 86,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Saturday Night",
-        "temperature": 69,
+        "temperature": 70,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy then Slight Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/sct/tsra_hi,20?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       }
     ]
   }
