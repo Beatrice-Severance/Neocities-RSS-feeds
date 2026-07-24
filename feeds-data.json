@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-24T13:40:02.688Z",
+  "generatedAt": "2026-07-24T16:40:34.447Z",
   "items": [
+    {
+      "title": "A former nun explains why she ran away from her 'Cloistered' life",
+      "link": "https://www.npr.org/2026/07/24/nx-s1-5904598/a-former-nun-explains-why-she-ran-away-from-her-cloistered-life",
+      "pubDate": "Fri, 24 Jul 2026 09:48:04 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
       "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
@@ -10,7 +18,7 @@
       "thumbnail": null
     },
     {
-      "title": "Trump threatens a major escalation in Iran as the war nears the end of Month 5",
+      "title": "Trump threatens a major escalation in Iran as the war nears the 5-month mark",
       "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
       "pubDate": "Fri, 24 Jul 2026 07:30:08 -0400",
       "source": "NPR News",
@@ -18,7 +26,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2622x1748+0+0/resize/2622x1748!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F8b%2Ffffae9be45f59908c27588ddaf92%2Fgettyimages-2286776101.jpg"
     },
     {
-      "title": "US allies hit with new tariffs object to Trump's forced labor claims",
+      "title": "U.S. allies hit with new tariffs object to Trump's forced labor claims",
       "link": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
       "pubDate": "Fri, 24 Jul 2026 06:31:08 -0400",
       "source": "NPR News",
@@ -32,14 +40,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/5654x3182!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe3%2F67%2F8bf1e69442ae93279d11fbeaba9f%2Fryan-zohran-jimothy.jpg"
-    },
-    {
-      "title": "Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist",
-      "pubDate": "Fri, 24 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4320x2160+0+0/resize/4320x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2Ff1%2F9c16ad564bcf97898b5eed7df9cc%2Fthe-polygamist-n-s1-e22-00-10-47-13.png"
     },
     {
       "title": "Video: Scientists watch orcas ram a sunfish so hard it explodes",
@@ -58,12 +58,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F3e%2Fa2605d464270acca7cfa2e3965d6%2Fascend-46.jpg"
     },
     {
-      "title": "Trump refuses to give up on tariffs — a pillar of his economic legacy",
+      "title": "A defiant Trump imposes replacement tariffs on biggest U.S. trading partners",
       "link": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada",
       "pubDate": "Fri, 24 Jul 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5602x3734+0+0/resize/5602x3734!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2Fb0%2Fe30246a447b2be4061d299eb5957%2Fgettyimages-2287240092.jpg"
+    },
+    {
+      "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
+      "link": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
+      "pubDate": "Fri, 24 Jul 2026 15:30:21 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/bo.jpg?w=2048"
     },
     {
       "title": "Hubble Spies One-Sided Spiral",
@@ -122,12 +130,12 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/05/jsc2025e063520-altorig.jpg?w=1151"
     },
     {
-      "title": "Olympic Mountain Glory",
-      "link": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
-      "pubDate": "Thu, 23 Jul 2026 04:01:00 +0000",
-      "source": "NASA",
+      "title": "NIH is again terminating grants that the Trump administration dislikes",
+      "link": "https://www.science.org/content/article/nih-again-terminating-grants-trump-administration-dislikes",
+      "pubDate": "2026-07-24T11:30:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/olympic-mountain-glory/ISS047-E-104144.jpg?w=2160&#038;h=1008&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
       "title": "Four takeaways from our investigation into a hidden gene-editing death",
@@ -186,16 +194,16 @@
       "thumbnail": null
     },
     {
-      "title": "Chimps and bonobos hug and hold hands just like us",
-      "link": "https://www.science.org/content/article/chimps-and-bonobos-hug-and-hold-hands-just-us",
-      "pubDate": "2026-07-21T07:01:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Personalized gene therapy relieves severe epilepsy in two boys",
+      "link": "https://www.nature.com/articles/d41586-026-02267-0",
+      "pubDate": "2026-07-24T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Personalized gene therapy relieves severe epilepsy in two boys",
-      "link": "https://www.nature.com/articles/d41586-026-02267-0",
+      "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
+      "link": "https://www.nature.com/articles/d41586-026-02338-2",
       "pubDate": "2026-07-24T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -244,14 +252,6 @@
     {
       "title": "Humanity spoke thousands of languages at the dawn of farming — now many of them are lost",
       "link": "https://www.nature.com/articles/d41586-026-02279-w",
-      "pubDate": "2026-07-23T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Daily briefing: Orcas smash sunfish to smithereens",
-      "link": "https://www.nature.com/articles/d41586-026-02307-9",
       "pubDate": "2026-07-23T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
