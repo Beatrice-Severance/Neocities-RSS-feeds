@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T16:02:31.612Z",
+  "generatedAt": "2026-07-25T19:03:51.804Z",
   "items": [
     {
       "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
@@ -55,10 +55,10 @@
       "pubDate": "Sat, 25 Jul 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5827x3885+0+0/resize/5827x3885!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F2d%2Fffead1ce4491b9c78d16a3c039a6%2Fap26206514928932.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Ff1%2Fb974673b4add8f5a1d487e6ea335%2F20260725-nprdems-2605.jpg"
     },
     {
-      "title": "Trump returns to correspondents' dinner 3 months after shooting",
+      "title": "'The show must go on.' Trump makes jabs at rescheduled White House Correspondents' dinner",
       "link": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
       "pubDate": "Sat, 25 Jul 2026 01:04:00 -0400",
       "source": "NPR News",
@@ -262,31 +262,31 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 84,
+        "name": "This Afternoon",
+        "temperature": 83,
         "temperatureUnit": "F",
         "shortForecast": "Partly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
         "name": "Tonight",
-        "temperature": 70,
+        "temperature": 69,
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Sunday",
-        "temperature": 93,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/hot?size=medium"
+        "shortForecast": "Patchy Fog then Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/fog/hot?size=medium"
       },
       {
         "name": "Sunday Night",
-        "temperature": 73,
+        "temperature": 72,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms",
+        "shortForecast": "Chance Showers And Thunderstorms",
         "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/tsra_hi,50?size=medium"
       }
     ]
