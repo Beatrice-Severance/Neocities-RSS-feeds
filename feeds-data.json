@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-25T19:03:51.804Z",
+  "generatedAt": "2026-07-25T21:53:44.000Z",
   "items": [
+    {
+      "title": "Biden ghostwriter tapes to be released",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
+      "pubDate": "Sat, 25 Jul 2026 15:36:18 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4814x3211+0+0/resize/4814x3211!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F7d%2F846418fd45678a667060fd6a0c87%2Fgettyimages-2282231669.jpg"
+    },
     {
       "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
       "link": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Ff1%2Fb974673b4add8f5a1d487e6ea335%2F20260725-nprdems-2605.jpg"
-    },
-    {
-      "title": "'The show must go on.' Trump makes jabs at rescheduled White House Correspondents' dinner",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
-      "pubDate": "Sat, 25 Jul 2026 01:04:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5656x3770+0+0/resize/5656x3770!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F88%2F59fd1a764be684a1296d796ef3c6%2Fap26205842367495.jpg"
     },
     {
       "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
@@ -265,8 +265,8 @@
         "name": "This Afternoon",
         "temperature": 83,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Tonight",
