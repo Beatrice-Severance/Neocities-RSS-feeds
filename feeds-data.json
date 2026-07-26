@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T02:34:31.418Z",
+  "generatedAt": "2026-07-26T06:00:00.064Z",
   "items": [
     {
-      "title": "One dead, several injured after vehicle plows through crowd at LGBTQ+ event in Germany",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured",
+      "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
       "pubDate": "Sat, 25 Jul 2026 21:10:56 -0400",
       "source": "NPR News",
       "category": "News",
@@ -262,15 +262,15 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
-        "temperature": 69,
+        "name": "Overnight",
+        "temperature": 71,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
       },
       {
         "name": "Sunday",
-        "temperature": 92,
+        "temperature": 93,
         "temperatureUnit": "F",
         "shortForecast": "Patchy Fog then Partly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/fog/hot?size=medium"
@@ -284,10 +284,10 @@
       },
       {
         "name": "Monday",
-        "temperature": 91,
+        "temperature": 92,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,40/tsra_hi,30?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,50/hot?size=medium"
       }
     ]
   }
