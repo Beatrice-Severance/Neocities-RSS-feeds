@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T13:16:12.829Z",
+  "generatedAt": "2026-07-26T15:59:33.793Z",
   "items": [
     {
       "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
@@ -15,15 +15,7 @@
       "pubDate": "Sun, 26 Jul 2026 06:00:00 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F69%2Ffabb52b142ccb415c94f068524d2%2Fmazen-farah-pointing-to-location-of-convent-on-phone.jpeg"
-    },
-    {
-      "title": "Climate change is now threatening a pillar of childhood: summer break",
-      "link": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-      "pubDate": "Sun, 26 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x1848+0+0/resize/4000x1848!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Fcf%2Faaefeffe4558a6a54616250869d1%2Fwidjiwagan-smoke.jpg"
+      "thumbnail": null
     },
     {
       "title": "ADHD looks different in women and poses unique health risks",
@@ -40,6 +32,14 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1804x1203+0+0/resize/1804x1203!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F72%2Fbd65deed44b2a291108a3682b7c0%2Fkmills-skobots-01-cropped.jpg"
+    },
+    {
+      "title": "Climate change is now threatening a pillar of childhood: summer break",
+      "link": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+      "pubDate": "Sun, 26 Jul 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x1848+0+0/resize/4000x1848!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Fcf%2Faaefeffe4558a6a54616250869d1%2Fwidjiwagan-smoke.jpg"
     },
     {
       "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
@@ -263,9 +263,9 @@
     "periods": [
       {
         "name": "Today",
-        "temperature": 93,
+        "temperature": 91,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
+        "shortForecast": "Partly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/hot?size=medium"
       },
       {
