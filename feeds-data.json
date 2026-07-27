@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-27T12:20:42.868Z",
+  "generatedAt": "2026-07-27T19:24:04.322Z",
   "items": [
+    {
+      "title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
+      "pubDate": "Mon, 27 Jul 2026 12:54:28 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7200x4800+0+0/resize/7200x4800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F4c%2F81357f0a4fe0b41a8a9e2355c512%2Fgettyimages-2286627612.jpg"
+    },
     {
       "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
       "link": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
@@ -26,20 +34,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7138x4759+0+0/resize/7138x4759!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2F28%2Fe6a788d44066a22399c7658b4dbb%2Fap26200026459182.jpg"
     },
     {
-      "title": "Baltimore will turn 911 into more than just an emergency number",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
-      "pubDate": "Mon, 27 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5150x2893+0+0/resize/5150x2893!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F61%2Fb6e055104ba4b8f9ba33f13c875b%2Fgettyimages-2275044465.jpg"
-    },
-    {
       "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
       "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
       "pubDate": "Mon, 27 Jul 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2F21%2F15472b7348cda24e0aed8096b067%2Fgettyimages-2207990359.jpg"
+    },
+    {
+      "title": "Baltimore will turn 911 into more than just an emergency number",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
+      "pubDate": "Mon, 27 Jul 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5150x2893+0+0/resize/5150x2893!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F61%2Fb6e055104ba4b8f9ba33f13c875b%2Fgettyimages-2275044465.jpg"
     },
     {
       "title": "Morning news brief",
@@ -58,12 +66,52 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5188x3459+0+0/resize/5188x3459!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F20%2F96aff419411fbb1bd4a3c4a071b2%2Fap26205707073234.jpg"
     },
     {
-      "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5907379/2026-midterm-election-senate-races",
-      "pubDate": "Mon, 27 Jul 2026 01:13:24 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2401+0+0/resize/3600x2401!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2Fa2%2F98c249904ddaa793f6e311f55fc3%2Fgettyimages-2268050960.jpg"
+      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+      "pubDate": "Mon, 27 Jul 2026 18:49:20 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/chris-williams-post-mission-conference-july-27.jpg?w=2048"
+    },
+    {
+      "title": "NASA Science Soars During August Total Solar Eclipse",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
+      "pubDate": "Mon, 27 Jul 2026 18:01:14 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg?w=8960&#038;h=5040&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA Astronaut Chris Williams Returns to Earth",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
+      "pubDate": "Mon, 27 Jul 2026 16:48:46 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/55419246867-809993deb3-o.jpg?w=2048"
+    },
+    {
+      "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
+      "link": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
+      "pubDate": "Mon, 27 Jul 2026 16:06:37 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg?w=3816&#038;h=2160&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
+      "pubDate": "Mon, 27 Jul 2026 14:35:11 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/meir.jpg?w=2048"
+    },
+    {
+      "title": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
+      "pubDate": "Mon, 27 Jul 2026 14:00:14 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/07/STScI-01KXZZ6H029XBJTKYKRPARFJE9.jpg?w=8502&#038;h=4935&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
@@ -82,52 +130,20 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%201.png"
     },
     {
-      "title": "New Crew Members Welcomed to International Space Station",
-      "link": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
-      "pubDate": "Fri, 24 Jul 2026 16:43:02 +0000",
-      "source": "NASA",
+      "title": "AI’s top startups are barely publishing their research",
+      "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "pubDate": "2026-07-27T02:50:30.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/iss074e0814792orig.jpg?w=2048"
+      "thumbnail": null
     },
     {
-      "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon    ",
-      "link": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
-      "pubDate": "Fri, 24 Jul 2026 16:35:46 +0000",
-      "source": "NASA",
+      "title": "Chinese university launches probe into girl’s gene-editing death",
+      "link": "https://www.science.org/content/article/chinese-university-launches-probe-girl-s-gene-editing-death",
+      "pubDate": "2026-07-27T01:00:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/capstone2.jpg?w=2048"
-    },
-    {
-      "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
-      "link": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
-      "pubDate": "Fri, 24 Jul 2026 15:30:21 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/bo.jpg?w=2048"
-    },
-    {
-      "title": "Hubble Spies One-Sided Spiral",
-      "link": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
-      "pubDate": "Fri, 24 Jul 2026 11:11:08 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC4654_potm2607a.jpg?w=3984&#038;h=3826&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "A Million-Panel Project",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
-      "pubDate": "Fri, 24 Jul 2026 04:01:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-million-panel-project/solarutah_oli_20240616.jpg"
-    },
-    {
-      "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
-      "pubDate": "Fri, 24 Jul 2026 01:22:13 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04955_opgs_edr_ncam_NRB_837362437EDR_S1231344NCAM00594M_.jpg?w=1024&#038;h=512&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
       "title": "Saber-toothed cats became inbred—and struggled to move—before they went extinct",
@@ -140,7 +156,7 @@
     {
       "title": "This drug could help end the HIV epidemic. Its rollout has hit speed bumps",
       "link": "https://www.science.org/content/article/drug-could-help-end-hiv-epidemic-its-rollout-has-hit-speed-bumps",
-      "pubDate": "2026-07-24T04:00:00.000Z",
+      "pubDate": "2026-07-24T03:00:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -178,18 +194,18 @@
       "thumbnail": null
     },
     {
-      "title": "The Genesis Mission, the Department of Energy’s big AI push, unveils first grants",
-      "link": "https://www.science.org/content/article/genesis-mission-department-energy-s-big-ai-push-unveils-first-grants",
-      "pubDate": "2026-07-23T04:35:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings",
+      "link": "https://www.nature.com/articles/s41586-026-10930-9",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Exclusive: Death of girl in Chinese gene-editing trial was never made public",
-      "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-      "pubDate": "2026-07-23T02:00:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics",
+      "link": "https://www.nature.com/articles/s41586-026-10929-2",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
@@ -202,8 +218,24 @@
       "thumbnail": null
     },
     {
+      "title": "‘Timer’ in the brain tracks sleep — and predicts awakening ",
+      "link": "https://www.nature.com/articles/d41586-026-02294-x",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "When should you treat a fever? Evolution holds the answer",
       "link": "https://www.nature.com/articles/d41586-026-02313-x",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "How to prevent AI from harming mathematics",
+      "link": "https://www.nature.com/articles/d41586-026-02309-7",
       "pubDate": "2026-07-27T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -224,49 +256,17 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
-      "link": "https://www.nature.com/articles/s41586-026-10911-y",
-      "pubDate": "2026-07-24T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Personalized gene therapy relieves severe epilepsy in two boys",
-      "link": "https://www.nature.com/articles/d41586-026-02267-0",
-      "pubDate": "2026-07-24T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
-      "link": "https://www.nature.com/articles/d41586-026-02338-2",
-      "pubDate": "2026-07-24T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
-      "link": "https://www.nature.com/articles/d41586-026-02268-z",
-      "pubDate": "2026-07-24T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 93,
+        "name": "This Afternoon",
+        "temperature": 95,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms then Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,30/hot?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/hot?size=medium"
       },
       {
         "name": "Tonight",
@@ -277,7 +277,7 @@
       },
       {
         "name": "Tuesday",
-        "temperature": 83,
+        "temperature": 85,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
