@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T21:57:21.814Z",
+  "generatedAt": "2026-07-27T02:42:46.501Z",
   "items": [
     {
       "title": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
@@ -262,32 +262,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 91,
-        "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/hot?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 73,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/tsra_hi,50?size=medium"
+        "shortForecast": "Partly Cloudy then Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/sct/tsra_hi,50?size=medium"
       },
       {
         "name": "Monday",
         "temperature": 90,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,50/tsra_hi,20?size=medium"
+        "shortForecast": "Showers And Thunderstorms Likely then Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,60/hot?size=medium"
       },
       {
         "name": "Monday Night",
         "temperature": 66,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/sct?size=medium"
+        "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/few?size=medium"
+      },
+      {
+        "name": "Tuesday",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       }
     ]
   }
