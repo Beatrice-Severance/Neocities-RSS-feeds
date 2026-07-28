@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-27T22:04:36.023Z",
+  "generatedAt": "2026-07-28T02:22:33.591Z",
   "items": [
+    {
+      "title": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
+      "pubDate": "Mon, 27 Jul 2026 20:05:31 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2Fff%2F94fc4bba4dd7b2debbd354210e35%2Fgettyimages-2155919820.jpg"
+    },
     {
       "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
       "link": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
@@ -10,12 +18,12 @@
       "thumbnail": null
     },
     {
-      "title": "Authors wary of content ownership despite court ruling on Anthropic case",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5904606/authors-wary-of-content-ownership-despite-court-ruling-on-anthropic-case",
+      "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5904606/anthropic-vs-bartz-ai-copyright-lawsuit-pros-cons",
       "pubDate": "Mon, 27 Jul 2026 16:49:57 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": null
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3967x2645+0+0/resize/3967x2645!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F1a%2F0e2bd2eb4503bf53f3ee7a2ab9f7%2Fgettyimages-2227254922.jpg"
     },
     {
       "title": "Inside Joe Manchin's new quest to elect more Independents to Congress",
@@ -48,14 +56,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F80%2F41%2F1a43c1614d3f8678eabacfcc3bc2%2Fgettyimages-2287060153.jpg"
-    },
-    {
-      "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
-      "pubDate": "Mon, 27 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2F21%2F15472b7348cda24e0aed8096b067%2Fgettyimages-2207990359.jpg"
     },
     {
       "title": "Baltimore will turn 911 into more than just an emergency number",
@@ -130,9 +130,17 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%201.png"
     },
     {
+      "title": "Future of giant monkey research facility uncertain, even as sanctuary plan dropped",
+      "link": "https://www.science.org/content/article/future-giant-monkey-research-facility-uncertain-even-sanctuary-plan-dropped",
+      "pubDate": "2026-07-27T06:40:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "独家披露：一名女孩在中国基因编辑试验中死亡，此事从未对外公开",
       "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public-mandarin",
-      "pubDate": "2026-07-27T05:35:00.000Z",
+      "pubDate": "2026-07-27T04:35:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -181,14 +189,6 @@
       "title": "This drug could help end the HIV epidemic. Its rollout has hit speed bumps",
       "link": "https://www.science.org/content/article/drug-could-help-end-hiv-epidemic-its-rollout-has-hit-speed-bumps",
       "pubDate": "2026-07-24T03:00:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "FDA committee votes to make peptides more widely available",
-      "link": "https://www.science.org/content/article/fda-committee-votes-make-peptides-more-widely-available",
-      "pubDate": "2026-07-24T01:43:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -262,25 +262,18 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 95,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/hot?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 66,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/bkn?size=medium"
       },
       {
         "name": "Tuesday",
         "temperature": 85,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Tuesday Night",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Wednesday",
+        "temperature": 86,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       }
     ]
   }
