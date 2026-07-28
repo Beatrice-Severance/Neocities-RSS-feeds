@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T02:22:33.591Z",
+  "generatedAt": "2026-07-28T05:44:37.397Z",
   "items": [
     {
       "title": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
@@ -66,6 +66,14 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5150x2893+0+0/resize/5150x2893!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F61%2Fb6e055104ba4b8f9ba33f13c875b%2Fgettyimages-2275044465.jpg"
     },
     {
+      "title": "Smoke Blankets Oregon",
+      "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
+      "pubDate": "Tue, 28 Jul 2026 04:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg?w=2160&#038;h=1740&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
       "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
       "pubDate": "Mon, 27 Jul 2026 18:49:20 +0000",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/ms28soyuzjuly26.jpg?w=2048"
-    },
-    {
-      "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
-      "link": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
-      "pubDate": "Fri, 24 Jul 2026 17:47:06 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%201.png"
     },
     {
       "title": "Future of giant monkey research facility uncertain, even as sanctuary plan dropped",
@@ -262,15 +262,15 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 66,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/bkn?size=medium"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
       },
       {
         "name": "Tuesday",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
