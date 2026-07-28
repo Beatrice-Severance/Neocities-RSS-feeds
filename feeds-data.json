@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-28T16:39:10.504Z",
+  "generatedAt": "2026-07-28T19:19:55.758Z",
   "items": [
+    {
+      "title": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
+      "link": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
+      "pubDate": "Tue, 28 Jul 2026 13:08:29 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5739x3826+0+0/resize/5739x3826!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F79%2F6c20b6fb4664a72fbe6f19fdbc54%2Fgettyimages-2287364231.jpg"
+    },
     {
       "title": "Photos: Spain and France's battle record wildfires",
       "link": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x4000+0+0/resize/5000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F46%2F5db00dfc4f25addb4d820d022baa%2F03-nprlk-0092-5000x4000.jpg"
-    },
-    {
-      "title": "Trump shattered ethics norms. Will voters trust Democrats to fix them?",
-      "link": "https://www.npr.org/2026/07/28/nx-s1-5869808/family-trump-profit-corruption-voters-ethics-democrats",
-      "pubDate": "Tue, 28 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2668+0+0/resize/4000x2668!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2F28%2Faabb21854e73900d699abbb5d9ad%2Fgettyimages-2259830568.jpg"
     },
     {
       "title": "Smoke Blankets Oregon",
@@ -226,6 +226,14 @@
       "thumbnail": null
     },
     {
+      "title": "It’ll grow on you: live fungi formed into sustainable fashion",
+      "link": "https://www.nature.com/articles/d41586-026-02304-y",
+      "pubDate": "2026-07-28T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Use AI, but don’t mask it",
       "link": "https://www.nature.com/articles/d41586-026-02347-1",
       "pubDate": "2026-07-28T00:00:00.000Z",
@@ -248,21 +256,13 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "Conversational AI: align commercial incentives with public interests",
-      "link": "https://www.nature.com/articles/d41586-026-02348-0",
-      "pubDate": "2026-07-28T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
+        "name": "This Afternoon",
         "temperature": 85,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
@@ -270,24 +270,24 @@
       },
       {
         "name": "Tonight",
-        "temperature": 62,
+        "temperature": 61,
         "temperatureUnit": "F",
         "shortForecast": "Patchy Smoke then Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/smoke/few?size=medium"
       },
       {
         "name": "Wednesday",
-        "temperature": 86,
+        "temperature": 85,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       },
       {
         "name": "Wednesday Night",
-        "temperature": 65,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       }
     ]
   }
