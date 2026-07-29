@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-07-29T16:20:03.142Z",
+  "generatedAt": "2026-07-29T19:12:37.925Z",
   "items": [
     {
-      "title": "'Odyssey' translator Emily Wilson says Nolan should have hired a scriptwriter",
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+      "link": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
+      "pubDate": "Wed, 29 Jul 2026 12:55:54 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3870x2580+0+0/resize/3870x2580!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F47%2F3cf652e843cebb9e17ddd85f9556%2Fgettyimages-2276769961.jpg"
+    },
+    {
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
       "link": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
       "pubDate": "Wed, 29 Jul 2026 11:51:40 -0400",
       "source": "NPR News",
@@ -58,12 +66,28 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3826x2551+0+0/resize/3826x2551!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2Fc8%2Fb491846e47f39f1d5bf1026baf77%2Fap26204620552684.jpg"
     },
     {
-      "title": "The Federal Reserve faces a critical decision on interest rates",
-      "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
-      "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3973x2649+0+0/resize/3973x2649!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F95%2Fa3eacef54efebc1a245001e55d9f%2Fgettyimages-2286063371-1.jpg"
+      "title": "NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/",
+      "pubDate": "Wed, 29 Jul 2026 16:49:37 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/eclipse-coverage-advisory-july-29.jpg?w=2048"
+    },
+    {
+      "title": "NASA’s Curiosity Views a Sand-Capped Butte",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/",
+      "pubDate": "Wed, 29 Jul 2026 16:08:12 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26730/PIA26730.png?w=6162&#038;h=2576&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA’s Curiosity Discovers a Field of Martian Polygons",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/",
+      "pubDate": "Wed, 29 Jul 2026 16:06:39 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26729/PIA26729.png?w=29240&#038;h=8040&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
@@ -106,32 +130,16 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/s26-007-ray-williams.jpg?w=2048"
     },
     {
-      "title": "Sizing Up the Sargassum Belt",
-      "link": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
-      "pubDate": "Wed, 29 Jul 2026 04:00:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606.jpg?w=1440&#038;h=1090&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "APOD: 2026 July 28 – Barnards Loop over Twin Volcanoes",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-28-barnards-loop-over-twin-volcanoes/",
-      "pubDate": "Tue, 28 Jul 2026 15:30:58 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/LoopVolcanos_Laserna_5815.jpg?w=5815&#038;h=4976&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Smoke Blankets Oregon",
-      "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
-      "pubDate": "Tue, 28 Jul 2026 04:01:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg?w=2160&#038;h=1740&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
       "title": "Author Correction: A ductile solid electrolyte interphase for solid-state batteries",
       "link": "https://www.nature.com/articles/s41586-026-10945-2",
+      "pubDate": "2026-07-29T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Retraction Note: Human HDAC6 senses valine abundancy to regulate DNA damage",
+      "link": "https://www.nature.com/articles/s41586-026-10942-5",
       "pubDate": "2026-07-29T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -184,29 +192,21 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "Alternating CO<sub>2</sub> and bicycloalkane copolymerization to circular polyesters",
-      "link": "https://www.nature.com/articles/s41586-026-10848-2",
-      "pubDate": "2026-07-29T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
+        "name": "This Afternoon",
         "temperature": 85,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny then Patchy Smoke",
-        "icon": "https://api.weather.gov/icons/land/day/few/smoke?size=medium"
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       },
       {
         "name": "Tonight",
-        "temperature": 64,
+        "temperature": 63,
         "temperatureUnit": "F",
         "shortForecast": "Patchy Smoke then Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/smoke/few?size=medium"
@@ -215,15 +215,15 @@
         "name": "Thursday",
         "temperature": 88,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+        "shortForecast": "Mostly Sunny then Patchy Smoke",
+        "icon": "https://api.weather.gov/icons/land/day/sct/smoke?size=medium"
       },
       {
         "name": "Thursday Night",
-        "temperature": 66,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium"
+        "shortForecast": "Patchy Smoke then Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/smoke/bkn?size=medium"
       }
     ]
   }
