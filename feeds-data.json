@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-29T14:05:09.670Z",
+  "generatedAt": "2026-07-29T16:20:03.142Z",
   "items": [
+    {
+      "title": "'Odyssey' translator Emily Wilson says Nolan should have hired a scriptwriter",
+      "link": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
+      "pubDate": "Wed, 29 Jul 2026 11:51:40 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2700x1344+0+457/resize/2700x1344!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2F40%2Fb736000f4d5e8119e2c8d53c55c4%2Fwilsonemily-ctrusteesoftheuniversityofpennsylvania.jpg"
+    },
+    {
+      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "link": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
+      "pubDate": "Wed, 29 Jul 2026 10:21:07 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F72%2F116065e040039a53d770cff0721b%2Ffarflungpostcard-betsy.jpg"
+    },
     {
       "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
       "link": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
@@ -18,7 +34,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4395x2930+0+0/resize/4395x2930!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2F4c%2Fd5342e3e4bf0857b9e9d534b95ff%2Fap26209715636264.jpg"
     },
     {
-      "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq",
+      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
       "link": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
       "pubDate": "Wed, 29 Jul 2026 05:07:03 -0400",
       "source": "NPR News",
@@ -50,20 +66,36 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3973x2649+0+0/resize/3973x2649!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F95%2Fa3eacef54efebc1a245001e55d9f%2Fgettyimages-2286063371-1.jpg"
     },
     {
-      "title": "To win over working-class voters, Democrats need to stop talking about democracy",
-      "link": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
-      "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6502x3657+0+0/resize/6502x3657!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2F5c%2Fdba4ea9746749c2a785a7f3a8292%2Fgettyimages-2244506450.jpg"
+      "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+      "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+      "pubDate": "Wed, 29 Jul 2026 15:30:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26729-curiosity-discovers-a-field-of-martian-polygons.png?w=2048"
     },
     {
-      "title": "More Americans are going bankrupt. What does that mean?",
-      "link": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
-      "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3240x2328+0+0/resize/3240x2328!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb8%2F2c%2F6e81bd2e4f9fa9b3c90ff6fc5557%2Fap21062421446501.jpg"
+      "title": "APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/",
+      "pubDate": "Wed, 29 Jul 2026 15:25:54 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Understanding How Martian Auroras Are Made",
+      "link": "https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/",
+      "pubDate": "Wed, 29 Jul 2026 15:20:28 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/pia22076.jpg?w=2048"
+    },
+    {
+      "title": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
+      "link": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+      "pubDate": "Wed, 29 Jul 2026 14:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVTW3MA3BWZ66MW2C9HG0601.png?w=16191&#038;h=7844&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Contractor to Civil Servant: NASA Welcomes Ray Williams",
@@ -82,6 +114,14 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606.jpg?w=1440&#038;h=1090&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
+      "title": "APOD: 2026 July 28 – Barnards Loop over Twin Volcanoes",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-28-barnards-loop-over-twin-volcanoes/",
+      "pubDate": "Tue, 28 Jul 2026 15:30:58 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/LoopVolcanos_Laserna_5815.jpg?w=5815&#038;h=4976&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "Smoke Blankets Oregon",
       "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
       "pubDate": "Tue, 28 Jul 2026 04:01:00 +0000",
@@ -90,48 +130,16 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg?w=2160&#038;h=1740&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
-      "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
-      "pubDate": "Mon, 27 Jul 2026 18:49:20 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/chris-williams-post-mission-conference-july-27.jpg?w=2048"
-    },
-    {
-      "title": "NASA Science Soars During August Total Solar Eclipse",
-      "link": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
-      "pubDate": "Mon, 27 Jul 2026 18:01:14 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg?w=8960&#038;h=5040&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA Astronaut Chris Williams Returns to Earth",
-      "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
-      "pubDate": "Mon, 27 Jul 2026 16:48:46 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/55419246867-809993deb3-o.jpg?w=2048"
-    },
-    {
-      "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
-      "link": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
-      "pubDate": "Mon, 27 Jul 2026 16:06:37 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg?w=3816&#038;h=2160&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
-      "link": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-      "pubDate": "Mon, 27 Jul 2026 14:35:11 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/meir.jpg?w=2048"
-    },
-    {
       "title": "Author Correction: A ductile solid electrolyte interphase for solid-state batteries",
       "link": "https://www.nature.com/articles/s41586-026-10945-2",
+      "pubDate": "2026-07-29T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Earthworks spotted in the Amazon hint at huge ancient civilization",
+      "link": "https://www.nature.com/articles/d41586-026-02367-x",
       "pubDate": "2026-07-29T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -146,48 +154,40 @@
       "thumbnail": null
     },
     {
-      "title": "Papers with open peer-review reports are less likely to be retracted",
-      "link": "https://www.nature.com/articles/d41586-026-02282-1",
+      "title": "Was art key to ancient humans' success? The secrets of Hohle Fels cave",
+      "link": "https://www.nature.com/articles/d41586-026-02359-x",
       "pubDate": "2026-07-29T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "A guide to the Nature Index",
-      "link": "https://www.nature.com/articles/d41586-026-02183-3",
+      "title": "The piezochiral effect",
+      "link": "https://www.nature.com/articles/s41586-026-10845-5",
       "pubDate": "2026-07-29T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Polio will come roaring back if the task of eradicating it isn’t finished soon",
-      "link": "https://www.nature.com/articles/d41586-026-02308-8",
+      "title": "Diverse bacterial pattern recognition receptors sense the core phage proteome",
+      "link": "https://www.nature.com/articles/s41586-026-10852-6",
       "pubDate": "2026-07-29T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "The past is an open can of worms: a stimulated-memory exhibition",
-      "link": "https://www.nature.com/articles/d41586-026-02254-5",
+      "title": "Mitochondrial metabolism and epigenetic crosstalk drive SASP",
+      "link": "https://www.nature.com/articles/s41586-026-10791-2",
       "pubDate": "2026-07-29T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Can long COVID be prevented? Two drugs finally show promise",
-      "link": "https://www.nature.com/articles/d41586-026-02341-7",
-      "pubDate": "2026-07-29T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Three rising stars of nanoscience and nanotechnology",
-      "link": "https://www.nature.com/articles/d41586-026-02181-5",
+      "title": "Alternating CO<sub>2</sub> and bicycloalkane copolymerization to circular polyesters",
+      "link": "https://www.nature.com/articles/s41586-026-10848-2",
       "pubDate": "2026-07-29T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
