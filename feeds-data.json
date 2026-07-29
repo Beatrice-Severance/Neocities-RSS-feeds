@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-29T02:26:35.518Z",
+  "generatedAt": "2026-07-29T05:50:34.577Z",
   "items": [
+    {
+      "title": "Rescuers search for the missing after Japan earthquake as death toll rises to 13",
+      "link": "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
+      "pubDate": "Wed, 29 Jul 2026 01:34:42 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3968x2726+0+0/resize/3968x2726!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F36%2Fd660d94d4cd7a7353454fa34ec86%2Fap26210157559813.jpg"
+    },
     {
       "title": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
       "link": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino",
@@ -58,12 +66,68 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5739x3826+0+0/resize/5739x3826!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F79%2F6c20b6fb4664a72fbe6f19fdbc54%2Fgettyimages-2287364231.jpg"
     },
     {
-      "title": "Photos: Spain and France battle record wildfires",
-      "link": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
-      "pubDate": "Tue, 28 Jul 2026 11:24:07 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x5333+0+0/resize/8000x5333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F02%2Fd5be39d145f9b88fcbaad868d4a5%2Fgettyimages-2287339275.jpg"
+      "title": "Sizing Up the Sargassum Belt",
+      "link": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+      "pubDate": "Wed, 29 Jul 2026 04:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606.jpg?w=1440&#038;h=1090&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "Smoke Blankets Oregon",
+      "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
+      "pubDate": "Tue, 28 Jul 2026 04:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg?w=2160&#038;h=1740&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+      "pubDate": "Mon, 27 Jul 2026 18:49:20 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/chris-williams-post-mission-conference-july-27.jpg?w=2048"
+    },
+    {
+      "title": "NASA Science Soars During August Total Solar Eclipse",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
+      "pubDate": "Mon, 27 Jul 2026 18:01:14 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg?w=8960&#038;h=5040&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA Astronaut Chris Williams Returns to Earth",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
+      "pubDate": "Mon, 27 Jul 2026 16:48:46 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/55419246867-809993deb3-o.jpg?w=2048"
+    },
+    {
+      "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
+      "link": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
+      "pubDate": "Mon, 27 Jul 2026 16:06:37 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg?w=3816&#038;h=2160&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
+      "pubDate": "Mon, 27 Jul 2026 14:35:11 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/meir.jpg?w=2048"
+    },
+    {
+      "title": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
+      "pubDate": "Mon, 27 Jul 2026 14:00:14 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/07/STScI-01KXZZ6H029XBJTKYKRPARFJE9.jpg?w=8502&#038;h=4935&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Editorial Expression of Concern: Carcinoma-produced factors activate myeloid cells through TLR2 to stimulate metastasis",
@@ -134,7 +198,7 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 61,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
@@ -156,7 +220,7 @@
       },
       {
         "name": "Thursday",
-        "temperature": 87,
+        "temperature": 88,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
