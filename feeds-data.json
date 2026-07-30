@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-30T02:08:33.470Z",
+  "generatedAt": "2026-07-30T05:38:33.891Z",
   "items": [
+    {
+      "title": "Man convicted in terrorism trial over the 2022 stabbing of author Salman Rushdie",
+      "link": "https://www.npr.org/2026/07/30/g-s1-136257/stabbing-conviction-salman-rushdie",
+      "pubDate": "Thu, 30 Jul 2026 01:33:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4432x2955+0+0/resize/4432x2955!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F2e%2F186963154293beef1e50dd736bb6%2Fap26202823107887.jpg"
+    },
+    {
+      "title": "Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 23",
+      "link": "https://www.npr.org/2026/07/30/nx-s1-5913050/japan-earthquake-updates",
+      "pubDate": "Thu, 30 Jul 2026 01:18:58 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3968x2645+0+0/resize/3968x2645!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F58%2F17a9ea9549888fa7aa20d4b7ec5e%2Fap26211131830686.jpg"
+    },
     {
       "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
       "link": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin",
@@ -48,22 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F72%2F116065e040039a53d770cff0721b%2Ffarflungpostcard-betsy.jpg"
-    },
-    {
-      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
-      "link": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
-      "pubDate": "Wed, 29 Jul 2026 07:00:47 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
-    },
-    {
-      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
-      "link": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
-      "pubDate": "Wed, 29 Jul 2026 05:24:52 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4395x2930+0+0/resize/4395x2930!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2F4c%2Fd5342e3e4bf0857b9e9d534b95ff%2Fap26209715636264.jpg"
     },
     {
       "title": "NASA Awards 2026 Innovative Technology Concepts",
@@ -198,32 +198,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 62,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Smoke then Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/smoke/few?size=medium"
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Thursday",
         "temperature": 88,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny then Patchy Smoke",
-        "icon": "https://api.weather.gov/icons/land/day/sct/smoke?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Thursday Night",
-        "temperature": 64,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Smoke then Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/smoke/bkn?size=medium"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
       },
       {
         "name": "Friday",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/tsra,80?size=medium"
+        "shortForecast": "Cloudy then Showers And Thunderstorms Likely",
+        "icon": "https://api.weather.gov/icons/land/day/ovc/tsra,70?size=medium"
       }
     ]
   }
