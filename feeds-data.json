@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-30T05:38:33.891Z",
+  "generatedAt": "2026-07-30T08:22:26.942Z",
   "items": [
+    {
+      "title": "Senate panel delays vote on Blanche's nomination as key Republicans withhold support",
+      "link": "https://www.npr.org/2026/07/30/g-s1-136265/senate-blanche-nomination",
+      "pubDate": "Thu, 30 Jul 2026 01:56:51 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7078x4719+0+0/resize/7078x4719!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F39%2F4fa39b854774be685d4f6fa8a00e%2Fap26196680476332.jpg"
+    },
     {
       "title": "Man convicted in terrorism trial over the 2022 stabbing of author Salman Rushdie",
       "link": "https://www.npr.org/2026/07/30/g-s1-136257/stabbing-conviction-salman-rushdie",
@@ -58,12 +66,28 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2700x1344+0+457/resize/2700x1344!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2F40%2Fb736000f4d5e8119e2c8d53c55c4%2Fwilsonemily-ctrusteesoftheuniversityofpennsylvania.jpg"
     },
     {
-      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
-      "link": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
-      "pubDate": "Wed, 29 Jul 2026 10:21:07 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F72%2F116065e040039a53d770cff0721b%2Ffarflungpostcard-betsy.jpg"
+      "title": "NASA Johnson Interns Shaping the Future of Exploration ",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
+      "pubDate": "Thu, 30 Jul 2026 08:08:55 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/dsc03157.jpg?w=1536"
+    },
+    {
+      "title": "APOD: July 30 – Red Sun trough Wildfire Smoke",
+      "link": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
+      "pubDate": "Thu, 30 Jul 2026 04:05:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/red_sun.jpg?w=3000&#038;h=2000&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "New Zealand’s Southern Wilderness",
+      "link": "https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/",
+      "pubDate": "Thu, 30 Jul 2026 04:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-zealand"
     },
     {
       "title": "NASA Awards 2026 Innovative Technology Concepts",
@@ -104,30 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26729-curiosity-discovers-a-field-of-martian-polygons.jpg?w=2048"
-    },
-    {
-      "title": "APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/",
-      "pubDate": "Wed, 29 Jul 2026 15:25:54 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Understanding How Martian Auroras Are Made",
-      "link": "https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/",
-      "pubDate": "Wed, 29 Jul 2026 15:20:28 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/pia22076.jpg?w=2048"
-    },
-    {
-      "title": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
-      "link": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
-      "pubDate": "Wed, 29 Jul 2026 14:00:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVTW3MA3BWZ66MW2C9HG0601.png?w=16191&#038;h=7844&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Author Correction: A ductile solid electrolyte interphase for solid-state batteries",
