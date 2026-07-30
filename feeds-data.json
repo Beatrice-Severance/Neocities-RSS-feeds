@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-29T21:58:54.968Z",
+  "generatedAt": "2026-07-30T02:08:33.470Z",
   "items": [
+    {
+      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
+      "link": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin",
+      "pubDate": "Wed, 29 Jul 2026 19:02:53 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2774+0+0/resize/4000x2774!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F12%2F5249a3ba415992bbe8fc996a8a40%2Fgettyimages-1193097821.jpg"
+    },
     {
       "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
       "link": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
@@ -58,12 +66,68 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4395x2930+0+0/resize/4395x2930!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2F4c%2Fd5342e3e4bf0857b9e9d534b95ff%2Fap26209715636264.jpg"
     },
     {
-      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
-      "link": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
-      "pubDate": "Wed, 29 Jul 2026 05:07:03 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5145x3430+0+0/resize/5145x3430!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F7f%2F6e8fb8134e29ae162b0c0da58493%2Fap26210255812509.jpg"
+      "title": "NASA Awards 2026 Innovative Technology Concepts",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/",
+      "pubDate": "Wed, 29 Jul 2026 21:04:20 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/niac.png?w=2048"
+    },
+    {
+      "title": "NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/",
+      "pubDate": "Wed, 29 Jul 2026 16:49:37 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/eclipse-coverage-advisory-july-29.jpg?w=2048"
+    },
+    {
+      "title": "NASA’s Curiosity Views a Sand-Capped Butte",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/",
+      "pubDate": "Wed, 29 Jul 2026 16:08:12 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26730/PIA26730.png?w=6162&#038;h=2576&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA’s Curiosity Discovers a Field of Martian Polygons",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/",
+      "pubDate": "Wed, 29 Jul 2026 16:06:39 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26729/PIA26729.png?w=29240&#038;h=8040&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+      "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+      "pubDate": "Wed, 29 Jul 2026 15:30:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26729-curiosity-discovers-a-field-of-martian-polygons.jpg?w=2048"
+    },
+    {
+      "title": "APOD: 2026 July 29 – Psyche Receives Gravity Assist from Mars",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-29-psyche-receives-gravity-assist-from-mars/",
+      "pubDate": "Wed, 29 Jul 2026 15:25:54 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Understanding How Martian Auroras Are Made",
+      "link": "https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/",
+      "pubDate": "Wed, 29 Jul 2026 15:20:28 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/pia22076.jpg?w=2048"
+    },
+    {
+      "title": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
+      "link": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+      "pubDate": "Wed, 29 Jul 2026 14:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVTW3MA3BWZ66MW2C9HG0601.png?w=16191&#038;h=7844&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Author Correction: A ductile solid electrolyte interphase for solid-state batteries",
@@ -134,15 +198,8 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 86,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 63,
+        "temperature": 62,
         "temperatureUnit": "F",
         "shortForecast": "Patchy Smoke then Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/smoke/few?size=medium"
@@ -160,6 +217,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Patchy Smoke then Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/smoke/bkn?size=medium"
+      },
+      {
+        "name": "Friday",
+        "temperature": 76,
+        "temperatureUnit": "F",
+        "shortForecast": "Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/tsra,80?size=medium"
       }
     ]
   }
