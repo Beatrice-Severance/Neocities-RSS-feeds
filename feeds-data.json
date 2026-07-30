@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-30T11:05:37.320Z",
+  "generatedAt": "2026-07-30T13:54:11.382Z",
   "items": [
+    {
+      "title": "Alien Terrorist Removal Court to hold its first-ever hearing after 30 years",
+      "link": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
+      "pubDate": "Thu, 30 Jul 2026 09:10:45 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7849x5233+0+0/resize/7849x5233!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F35%2Fa52cdeed4abdab16dcc3b7b132b9%2Fgettyimages-2262149675.jpg"
+    },
+    {
+      "title": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
+      "link": "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan",
+      "pubDate": "Thu, 30 Jul 2026 07:45:46 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "Russian strikes across Ukraine kill at least 8 civilians and wound dozens",
       "link": "https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war",
@@ -8,22 +24,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3712+0+0/resize/5568x3712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F59%2Fd6d1da2d4d6680c098d518438601%2Fap26211246717982.jpg"
-    },
-    {
-      "title": "Here's how 'parasite' went from a laughing matter to a serious biological threat",
-      "link": "https://www.npr.org/2026/07/30/nx-s1-5909222/parasite-cyclospora-outbreak-odyssey-nolan",
-      "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6188x4118+0+0/resize/6188x4118!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F14%2F917097fb43baa2468e0b5b28f530%2Fgettyimages-2287359243.jpg"
-    },
-    {
-      "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice",
-      "link": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
-      "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2016x1512+0+0/resize/2016x1512!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2Fb7%2Ffb42944e477dbe99ad4e2e4b4c33%2Fsnyder-dekey.jpeg"
     },
     {
       "title": "Digital habits that rob attention and energy — and how to combat them",
@@ -42,20 +42,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2333+0+0/resize/3500x2333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2F56%2F4978b7ca41a39c4848b24bf4923b%2Flumbee-03.jpg"
     },
     {
-      "title": "Congress hasn't passed AI rules for schools. So these 98 teens did it themselves",
-      "link": "https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy",
-      "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/7008x4672!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2Fe2%2F35b927764d0f90d83b0e31317095%2Fkesner-npr-studentai-059.JPG"
-    },
-    {
       "title": "The renter-owner wealth gap is wider than ever, as many are priced out of buying",
       "link": "https://www.npr.org/2026/07/30/nx-s1-5910711/renter-owner-wealth-gap",
       "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Fa1%2Fad1109584afc978936ca62e3f2c0%2F2026-07-rentersgap-apointer-004.JPG"
+    },
+    {
+      "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice",
+      "link": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
+      "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2016x1512+0+0/resize/2016x1512!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2Fb7%2Ffb42944e477dbe99ad4e2e4b4c33%2Fsnyder-dekey.jpeg"
     },
     {
       "title": "The Trump administration has undercut the U.S. asylum program. These 3 charts show how",
@@ -138,6 +138,14 @@
       "thumbnail": null
     },
     {
+      "title": "Demand for lithium is surging: here’s how to make mining more sustainable",
+      "link": "https://www.nature.com/articles/d41586-026-02195-z",
+      "pubDate": "2026-07-30T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "How I use statistics and my law degree to fight human-rights abuses",
       "link": "https://www.nature.com/articles/d41586-026-02079-2",
       "pubDate": "2026-07-30T00:00:00.000Z",
@@ -180,14 +188,6 @@
     {
       "title": "Was art key to ancient humans' success? The secrets of Hohle Fels cave",
       "link": "https://www.nature.com/articles/d41586-026-02359-x",
-      "pubDate": "2026-07-29T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "The piezochiral effect",
-      "link": "https://www.nature.com/articles/s41586-026-10845-5",
       "pubDate": "2026-07-29T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
