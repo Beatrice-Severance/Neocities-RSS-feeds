@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T22:03:58.780Z",
+  "generatedAt": "2026-07-31T02:36:41.472Z",
   "items": [
     {
       "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
@@ -66,6 +66,14 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7849x5233+0+0/resize/7849x5233!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F35%2Fa52cdeed4abdab16dcc3b7b132b9%2Fgettyimages-2262149675.jpg"
     },
     {
+      "title": "Students Take on Airborne Field Research with NASA",
+      "link": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
+      "pubDate": "Thu, 30 Jul 2026 20:36:56 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/balloon%20inflating%206.jpeg?w=3024&#038;h=4032&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
       "link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
       "pubDate": "Thu, 30 Jul 2026 16:11:41 +0000",
@@ -91,7 +99,7 @@
     },
     {
       "title": "APOD: 2026 July 30 – Red Sun trough Wildfire Smoke",
-      "link": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
+      "link": "https://science.nasa.gov/image-article/apod/apod-july-30-red-sun-trough-wildfire-smoke/",
       "pubDate": "Thu, 30 Jul 2026 04:05:00 +0000",
       "source": "NASA",
       "category": "Science",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/eclipse-coverage-advisory-july-29.jpg?w=2048"
-    },
-    {
-      "title": "NASA’s Curiosity Views a Sand-Capped Butte",
-      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/",
-      "pubDate": "Wed, 29 Jul 2026 16:08:12 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26730/PIA26730.png?w=6162&#038;h=2576&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
@@ -198,13 +198,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 87,
-        "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 64,
         "temperatureUnit": "F",
@@ -223,7 +216,14 @@
         "temperature": 63,
         "temperatureUnit": "F",
         "shortForecast": "Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,80/tsra,100?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/tsra,90/tsra,100?size=medium"
+      },
+      {
+        "name": "Saturday",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "shortForecast": "Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,80/rain_showers,70?size=medium"
       }
     ]
   }
