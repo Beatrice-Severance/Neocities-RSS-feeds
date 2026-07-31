@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-31T16:43:41.425Z",
+  "generatedAt": "2026-07-31T19:21:20.949Z",
   "items": [
+    {
+      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
+      "pubDate": "Fri, 31 Jul 2026 13:48:26 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "Keeping cool without AC: Our readers share their tips",
       "link": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
@@ -42,6 +50,14 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4794x3196+0+0/resize/4794x3196!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F25%2F7f8557244423bf30d6e5935971be%2Fgettyimages-2280399027.jpg"
     },
     {
+      "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+      "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4001+0+0/resize/6000x4001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fbb%2F72b330f74fe0a52c7b865b1f441a%2Fgettyimages-2286523203.jpg"
+    },
+    {
       "title": "Democrats show divisions on Israel amid competitive midterm elections",
       "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
       "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
@@ -50,20 +66,28 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5489x3659+0+0/resize/5489x3659!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2F2b%2Fc1df329e48d3905c9b5935b185e2%2Fap26208634344473.jpg"
     },
     {
-      "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
-      "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2F15%2F6a752a8e4ac8ab4c30c6366c0097%2Fgettyimages-2235234083.jpg"
+      "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+      "pubDate": "Fri, 31 Jul 2026 19:05:25 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2015/04/prepost-flammability-test-photo-of-natural-webbing.png"
     },
     {
-      "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
-      "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4001+0+0/resize/6000x4001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fbb%2F72b330f74fe0a52c7b865b1f441a%2Fgettyimages-2286523203.jpg"
+      "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket ",
+      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+      "pubDate": "Fri, 31 Jul 2026 18:39:47 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/acd25-0156-012.jpg?w=1536"
+    },
+    {
+      "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+      "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+      "pubDate": "Fri, 31 Jul 2026 17:11:14 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyjuly31.jpg?w=1920"
     },
     {
       "title": "Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?",
@@ -106,32 +130,16 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/balloon%20inflating%206.jpeg?w=3024&#038;h=4032&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
-      "link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
-      "pubDate": "Thu, 30 Jul 2026 16:11:41 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/burnham.jpg?w=1365"
-    },
-    {
-      "title": "Starburst Galaxy Centaurus A",
-      "link": "https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/",
-      "pubDate": "Thu, 30 Jul 2026 14:24:08 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932.png?w=2048"
-    },
-    {
-      "title": "NASA Johnson Interns Shaping the Future of Exploration ",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
-      "pubDate": "Thu, 30 Jul 2026 08:08:55 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/07/dsc03157.jpg?w=1536"
-    },
-    {
       "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
       "link": "https://www.nature.com/articles/s41586-026-10921-w",
+      "pubDate": "2026-07-31T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
+      "link": "https://www.nature.com/articles/d41586-026-02419-2",
       "pubDate": "2026-07-31T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -178,17 +186,9 @@
       "thumbnail": null
     },
     {
-      "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
-      "link": "https://www.nature.com/articles/s41586-026-10939-0",
-      "pubDate": "2026-07-30T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
-      "link": "https://www.nature.com/articles/s41586-026-10920-x",
-      "pubDate": "2026-07-30T00:00:00.000Z",
+      "title": "Scientists using LLMs will ‘do more, less well’, modelling study predicts",
+      "link": "https://www.nature.com/articles/d41586-026-02397-5",
+      "pubDate": "2026-07-31T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
@@ -198,11 +198,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 77,
+        "name": "This Afternoon",
+        "temperature": 73,
         "temperatureUnit": "F",
         "shortForecast": "Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/tsra,80?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/tsra,90?size=medium"
       },
       {
         "name": "Tonight",
@@ -215,8 +215,8 @@
         "name": "Saturday",
         "temperature": 74,
         "temperatureUnit": "F",
-        "shortForecast": "Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,80/rain_showers,40?size=medium"
+        "shortForecast": "Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra,80/tsra,40?size=medium"
       },
       {
         "name": "Saturday Night",
