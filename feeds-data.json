@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T02:35:46.433Z",
+  "generatedAt": "2026-08-01T05:53:13.569Z",
   "items": [
     {
       "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
@@ -66,6 +66,14 @@
       "thumbnail": null
     },
     {
+      "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/",
+      "pubDate": "Sat, 01 Aug 2026 04:05:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FullMoon28-7-2026BrankoNadj.jpg?w=3150&#038;h=2096&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "What’s Up: August 2026 Skywatching Tips from NASA",
       "link": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
       "pubDate": "Fri, 31 Jul 2026 22:35:36 +0000",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04963_opgs_edr_ncam_NLB_838089704EDR_F1232544NCAM00266M_.jpg?w=1024&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
-      "link": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
-      "pubDate": "Fri, 31 Jul 2026 14:11:34 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://images-assets.nasa.gov/image/KSC-20260727-PH-JMT01_0001/KSC-20260727-PH-JMT01_0001~large.jpg?w=1438&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
@@ -199,10 +199,10 @@
     "periods": [
       {
         "name": "Tonight",
-        "temperature": 63,
+        "temperature": 62,
         "temperatureUnit": "F",
         "shortForecast": "Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,100?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/tsra,90/tsra,100?size=medium"
       },
       {
         "name": "Saturday",
