@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-31T22:03:14.268Z",
+  "generatedAt": "2026-08-01T02:35:46.433Z",
   "items": [
+    {
+      "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
+      "pubDate": "Fri, 31 Jul 2026 22:08:51 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F01%2F31ed8c064234b8adf66fdd171280%2Fgettyimages-2247042721-1.jpg"
+    },
+    {
+      "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
+      "pubDate": "Fri, 31 Jul 2026 19:24:36 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2Fea%2Fdbd5ddee41199550eee86004e45b%2Fgettyimages-2285355780.jpg"
+    },
     {
       "title": "Climate adaptation at its limits, says one scientist",
       "link": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
@@ -50,20 +66,12 @@
       "thumbnail": null
     },
     {
-      "title": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
-      "link": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz",
-      "pubDate": "Fri, 31 Jul 2026 05:01:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/5654x3182!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fab%2F95%2F32910b5c4c2980f96904c7a60108%2Fzendaya-fauci-sexybot.jpg"
-    },
-    {
-      "title": "450K borrowers say they were ripped off. Their student loans are being erased",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
-      "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4794x3196+0+0/resize/4794x3196!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F25%2F7f8557244423bf30d6e5935971be%2Fgettyimages-2280399027.jpg"
+      "title": "What’s Up: August 2026 Skywatching Tips from NASA",
+      "link": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
+      "pubDate": "Fri, 31 Jul 2026 22:35:36 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/august/20260717%20Whats%20Up%20August%202026%20WHATSUp_2.jpg?w=1920&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://images-assets.nasa.gov/image/KSC-20260727-PH-JMT01_0001/KSC-20260727-PH-JMT01_0001~large.jpg?w=1438&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
-      "pubDate": "Fri, 31 Jul 2026 04:05:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/DARK-DOODAD_2048.jpg?w=2048&#038;h=1307&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
@@ -198,25 +198,18 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 73,
-        "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra,90?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 64,
+        "temperature": 63,
         "temperatureUnit": "F",
         "shortForecast": "Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,100/tsra,90?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/tsra,100?size=medium"
       },
       {
         "name": "Saturday",
         "temperature": 74,
         "temperatureUnit": "F",
         "shortForecast": "Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra,80/tsra,40?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/tsra,90/tsra,60?size=medium"
       },
       {
         "name": "Saturday Night",
@@ -224,6 +217,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+      },
+      {
+        "name": "Sunday",
+        "temperature": 78,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       }
     ]
   }
