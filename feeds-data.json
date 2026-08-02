@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T02:33:52.635Z",
+  "generatedAt": "2026-08-02T05:55:12.154Z",
   "items": [
     {
       "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
@@ -198,18 +198,18 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 62,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
       },
       {
         "name": "Sunday",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+        "shortForecast": "Patchy Fog then Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium"
       },
       {
         "name": "Sunday Night",
@@ -220,7 +220,7 @@
       },
       {
         "name": "Monday",
-        "temperature": 81,
+        "temperature": 82,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
