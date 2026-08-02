@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-02T15:58:37.463Z",
+  "generatedAt": "2026-08-02T19:06:07.866Z",
   "items": [
+    {
+      "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+      "link": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
+      "pubDate": "Sun, 02 Aug 2026 14:31:34 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3919x2613+0+0/resize/3919x2613!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F34%2Fd5%2F6e20a7f64c8d9601f0f06b29d751%2Fap26100755622094.jpg"
+    },
     {
       "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
       "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
@@ -58,14 +66,6 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4967x3311+0+0/resize/4967x3311!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fde%2F77dce1fa4c3f9fcd3118f139b4eb%2Fap26212770919992.jpg"
     },
     {
-      "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
-      "pubDate": "Sat, 01 Aug 2026 18:32:44 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4562x3066+0+0/resize/4562x3066!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2Fbe%2F9343209a4be287bbd2a45e3cc2e3%2Fap26213770901252.jpg"
-    },
-    {
       "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
       "link": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
       "pubDate": "Sun, 02 Aug 2026 04:05:00 +0000",
@@ -75,7 +75,7 @@
     },
     {
       "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-1-buck-moon-and-belt-of-venus/",
       "pubDate": "Sat, 01 Aug 2026 04:05:00 +0000",
       "source": "NASA",
       "category": "Science",
@@ -198,15 +198,15 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 79,
+        "name": "This Afternoon",
+        "temperature": 78,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Tonight",
-        "temperature": 57,
+        "temperature": 56,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
@@ -220,7 +220,7 @@
       },
       {
         "name": "Monday Night",
-        "temperature": 59,
+        "temperature": 60,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
