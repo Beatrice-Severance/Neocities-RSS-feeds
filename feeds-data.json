@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-02T05:55:12.154Z",
+  "generatedAt": "2026-08-02T08:20:57.337Z",
   "items": [
+    {
+      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
+      "link": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
+      "pubDate": "Sun, 02 Aug 2026 04:01:27 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4098x2640+0+0/resize/4098x2640!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2F8a%2Fe89de7084b93bcd4f35fdaa9dc49%2Fap100608157317.jpg"
+    },
+    {
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+      "pubDate": "Sun, 02 Aug 2026 03:34:27 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4967x3311+0+0/resize/4967x3311!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fde%2F77dce1fa4c3f9fcd3118f139b4eb%2Fap26212770919992.jpg"
+    },
     {
       "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
       "link": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
@@ -48,22 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6704x4469+0+0/resize/6704x4469!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2Fe3%2Fc6082e5a4c75892b49f83d5da193%2Fnew-homes-for-slum-residents-01946.jpg"
-    },
-    {
-      "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
-      "pubDate": "Sat, 01 Aug 2026 07:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4382x2921+0+0/resize/4382x2921!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F9c%2Feae035dd4eadb09df9cd11ac3650%2Fgettyimages-1288670273.jpg"
-    },
-    {
-      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
-      "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1d%2F76%2F019a03fb4d6798d392d5616a960e%2Fnpr-lbn-diegoibarrrasanchez-001.jpg"
     },
     {
       "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
@@ -199,7 +199,7 @@
     "periods": [
       {
         "name": "Overnight",
-        "temperature": 62,
+        "temperature": 63,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
