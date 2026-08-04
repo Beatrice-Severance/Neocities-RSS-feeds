@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-03T22:07:29.152Z",
+  "generatedAt": "2026-08-04T02:20:36.174Z",
   "items": [
+    {
+      "title": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
+      "link": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
+      "pubDate": "Mon, 03 Aug 2026 18:53:15 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1067+0+0/resize/1600x1067!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2Fe2%2F777cc6614a9fb5828fa8aaac0fb3%2Fpalmyra-1.jpg"
+    },
     {
       "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
       "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
@@ -10,7 +18,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F0f%2F89771f89421b85461f804d163270%2Fgettyimages-2275355653.jpg"
     },
     {
-      "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+      "title": "Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request",
       "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
       "pubDate": "Mon, 03 Aug 2026 15:33:05 -0400",
       "source": "NPR News",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5349x3566+0+0/resize/5349x3566!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F69%2F6ffe9816414eaf8756c6b523ae1d%2Fap26183085536365.jpg"
-    },
-    {
-      "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
-      "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-      "pubDate": "Mon, 03 Aug 2026 07:57:06 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
     },
     {
       "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
@@ -198,13 +198,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 83,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 62,
         "temperatureUnit": "F",
@@ -215,15 +208,22 @@
         "name": "Tuesday",
         "temperature": 83,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny then Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/sct/tsra_hi,30?size=medium"
+        "shortForecast": "Partly Sunny then Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/bkn/tsra_hi,60?size=medium"
       },
       {
         "name": "Tuesday Night",
         "temperature": 63,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
+        "shortForecast": "Showers And Thunderstorms Likely then Chance Showers And Thunderstorms",
         "icon": "https://api.weather.gov/icons/land/night/tsra,60/tsra,70?size=medium"
+      },
+      {
+        "name": "Wednesday",
+        "temperature": 76,
+        "temperatureUnit": "F",
+        "shortForecast": "Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,50?size=medium"
       }
     ]
   }
