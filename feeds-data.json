@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T02:20:36.174Z",
+  "generatedAt": "2026-08-04T05:44:50.091Z",
   "items": [
     {
       "title": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
@@ -198,32 +198,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
-        "temperature": 62,
+        "name": "Overnight",
+        "temperature": 63,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Tuesday",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny then Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/bkn/tsra_hi,60?size=medium"
+        "shortForecast": "Partly Sunny then Slight Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/bkn/tsra_hi,40?size=medium"
       },
       {
         "name": "Tuesday Night",
-        "temperature": 63,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms Likely then Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,60/tsra,70?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra,70/tsra,80?size=medium"
       },
       {
         "name": "Wednesday",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,50?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/tsra,50/tsra,20?size=medium"
       }
     ]
   }
