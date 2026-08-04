@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-04T19:28:06.872Z",
+  "generatedAt": "2026-08-04T22:09:29.539Z",
   "items": [
+    {
+      "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
+      "pubDate": "Tue, 04 Aug 2026 18:02:03 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5736x3824+0+0/resize/5736x3824!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2F4e%2F3912ff5c4e3da13248a292d69f52%2Fgettyimages-2280563095.jpg"
+    },
+    {
+      "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
+      "pubDate": "Tue, 04 Aug 2026 16:16:43 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "One Maine community's fight to save a birthing center",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
+      "pubDate": "Tue, 04 Aug 2026 16:16:26 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
       "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
@@ -18,7 +42,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F90%2F63f834f841bfac537901a62294bb%2Fgettyimages-2260272847.jpg"
     },
     {
-      "title": "Europe heat wave fuels drought, fires and energy fears",
+      "title": "Europe's heat wave fuels drought, wildfires and fears about energy supplies",
       "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
       "pubDate": "Tue, 04 Aug 2026 12:37:38 -0400",
       "source": "NPR News",
@@ -42,28 +66,20 @@
       "thumbnail": null
     },
     {
-      "title": "They're a world leader in using drones for healthcare. But drones can't do it all",
-      "link": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
-      "pubDate": "Tue, 04 Aug 2026 07:05:10 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2Fb2%2F677d63de4f3e8e561752f5720fd9%2F20260612-dsc2989.jpg"
+      "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
+      "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/",
+      "pubDate": "Tue, 04 Aug 2026 20:00:14 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/06/art002e024603orig.jpg?w=2048"
     },
     {
-      "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
-      "link": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
-      "pubDate": "Tue, 04 Aug 2026 06:56:56 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Fc9%2F4bd957a04d87b28f8b355a31f683%2Fspokane-fires-260803-0402.jpg"
-    },
-    {
-      "title": "The sneaky economics of healthwashing",
-      "link": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
-      "pubDate": "Tue, 04 Aug 2026 06:30:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F2a%2Ff3df296b41c79ba864802093f087%2Fgettyimages-2055483472.jpg"
+      "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/",
+      "pubDate": "Tue, 04 Aug 2026 18:02:55 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": null
     },
     {
       "title": "Ames Science Stars of the Month – August 2026",
@@ -72,6 +88,14 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/slide1.jpeg?w=1920"
+    },
+    {
+      "title": "August 2026 Satellite Puzzler",
+      "link": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+      "pubDate": "Tue, 04 Aug 2026 16:31:46 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_augustpuzzler.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
@@ -90,7 +114,7 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260728-ph-jmt01-0003orig.jpg?w=2048"
     },
     {
-      "title": "APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula",
+      "title": "APOD: 2026 August 4 – Curious Cometary Knots in the Helix Nebula",
       "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
       "pubDate": "Tue, 04 Aug 2026 04:05:00 +0000",
       "source": "NASA",
@@ -104,30 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-streams-across-eastern-washington/washingtonfires_tmo_20260802.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
-      "link": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/",
-      "pubDate": "Mon, 03 Aug 2026 19:22:43 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/balloons-la-students-summer-2026.jpg?w=2048"
-    },
-    {
-      "title": "Guinea-Bissau Tidal Waters",
-      "link": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
-      "pubDate": "Mon, 03 Aug 2026 17:15:39 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/bijagosarchipelago-oli-20251128-lrg.jpg?w=2048"
-    },
-    {
-      "title": "A Bare Summer for Barnes Ice Cap",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-bare-summer-for-barnes-ice-cap/",
-      "pubDate": "Mon, 03 Aug 2026 16:00:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bare-summer-for-barnes-ice-cap/barnesicecapzm2_oli2_20260712.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
@@ -201,7 +201,7 @@
         "name": "This Afternoon",
         "temperature": 84,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
+        "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
