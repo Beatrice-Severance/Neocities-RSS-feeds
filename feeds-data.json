@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-05T05:44:09.430Z",
+  "generatedAt": "2026-08-05T08:32:12.583Z",
   "items": [
+    {
+      "title": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
+      "pubDate": "Wed, 05 Aug 2026 04:01:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
       "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4187x2791+0+0/resize/4187x2791!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F63%2F9413b60f4ea997ccc13fd36777af%2Fap26190449857953.jpg"
-    },
-    {
-      "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
-      "pubDate": "Tue, 04 Aug 2026 13:43:06 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F90%2F63f834f841bfac537901a62294bb%2Fgettyimages-2260272847.jpg"
     },
     {
       "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
@@ -199,31 +199,31 @@
     "periods": [
       {
         "name": "Overnight",
-        "temperature": 64,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,60?size=medium"
+        "shortForecast": "Slight Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra,30?size=medium"
       },
       {
         "name": "Wednesday",
-        "temperature": 75,
+        "temperature": 73,
         "temperatureUnit": "F",
         "shortForecast": "Patchy Fog",
-        "icon": "https://api.weather.gov/icons/land/day/tsra,60/tsra,30?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/tsra,70/tsra,40?size=medium"
       },
       {
         "name": "Wednesday Night",
         "temperature": 59,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Mostly Cloudy then Areas Of Fog",
+        "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium"
       },
       {
         "name": "Thursday",
         "temperature": 80,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+        "shortForecast": "Areas Of Fog then Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium"
       }
     ]
   }
