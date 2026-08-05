@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-05T02:17:54.010Z",
+  "generatedAt": "2026-08-05T05:44:09.430Z",
   "items": [
+    {
+      "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F57%2F557063f74791a5d7bd64fc8de49f%2Fap26215767726870.jpg"
+    },
     {
       "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
       "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F90%2F63f834f841bfac537901a62294bb%2Fgettyimages-2260272847.jpg"
-    },
-    {
-      "title": "Europe's heat wave fuels drought, wildfires and fears about energy supplies",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
-      "pubDate": "Tue, 04 Aug 2026 12:37:38 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7597x5065+0+0/resize/7597x5065!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F51%2F9f2193d34be290200149af3e68f6%2Fap26216451993180.jpg"
     },
     {
       "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
@@ -198,25 +198,25 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 64,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,50/tsra,90?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra,60?size=medium"
       },
       {
         "name": "Wednesday",
-        "temperature": 74,
+        "temperature": 75,
         "temperatureUnit": "F",
         "shortForecast": "Patchy Fog",
-        "icon": "https://api.weather.gov/icons/land/day/tsra,70/tsra,20?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/tsra,60/tsra,30?size=medium"
       },
       {
         "name": "Wednesday Night",
-        "temperature": 57,
+        "temperature": 59,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/sct?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Thursday",
