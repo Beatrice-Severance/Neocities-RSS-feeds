@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-05T14:03:29.284Z",
+  "generatedAt": "2026-08-05T16:40:01.927Z",
   "items": [
+    {
+      "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
+      "pubDate": "Wed, 05 Aug 2026 12:06:06 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3536x2357+0+0/resize/3536x2357!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb2%2F3b%2Fe64f49f1474299197a0afd8ddcbc%2Fap26213600617480.jpg"
+    },
+    {
+      "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
+      "pubDate": "Wed, 05 Aug 2026 11:26:43 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8179x5453+0+0/resize/8179x5453!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2F7a%2F150bd18e46239d4b576014a5e5c4%2Fap26215340003516.jpg"
+    },
     {
       "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
       "link": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
@@ -26,7 +42,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8144x5424+0+0/resize/8144x5424!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F29%2F121117c84af4848c60ca37b68d81%2Fap26217188223210.jpg"
     },
     {
-      "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
+      "title": "Progressives see biggest win yet in Michigan while Trump flexes power over GOP",
       "link": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
       "pubDate": "Wed, 05 Aug 2026 06:08:28 -0400",
       "source": "NPR News",
@@ -50,20 +66,20 @@
       "thumbnail": null
     },
     {
-      "title": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
-      "pubDate": "Wed, 05 Aug 2026 04:01:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
+      "title": "NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/",
+      "pubDate": "Wed, 05 Aug 2026 15:25:27 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/1-pia26758-figure-a-inset-16x9-1.jpg?w=1024"
     },
     {
-      "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
-      "pubDate": "Wed, 05 Aug 2026 00:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F57%2F557063f74791a5d7bd64fc8de49f%2Fap26215767726870.jpg"
+      "title": "Advanced Mini-laboratories Automate Space Station Research",
+      "link": "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/",
+      "pubDate": "Wed, 05 Aug 2026 14:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2024/08/iss071e486706.jpg?w=1536"
     },
     {
       "title": "APOD: 2026 August 5 – Spokes on Saturn’s B Ring",
@@ -114,20 +130,12 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_augustpuzzler.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
-      "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
-      "pubDate": "Tue, 04 Aug 2026 16:14:51 +0000",
-      "source": "NASA",
+      "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
+      "link": "https://www.nature.com/articles/s41586-026-10970-1",
+      "pubDate": "2026-08-05T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/moon-base-update-slate.jpg?w=1920"
-    },
-    {
-      "title": "Roman Space Telescope Plaque Install",
-      "link": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/",
-      "pubDate": "Tue, 04 Aug 2026 15:50:44 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260728-ph-jmt01-0003orig.jpg?w=2048"
+      "thumbnail": null
     },
     {
       "title": "Publisher Correction: Progressive plasticity during colorectal cancer metastasis",
@@ -138,57 +146,49 @@
       "thumbnail": null
     },
     {
-      "title": "James Bond, not Bond James: why scientific publishing must respect name order",
-      "link": "https://www.nature.com/articles/d41586-026-01772-6",
+      "title": "Editorial Expression of Concern: Tumour exosome integrins determine organotropic metastasis",
+      "link": "https://www.nature.com/articles/s41586-026-10977-8",
       "pubDate": "2026-08-05T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Exclusive: the science papers that patents cite the most",
-      "link": "https://www.nature.com/articles/d41586-026-02386-8",
+      "title": "<b>Junk plastic turns into high-value commodity with chemistry trick</b>",
+      "link": "https://www.nature.com/articles/d41586-026-02445-0",
       "pubDate": "2026-08-05T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "The recovered notes of Professor Alborough",
-      "link": "https://www.nature.com/articles/d41586-026-02252-7",
+      "title": "An expanded codebook of human transcription factor DNA-binding specificity",
+      "link": "https://www.nature.com/articles/s41586-026-10798-9",
       "pubDate": "2026-08-05T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Why science must reinforce its social contract",
-      "link": "https://www.nature.com/articles/d41586-026-02444-1",
+      "title": "Ubiquitous Kelvin–Helmholtz instabilities driving plasma mixing on the Sun",
+      "link": "https://www.nature.com/articles/s41586-026-10871-3",
       "pubDate": "2026-08-05T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
-      "link": "https://www.nature.com/articles/s41586-026-10958-x",
-      "pubDate": "2026-08-04T00:00:00.000Z",
+      "title": "ZFP36L2 orchestrates stress-adaptive plasticity in regeneration and cancer",
+      "link": "https://www.nature.com/articles/s41586-026-10890-0",
+      "pubDate": "2026-08-05T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Put health systems at the centre of European heatwave plans",
-      "link": "https://www.nature.com/articles/d41586-026-02426-3",
-      "pubDate": "2026-08-04T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "‘Television’? The word will never catch on!",
-      "link": "https://www.nature.com/articles/d41586-026-02379-7",
-      "pubDate": "2026-08-04T00:00:00.000Z",
+      "title": "In situ particle-to-fibre transformation of hydrogels for 3D printing",
+      "link": "https://www.nature.com/articles/s41586-026-10883-z",
+      "pubDate": "2026-08-05T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
@@ -201,15 +201,15 @@
         "name": "Today",
         "temperature": 73,
         "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra,80/tsra,40?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra,30/tsra,40?size=medium"
       },
       {
         "name": "Tonight",
         "temperature": 59,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy then Areas Of Fog",
-        "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium"
+        "shortForecast": "Slight Chance Showers And Thunderstorms then Areas Of Fog",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,20/fog?size=medium"
       },
       {
         "name": "Thursday",
