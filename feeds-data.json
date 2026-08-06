@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T22:10:53.788Z",
+  "generatedAt": "2026-08-06T02:23:12.332Z",
   "items": [
     {
       "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
@@ -8,6 +8,14 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5696x3784+0+0/resize/5696x3784!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F43%2F70%2F97a0284c4f95a85d37c869178815%2Fap25317160029809.jpg"
+    },
+    {
+      "title": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
+      "pubDate": "Wed, 05 Aug 2026 16:23:02 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
     },
     {
       "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6955x4637+0+0/resize/6955x4637!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F2e%2F350988944a76bdf922f9f54ff06d%2Fap26216674026735.jpg"
-    },
-    {
-      "title": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
-      "link": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
-      "pubDate": "Wed, 05 Aug 2026 07:54:57 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
     },
     {
       "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
@@ -130,6 +130,14 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/06/art002e024603orig.jpg?w=2048"
     },
     {
+      "title": "Pumas are drivers’ guardian angels",
+      "link": "https://www.nature.com/articles/d41586-026-02429-0",
+      "pubDate": "2026-08-06T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
       "link": "https://www.nature.com/articles/s41586-026-10970-1",
       "pubDate": "2026-08-05T00:00:00.000Z",
@@ -184,32 +192,17 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "In situ particle-to-fibre transformation of hydrogels for 3D printing",
-      "link": "https://www.nature.com/articles/s41586-026-10883-z",
-      "pubDate": "2026-08-05T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 74,
-        "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra,30?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms then Areas Of Fog",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30/fog?size=medium"
+        "shortForecast": "Mostly Cloudy then Areas Of Fog",
+        "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium"
       },
       {
         "name": "Thursday",
@@ -224,6 +217,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+      },
+      {
+        "name": "Friday",
+        "temperature": 84,
+        "temperatureUnit": "F",
+        "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium"
       }
     ]
   }
