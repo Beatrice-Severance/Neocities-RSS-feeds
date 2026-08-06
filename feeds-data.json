@@ -1,8 +1,32 @@
 {
-  "generatedAt": "2026-08-06T11:21:28.892Z",
+  "generatedAt": "2026-08-06T14:02:14.910Z",
   "items": [
     {
-      "title": "How deep-rooted medical bias creates deadly consequences for addiction patients",
+      "title": "Trump administration moves to deregulate Head Start, opening door for sweeping change",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5920386/head-start-regulations-trump",
+      "pubDate": "Thu, 06 Aug 2026 09:30:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8139x5426+0+0/resize/8139x5426!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F11%2F974f71b049e69b72cd9e83838f1f%2Fap25091781395833.jpg"
+    },
+    {
+      "title": "How Cambodia became the first Asian country to hit an elusive HIV target",
+      "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
+      "pubDate": "Thu, 06 Aug 2026 09:13:28 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4528x3016+0+0/resize/4528x3016!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F86%2Ff14392f74d2591eaa8a85da7d13c%2Fgettyimages-1245255504.jpg"
+    },
+    {
+      "title": "El-Sayed wins Michigan's primary. And, Fauci faces contempt of Congress vote",
+      "link": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
+      "pubDate": "Thu, 06 Aug 2026 07:30:59 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
       "link": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
       "pubDate": "Thu, 06 Aug 2026 05:52:45 -0400",
       "source": "NPR News",
@@ -34,36 +58,12 @@
       "thumbnail": null
     },
     {
-      "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
+      "title": "Senate Homeland Security committee votes to hold Fauci in contempt of Congress",
       "link": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
       "pubDate": "Thu, 06 Aug 2026 03:16:22 -0400",
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3984x2656+0+0/resize/3984x2656!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F47%2F538b6ffe4805a6886eedc83c0dd7%2Fgettyimages-2288176213.jpg"
-    },
-    {
-      "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
-      "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
-      "pubDate": "Thu, 06 Aug 2026 01:23:08 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1280+0+0/resize/1920x1280!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F17%2F9d8cf5594e7c81f23b4f0de96a2b%2Fap26217476847754.jpg"
-    },
-    {
-      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
-      "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
-      "pubDate": "Wed, 05 Aug 2026 16:43:29 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5696x3784+0+0/resize/5696x3784!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F43%2F70%2F97a0284c4f95a85d37c869178815%2Fap25317160029809.jpg"
-    },
-    {
-      "title": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
-      "pubDate": "Wed, 05 Aug 2026 16:23:02 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
     },
     {
       "title": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
@@ -72,6 +72,14 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/SunFlowers_NSO_1901.jpg?w=1960&#038;h=2832&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "How the Tide Turns at the Mouth of the Elbe",
+      "link": "https://science.nasa.gov/earth/earth-observatory/how-the-tide-turns-at-the-mouth-of-the-elbe/",
+      "pubDate": "Thu, 06 Aug 2026 04:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/how-the-tide-turns-at-the-mouth-of-the-elbe/germanytide_oli2_20250815.jpg"
     },
     {
       "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
@@ -122,16 +130,16 @@
       "thumbnail": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/august/saturn_spokes.gif?w=1133&#038;h=716&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "The Paradox of Lençóis Maranhenses National Park",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/",
-      "pubDate": "Wed, 05 Aug 2026 04:01:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-paradox-of-lençóis-maranhenses-national-park/brazillencois_oli_20260608.jpg?w=2160&#038;h=1413&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
       "title": "Pumas are drivers’ guardian angels",
       "link": "https://www.nature.com/articles/d41586-026-02429-0",
+      "pubDate": "2026-08-06T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+      "link": "https://www.nature.com/articles/d41586-026-02235-8",
       "pubDate": "2026-08-06T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -184,14 +192,6 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "ZFP36L2 orchestrates stress-adaptive plasticity in regeneration and cancer",
-      "link": "https://www.nature.com/articles/s41586-026-10890-0",
-      "pubDate": "2026-08-05T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
@@ -201,8 +201,8 @@
         "name": "Today",
         "temperature": 81,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Fog then Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Tonight",
