@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-08-06T08:32:17.846Z",
+  "generatedAt": "2026-08-06T11:21:28.892Z",
   "items": [
+    {
+      "title": "How deep-rooted medical bias creates deadly consequences for addiction patients",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
+      "pubDate": "Thu, 06 Aug 2026 05:52:45 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1892x1582+0+0/resize/1892x1582!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2F50%2F656f7951468e9e923ff831f2ea7b%2Fmilwaukie-1.jpg"
+    },
+    {
+      "title": "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress",
+      "pubDate": "Thu, 06 Aug 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4256x2832+0+0/resize/4256x2832!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2F31%2Fe76e8ff84cdb8c866947093d9e4f%2Fgettyimages-88842118.jpg"
+    },
+    {
+      "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
+      "pubDate": "Thu, 06 Aug 2026 04:52:16 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief",
+      "pubDate": "Thu, 06 Aug 2026 04:43:07 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
       "link": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
@@ -32,38 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": null
-    },
-    {
-      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
-      "pubDate": "Wed, 05 Aug 2026 16:00:24 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5061x3587+0+0/resize/5061x3587!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2F79%2F039d749d4a7eb1f8ad935afe23ad%2Fgettyimages-2286228683.jpg"
-    },
-    {
-      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
-      "pubDate": "Wed, 05 Aug 2026 13:41:17 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
-    },
-    {
-      "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
-      "link": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
-      "pubDate": "Wed, 05 Aug 2026 13:14:46 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5492x3661+0+0/resize/5492x3661!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F88%2Fbd%2F9ac8cc254cf4ab87e0f49cea4702%2Fgettyimages-2256324057.jpg"
-    },
-    {
-      "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
-      "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
-      "pubDate": "Wed, 05 Aug 2026 12:06:06 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3536x2357+0+0/resize/3536x2357!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb2%2F3b%2Fe64f49f1474299197a0afd8ddcbc%2Fap26213600617480.jpg"
     },
     {
       "title": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
@@ -198,32 +198,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Overnight",
-        "temperature": 61,
-        "temperatureUnit": "F",
-        "shortForecast": "Areas Of Fog",
-        "icon": "https://api.weather.gov/icons/land/night/fog?size=medium"
-      },
-      {
-        "name": "Thursday",
+        "name": "Today",
         "temperature": 81,
         "temperatureUnit": "F",
-        "shortForecast": "Areas Of Fog then Mostly Sunny",
+        "shortForecast": "Patchy Fog then Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium"
       },
       {
-        "name": "Thursday Night",
+        "name": "Tonight",
         "temperature": 64,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy then Areas Of Fog",
+        "shortForecast": "Partly Cloudy then Patchy Fog",
         "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium"
       },
       {
         "name": "Friday",
         "temperature": 85,
         "temperatureUnit": "F",
-        "shortForecast": "Areas Of Fog then Mostly Sunny",
+        "shortForecast": "Patchy Fog then Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium"
+      },
+      {
+        "name": "Friday Night",
+        "temperature": 65,
+        "temperatureUnit": "F",
+        "shortForecast": "Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,40?size=medium"
       }
     ]
   }
