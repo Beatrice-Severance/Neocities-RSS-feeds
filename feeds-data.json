@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-07T18:52:45.088Z",
+  "generatedAt": "2026-08-07T21:36:21.740Z",
   "items": [
+    {
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+      "pubDate": "Fri, 07 Aug 2026 15:35:35 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4371x2914+0+0/resize/4371x2914!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2F6d%2F428587c5447492c5b319303a5d68%2Fgettyimages-2267403858.jpg"
+    },
     {
       "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
@@ -58,11 +66,11 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3863+0+0/resize/5000x3863!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1a%2F27%2F293c51a9413a9f5299c45145dcc7%2Fgettyimages-2259791135.jpg"
     },
     {
-      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-      "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
-      "pubDate": "Fri, 07 Aug 2026 06:56:19 -0400",
-      "source": "NPR News",
-      "category": "News",
+      "title": "2026 IGARSS Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
+      "pubDate": "Fri, 07 Aug 2026 18:57:34 +0000",
+      "source": "NASA",
+      "category": "Science",
       "thumbnail": null
     },
     {
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26759/PIA26759.jpg?w=8256&#038;h=5504&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "I Am Artemis: Tom Percy",
-      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/",
-      "pubDate": "Thu, 06 Aug 2026 16:35:51 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/ceb-8192.jpg?w=1536"
     },
     {
       "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
