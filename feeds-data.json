@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T02:39:05.910Z",
+  "generatedAt": "2026-08-07T04:52:23.730Z",
   "items": [
     {
       "title": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
@@ -16,6 +16,14 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6225x4150+0+0/resize/6225x4150!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2Ff1%2F67b397cf481581c0afcdd0a68ca1%2Fgettyimages-2288126828.jpg"
+    },
+    {
+      "title": "A look at 'Operation Country Roads,' West Virginia's ICE operation",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
+      "pubDate": "Thu, 06 Aug 2026 16:40:52 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
     },
     {
       "title": "Sticky or slippery? Snails can change their slime to meet the moment",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": null
-    },
-    {
-      "title": "Trump administration moves to deregulate Head Start, opening door for sweeping change",
-      "link": "https://www.npr.org/2026/08/06/nx-s1-5920386/head-start-regulations-trump",
-      "pubDate": "Thu, 06 Aug 2026 09:30:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8139x5426+0+0/resize/8139x5426!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F11%2F974f71b049e69b72cd9e83838f1f%2Fap25091781395833.jpg"
     },
     {
       "title": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
@@ -199,10 +199,10 @@
     "periods": [
       {
         "name": "Tonight",
-        "temperature": 64,
+        "temperature": 67,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy then Patchy Fog",
-        "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
       },
       {
         "name": "Friday",
@@ -215,15 +215,15 @@
         "name": "Friday Night",
         "temperature": 65,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/bkn?size=medium"
+        "shortForecast": "Slight Chance Showers And Thunderstorms then Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/fog?size=medium"
       },
       {
         "name": "Saturday",
         "temperature": 82,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+        "shortForecast": "Patchy Fog then Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium"
       }
     ]
   }
