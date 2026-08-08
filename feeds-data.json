@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T04:09:25.862Z",
+  "generatedAt": "2026-08-08T06:48:31.599Z",
   "items": [
     {
       "title": "Women in Maine may choose the victor in this year's Senate race",
@@ -66,6 +66,14 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3850+0+0/resize/6000x3850!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F17%2Fb623e2ae44d0811d8a3fde2b7ca0%2Fgettyimages-2273896204-1.jpg"
     },
     {
+      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
+      "pubDate": "Sat, 08 Aug 2026 04:05:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg?w=3239&#038;h=1739&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "2026 IGARSS Hyperwall Schedule",
       "link": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
       "pubDate": "Fri, 07 Aug 2026 18:57:34 +0000",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26760/PIA26760.jpg?w=2880&#038;h=1620&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Antenna Testing for NASA’s SkyFall Mission",
-      "link": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
-      "pubDate": "Thu, 06 Aug 2026 17:56:12 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26759/PIA26759.jpg?w=8256&#038;h=5504&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
@@ -198,11 +198,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 65,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium"
+        "shortForecast": "Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/fog?size=medium"
       },
       {
         "name": "Saturday",
@@ -215,15 +215,15 @@
         "name": "Saturday Night",
         "temperature": 64,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear then Slight Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/night/few/rain_showers,20?size=medium"
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Sunday",
         "temperature": 82,
         "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms Likely",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,60?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra,60/tsra,50?size=medium"
       }
     ]
   }
