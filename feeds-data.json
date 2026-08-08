@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-08T01:22:31.100Z",
+  "generatedAt": "2026-08-08T04:09:25.862Z",
   "items": [
+    {
+      "title": "Women in Maine may choose the victor in this year's Senate race",
+      "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
+      "pubDate": "Fri, 07 Aug 2026 16:24:38 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "Trump renews push to fire Fed Governor Lisa Cook",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3850+0+0/resize/6000x3850!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F17%2Fb623e2ae44d0811d8a3fde2b7ca0%2Fgettyimages-2273896204-1.jpg"
-    },
-    {
-      "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
-      "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
-      "pubDate": "Fri, 07 Aug 2026 07:36:33 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3863+0+0/resize/5000x3863!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1a%2F27%2F293c51a9413a9f5299c45145dcc7%2Fgettyimages-2259791135.jpg"
     },
     {
       "title": "2026 IGARSS Hyperwall Schedule",
@@ -201,8 +201,8 @@
         "name": "Tonight",
         "temperature": 65,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,40/tsra_hi,20?size=medium"
+        "shortForecast": "Slight Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium"
       },
       {
         "name": "Saturday",
