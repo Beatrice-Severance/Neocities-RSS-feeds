@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T21:36:21.740Z",
+  "generatedAt": "2026-08-08T01:22:31.100Z",
   "items": [
     {
       "title": "Trump renews push to fire Fed Governor Lisa Cook",
@@ -198,18 +198,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 85,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 65,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,40/tsra_hi,20?size=medium"
       },
       {
         "name": "Saturday",
@@ -224,6 +217,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear then Slight Chance Rain Showers",
         "icon": "https://api.weather.gov/icons/land/night/few/rain_showers,20?size=medium"
+      },
+      {
+        "name": "Sunday",
+        "temperature": 82,
+        "temperatureUnit": "F",
+        "shortForecast": "Showers And Thunderstorms Likely",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,60?size=medium"
       }
     ]
   }
