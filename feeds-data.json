@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T04:16:24.672Z",
+  "generatedAt": "2026-08-09T06:52:37.263Z",
   "items": [
     {
       "title": "Solar eclipse to occur next week. Here is what to know",
@@ -198,7 +198,7 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 62,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
@@ -208,22 +208,22 @@
         "name": "Sunday",
         "temperature": 80,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra,60/tsra,40?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra,80/tsra,70?size=medium"
       },
       {
         "name": "Sunday Night",
         "temperature": 66,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,50?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30/fog?size=medium"
       },
       {
         "name": "Monday",
         "temperature": 83,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,40/tsra_sct,50?size=medium"
+        "shortForecast": "Patchy Fog then Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/fog/tsra_sct,30?size=medium"
       }
     ]
   }
