@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T01:27:41.145Z",
+  "generatedAt": "2026-08-09T04:16:24.672Z",
   "items": [
     {
       "title": "Solar eclipse to occur next week. Here is what to know",
@@ -213,7 +213,7 @@
       },
       {
         "name": "Sunday Night",
-        "temperature": 68,
+        "temperature": 66,
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms",
         "icon": "https://api.weather.gov/icons/land/night/tsra_sct,50?size=medium"
