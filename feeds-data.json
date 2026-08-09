@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T12:44:26.082Z",
+  "generatedAt": "2026-08-09T15:28:59.606Z",
   "items": [
     {
       "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
@@ -8,6 +8,14 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7752x5168+0+0/resize/7752x5168!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2Fea%2Ff17c0ea44cf2acb9276ab0713d63%2Fgettyimages-2288657047.jpg"
+    },
+    {
+      "title": "Can birth control trends explain the rise in abortions? It's complicated",
+      "link": "https://www.npr.org/2026/08/09/nx-s1-5887615/abortion-rate-birth-control-pills-roe-v-wade",
+      "pubDate": "Sun, 09 Aug 2026 08:12:15 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fda%2Fc3%2F3ec05175417a95214f6bd72a5191%2Fgettyimages-1241745725.jpg"
     },
     {
       "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
@@ -34,6 +42,14 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2Ffe%2F089b10e64ec1b65c3e2a827f426a%2Fgettyimages-2148726824.jpg"
     },
     {
+      "title": "Meet the man circumnavigating the Arctic Ocean, alone",
+      "link": "https://www.npr.org/2026/08/08/nx-s1-5923345/circumnavigate-arctic-ocean-matt-rutherford-10000-mile-odyssey",
+      "pubDate": "Sat, 08 Aug 2026 17:30:56 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/3840x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F0d%2F6cc48c024b4a898520a6ab03f343%2Fme-at-the-wheel-1.jpg"
+    },
+    {
       "title": "Tanker sailors still face danger in the Strait of Hormuz",
       "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
       "pubDate": "Sat, 08 Aug 2026 17:19:54 -0400",
@@ -48,22 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5600x3733+0+0/resize/5600x3733!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F1d%2F3f4898934fcc99f53c6f867c88d6%2Fgettyimages-2288793372.jpg"
-    },
-    {
-      "title": "K-pop's global wave inspires Chile's next pop stars",
-      "link": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
-      "pubDate": "Sat, 08 Aug 2026 09:34:45 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/9289x6192+0+0/resize/9289x6192!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2F0c%2F942ed55d42429a752a029cc602c8%2Fboy-band-chile.jpg"
-    },
-    {
-      "title": "Opinion: Europe's summer of heat",
-      "link": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
-      "pubDate": "Sat, 08 Aug 2026 08:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F35%2F51d826f544c3b2f2c960d4d7b45e%2Fgettyimages-2282989617.jpg"
     },
     {
       "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
@@ -199,31 +199,31 @@
     "periods": [
       {
         "name": "Today",
-        "temperature": 80,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms then Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,80/tsra_sct,70?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
+        "icon": "https://api.weather.gov/icons/land/day/tsra,60?size=medium"
       },
       {
         "name": "Tonight",
         "temperature": 66,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms then Patchy Fog",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/fog?size=medium"
+        "shortForecast": "Slight Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,20?size=medium"
       },
       {
         "name": "Monday",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Fog then Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/fog/tsra_hi,30?size=medium"
+        "shortForecast": "Slight Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium"
       },
       {
         "name": "Monday Night",
         "temperature": 66,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,40/tsra_sct,60?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/tsra_hi,30?size=medium"
       }
     ]
   }
