@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T06:52:37.263Z",
+  "generatedAt": "2026-08-09T09:36:32.783Z",
   "items": [
     {
       "title": "Solar eclipse to occur next week. Here is what to know",
@@ -201,8 +201,8 @@
         "name": "Overnight",
         "temperature": 62,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Sunday",
