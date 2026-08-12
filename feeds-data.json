@@ -1,9 +1,25 @@
 {
-  "generatedAt": "2026-08-12T13:03:31.323Z",
+  "generatedAt": "2026-08-12T15:57:21.100Z",
   "items": [
     {
+      "title": "Inflation eases in July as gasoline and grocery prices fall",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
+      "pubDate": "Wed, 12 Aug 2026 10:00:29 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3996x2545+0+0/resize/3996x2545!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2F55%2F6470cfc54018b8fa423a96f556f8%2Fgettyimages-2286439837.jpg"
+    },
+    {
+      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
+      "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
+      "pubDate": "Wed, 12 Aug 2026 09:38:58 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Fd7%2F2ec249ce42cf9c1afcddadbc15fe%2Ffarflungpostcard-fa1.jpg"
+    },
+    {
       "title": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize",
-      "link": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-punjabi",
+      "link": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
       "pubDate": "Wed, 12 Aug 2026 09:00:19 -0400",
       "source": "NPR News",
       "category": "News",
@@ -50,20 +66,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8239x5493+0+0/resize/8239x5493!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F07%2Fd4eff6414dcfb0ba5e6c807d4d15%2Fap26211784665247.jpg"
     },
     {
-      "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
-      "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2561+0+0/resize/3840x2561!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2F41%2Fb44ff3af459a850fcdae2bb2eff0%2Furanium-12.jpg"
+      "title": "APOD: 2026 August 12 – Perseids over a Little Planet",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-12-perseids-over-a-little-planet/",
+      "pubDate": "Wed, 12 Aug 2026 14:30:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/A_Planet_of_Meteors.jpg?w=4922&#038;h=5500&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
-      "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5334x3000+0+0/resize/5334x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2Fe7%2F338abaad45138047ea48658bd90c%2Fridgewood-ice-cream.jpg"
+      "title": "Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products",
+      "link": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/",
+      "pubDate": "Wed, 12 Aug 2026 14:13:13 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://science.nasa.gov/wp-content/uploads/2026/08/side-by-side-graphic-polargeospatial.jpg?w=2048"
     },
     {
       "title": "Stops Along the Path of Totality",
@@ -114,20 +130,12 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc03215-e1786419412406.jpg?w=1536"
     },
     {
-      "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
-      "link": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
-      "pubDate": "Tue, 11 Aug 2026 14:00:00 +0000",
-      "source": "NASA",
+      "title": "New telescope reveals a missing link in the cosmic recycling of matter",
+      "link": "https://www.science.org/content/article/new-telescope-reveals-missing-link-cosmic-recycling-matter",
+      "pubDate": "2026-08-12T11:00:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg?w=2048"
-    },
-    {
-      "title": "Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
-      "pubDate": "Tue, 11 Aug 2026 06:50:07 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04972_mhli_4972MH0008410011802510C00_DXXX.jpg?w=1632&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
       "title": "‘Mismatched’ vaccine being rolled out against Ebola outbreak",
@@ -186,73 +194,65 @@
       "thumbnail": null
     },
     {
-      "title": "Senate votes to block rule giving White House more control over research",
-      "link": "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research",
-      "pubDate": "2026-08-08T12:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "A controversial Alzheimer’s surgery is said to reverse symptoms — here’s what scientists know",
-      "link": "https://www.nature.com/articles/d41586-026-02448-x",
+      "title": "Model-free multiparametric analysis of SHG images reveals collagen signatures in breast cancer",
+      "link": "https://www.nature.com/articles/s41598-026-62801-y",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "System lag",
-      "link": "https://www.nature.com/articles/d41586-026-02408-5",
+      "title": "Development of samarium-153 oxide loaded polystyrene radiotracer particles for gamma scintigraphy of whole gastrointestinal transit study",
+      "link": "https://www.nature.com/articles/s41598-026-66901-7",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "A particle made of force: physicists say they’ve found mysterious ‘glueball’",
-      "link": "https://www.nature.com/articles/d41586-026-02498-1",
+      "title": "AlzheiNN: a convolutional neural network-based model for Alzheimer’s disease classification",
+      "link": "https://www.nature.com/articles/s41598-026-64954-2",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
-      "link": "https://www.nature.com/articles/s41586-026-10991-w",
-      "pubDate": "2026-08-11T00:00:00.000Z",
+      "title": "Service trade liberalization and manufacturing value chain upgrading: a quasi-natural experiment from China",
+      "link": "https://www.nature.com/articles/s41599-026-08691-x",
+      "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
-      "link": "https://www.nature.com/articles/s41586-026-10947-0",
-      "pubDate": "2026-08-11T00:00:00.000Z",
+      "title": "The impact of CEOs’ multidisciplinary backgrounds on corporate financing and investment maturity mismatch",
+      "link": "https://www.nature.com/articles/s41599-026-08677-9",
+      "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Funders should look beyond strict age criteria",
-      "link": "https://www.nature.com/articles/d41586-026-02492-7",
-      "pubDate": "2026-08-11T00:00:00.000Z",
+      "title": "Experiences of kinesiophobia in patients with chronic obstructive pulmonary disease: a qualitative phenomenological study",
+      "link": "https://www.nature.com/articles/s41598-026-66659-y",
+      "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "The case for responsible scientific activism",
-      "link": "https://www.nature.com/articles/d41586-026-02464-x",
-      "pubDate": "2026-08-11T00:00:00.000Z",
+      "title": "Multi-level violence recognition via hybrid convolutional-attention and recurrent architectures",
+      "link": "https://www.nature.com/articles/s41598-026-66068-1",
+      "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Shipping on rivers packs a surprisingly large climate punch",
-      "link": "https://www.nature.com/articles/d41586-026-02431-6",
-      "pubDate": "2026-08-11T00:00:00.000Z",
+      "title": "Correction: A five-dimensional classical framework for gravitational and quantum phenomena",
+      "link": "https://www.nature.com/articles/s41598-026-63846-9",
+      "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
@@ -263,10 +263,10 @@
     "periods": [
       {
         "name": "Today",
-        "temperature": 85,
+        "temperature": 84,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+        "shortForecast": "Slight Chance T-storms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium"
       },
       {
         "name": "Tonight",
