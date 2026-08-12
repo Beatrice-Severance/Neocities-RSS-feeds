@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-08-12T15:57:21.100Z",
+  "generatedAt": "2026-08-12T21:41:33.163Z",
   "items": [
+    {
+      "title": "Trump sued over service selling faster access to Truth Social posts",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
+      "pubDate": "Wed, 12 Aug 2026 16:33:10 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5214x3476+0+0/resize/5214x3476!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2Fa8%2F5bb305444e9f90f331e1b1fff55b%2Fgettyimages-2289907132.jpg"
+    },
+    {
+      "title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue",
+      "pubDate": "Wed, 12 Aug 2026 16:19:40 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5456x3637+0+0/resize/5456x3637!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2F98%2Ff843ec2f4cb79784e20c9b005b1f%2Fgettyimages-2288466180-1.jpg"
+    },
+    {
+      "title": "White House press secretary leaving",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "pubDate": "Wed, 12 Aug 2026 16:05:54 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2Ff1%2Fdf61290b474f935f2c81527bf6ec%2Fgettyimages-2286677674.jpg"
+    },
+    {
+      "title": "Has the U.S. lost its dominance to China?",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
+      "pubDate": "Wed, 12 Aug 2026 14:24:48 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "Inflation eases in July as gasoline and grocery prices fall",
       "link": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
@@ -34,36 +66,44 @@
       "thumbnail": "https://media.npr.org/assets/img/2023/08/31/gettyimages-1126336176_custom-330872a5ec267da386195767827c32b61e35842e.jpg"
     },
     {
-      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
-      "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
-      "pubDate": "Wed, 12 Aug 2026 07:25:11 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
+      "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon ",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
+      "pubDate": "Wed, 12 Aug 2026 20:40:27 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg?w=1083"
     },
     {
-      "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
-      "pubDate": "Wed, 12 Aug 2026 06:47:30 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2Fb6%2Fd960442b41bbb76960f99340f324%2Fgettyimages-2201637959-1.jpg"
+      "title": "2026 Total Solar Eclipse in Spain",
+      "link": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/",
+      "pubDate": "Wed, 12 Aug 2026 20:08:28 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg?w=2048"
     },
     {
-      "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
-      "pubDate": "Wed, 12 Aug 2026 05:02:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F54%2F98d6f3bf496d88b4c6e3f02cb084%2F260805-lk-timeaudit-16x9.jpg"
+      "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
+      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/",
+      "pubDate": "Wed, 12 Aug 2026 17:55:36 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0039-003.jpg?w=2048"
     },
     {
-      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
-      "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8239x5493+0+0/resize/8239x5493!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F07%2Fd4eff6414dcfb0ba5e6c807d4d15%2Fap26211784665247.jpg"
+      "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
+      "pubDate": "Wed, 12 Aug 2026 16:03:05 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/fincke.jpg?w=2048"
+    },
+    {
+      "title": "Pursuing a Dream of Working for NASA",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/",
+      "pubDate": "Wed, 12 Aug 2026 15:38:51 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://images-assets.nasa.gov/image/KSC-20260806-PH-RCR01_0149/KSC-20260806-PH-RCR01_0149~large.jpg?w=1280&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "title": "APOD: 2026 August 12 – Perseids over a Little Planet",
@@ -90,44 +130,44 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/iceland_oli2_20260725.jpg?w=2160&#038;h=1500&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
-      "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
-      "pubDate": "Tue, 11 Aug 2026 21:04:39 +0000",
-      "source": "NASA",
+      "title": "Were these ancient rock images painted with human blood?",
+      "link": "https://www.science.org/content/article/were-these-ancient-rock-images-painted-human-blood",
+      "pubDate": "2026-08-12T04:35:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2023/02/nancy-grace-roman-space-telescope-visualization.jpeg?w=1200"
+      "thumbnail": null
     },
     {
-      "title": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
-      "link": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/",
-      "pubDate": "Tue, 11 Aug 2026 19:41:34 +0000",
-      "source": "NASA",
+      "title": "Can a new, safer class of pain drugs ever rival opioids?",
+      "link": "https://www.science.org/content/article/can-new-safer-class-pain-drugs-ever-rival-opioids",
+      "pubDate": "2026-08-12T04:25:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/lunar-science/GSFC_20260130_LEMSA3_001911%201.jpg?w=4500&#038;h=3000&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
-      "title": "Lion Nebula Roars in Webb’s Sights",
-      "link": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/",
-      "pubDate": "Tue, 11 Aug 2026 17:02:49 +0000",
-      "source": "NASA",
+      "title": "Denisovans towered over their contemporaries and munched a bunch of meat",
+      "link": "https://www.science.org/content/article/denisovans-towered-over-their-contemporaries-and-munched-bunch-meat",
+      "pubDate": "2026-08-12T02:50:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kx6d0xbhsyp7q1em5qtc43rp.png?w=2048"
+      "thumbnail": null
     },
     {
-      "title": "NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula",
-      "link": "https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/",
-      "pubDate": "Tue, 11 Aug 2026 15:19:15 +0000",
-      "source": "NASA",
+      "title": "Hundreds of paper-mill papers peddled in ads were later published",
+      "link": "https://www.science.org/content/article/hundreds-paper-mill-papers-peddled-ads-were-later-published",
+      "pubDate": "2026-08-12T02:45:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/30dor_crop.jpg?w=8249&#038;h=7282&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
-      "title": "Building the Moon Base: NASA Stories at the Ion  ",
-      "link": "https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/",
-      "pubDate": "Tue, 11 Aug 2026 14:16:45 +0000",
-      "source": "NASA",
+      "title": "Arson attack jolts Italy’s bid to host the Einstein Telescope",
+      "link": "https://www.science.org/content/article/arson-attack-jolts-italy-s-bid-host-einstein-telescope",
+      "pubDate": "2026-08-12T12:45:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc03215-e1786419412406.jpg?w=1536"
+      "thumbnail": null
     },
     {
       "title": "New telescope reveals a missing link in the cosmic recycling of matter",
@@ -140,13 +180,13 @@
     {
       "title": "‘Mismatched’ vaccine being rolled out against Ebola outbreak",
       "link": "https://www.science.org/content/article/mismatched-vaccine-being-rolled-out-against-ebola-outbreak",
-      "pubDate": "2026-08-11T05:00:35.000Z",
+      "pubDate": "2026-08-11T05:00:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Halted dam releases threaten Colorado river ecosystems",
+      "title": "Halted dam releases threaten Colorado River ecosystems",
       "link": "https://www.science.org/content/article/halted-dam-releases-threaten-colorado-river-ecosystems",
       "pubDate": "2026-08-11T04:30:00.000Z",
       "source": "Science (AAAS)",
@@ -154,104 +194,64 @@
       "thumbnail": null
     },
     {
-      "title": "Behold the “glueball,” a strange new form of matter",
-      "link": "https://www.science.org/content/article/behold-glueball-strange-new-form-matter",
-      "pubDate": "2026-08-11T03:50:58.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Shattered skeleton in Scottish castle is first confirmed death from trebuchet",
-      "link": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-      "pubDate": "2026-08-11T03:10:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Gut microbes may help wild horses evolve to survive harsh Canadian winters",
-      "link": "https://www.science.org/content/article/gut-microbes-may-help-wild-horses-evolve-survive-harsh-canadian-winters",
-      "pubDate": "2026-08-11T02:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Newly discovered virus is sickening cattle in Western Europe",
-      "link": "https://www.science.org/content/article/newly-discovered-virus-sickening-cattle-western-europe",
-      "pubDate": "2026-08-11T12:05:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "How Europe can prevent a repeat of this year’s devastating wildfires",
-      "link": "https://www.science.org/content/article/how-europe-can-prevent-repeat-year-s-devastating-wildfires",
-      "pubDate": "2026-08-10T11:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Model-free multiparametric analysis of SHG images reveals collagen signatures in breast cancer",
-      "link": "https://www.nature.com/articles/s41598-026-62801-y",
+      "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+      "link": "https://www.nature.com/articles/s41586-026-10994-7",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Development of samarium-153 oxide loaded polystyrene radiotracer particles for gamma scintigraphy of whole gastrointestinal transit study",
-      "link": "https://www.nature.com/articles/s41598-026-66901-7",
+      "title": "Reply to: Pre-clinical data interpretation requires clinical context",
+      "link": "https://www.nature.com/articles/s41586-026-10773-4",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "AlzheiNN: a convolutional neural network-based model for Alzheimer’s disease classification",
-      "link": "https://www.nature.com/articles/s41598-026-64954-2",
+      "title": "Pre-clinical data interpretation requires clinical context",
+      "link": "https://www.nature.com/articles/s41586-026-10774-3",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Service trade liberalization and manufacturing value chain upgrading: a quasi-natural experiment from China",
-      "link": "https://www.nature.com/articles/s41599-026-08691-x",
+      "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
+      "link": "https://www.nature.com/articles/d41586-026-02463-y",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "The impact of CEOs’ multidisciplinary backgrounds on corporate financing and investment maturity mismatch",
-      "link": "https://www.nature.com/articles/s41599-026-08677-9",
+      "title": "Rattlesnakes’ own anti-venom could protect humans too",
+      "link": "https://www.nature.com/articles/d41586-026-02461-0",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Experiences of kinesiophobia in patients with chronic obstructive pulmonary disease: a qualitative phenomenological study",
-      "link": "https://www.nature.com/articles/s41598-026-66659-y",
+      "title": "The probiotic bacteria engineered to treat diabetes",
+      "link": "https://www.nature.com/articles/d41586-026-02521-5",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Multi-level violence recognition via hybrid convolutional-attention and recurrent architectures",
-      "link": "https://www.nature.com/articles/s41598-026-66068-1",
+      "title": "Dataset artefacts can partially drive the measured decline in disruption",
+      "link": "https://www.nature.com/articles/s41586-026-10787-y",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Correction: A five-dimensional classical framework for gravitational and quantum phenomena",
-      "link": "https://www.nature.com/articles/s41598-026-63846-9",
+      "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
+      "link": "https://www.nature.com/articles/s41586-026-10788-x",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -262,32 +262,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 84,
+        "name": "This Afternoon",
+        "temperature": 82,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance T-storms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Tonight",
-        "temperature": 67,
+        "temperature": 66,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Partly Cloudy then Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium"
       },
       {
         "name": "Thursday",
-        "temperature": 79,
+        "temperature": 77,
         "temperatureUnit": "F",
         "shortForecast": "Rain Showers Likely",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain_showers,70?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,70?size=medium"
       },
       {
         "name": "Thursday Night",
-        "temperature": 65,
+        "temperature": 63,
         "temperatureUnit": "F",
         "shortForecast": "Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/rain_showers,20?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,40?size=medium"
       }
     ]
   }
