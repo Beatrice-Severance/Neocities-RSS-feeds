@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-13T13:04:20.295Z",
+  "generatedAt": "2026-08-13T15:57:06.117Z",
   "items": [
+    {
+      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+      "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+      "pubDate": "Thu, 13 Aug 2026 11:18:27 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4778x3185+0+0/resize/4778x3185!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Fb5%2Fd20bf74b402c851eb7ab3831e9ec%2Fcrimea-1-gettyimages-2287489830.jpg"
+    },
+    {
+      "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+      "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
+      "pubDate": "Thu, 13 Aug 2026 09:18:43 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F7d%2F5d69ce6948c0921c3def4463f53c%2Fap26225291238062.jpg"
+    },
     {
       "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
       "link": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
@@ -50,20 +66,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5737x3825+0+0/resize/5737x3825!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2Fe6%2Fdbf813ca4bbb9dfddc3e2b243719%2Fgettyimages-2290102834.jpg"
     },
     {
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
-      "pubDate": "Thu, 13 Aug 2026 04:44:44 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
-    },
-    {
-      "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
-      "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
-      "pubDate": "Thu, 13 Aug 2026 02:21:25 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2777x1851+0+0/resize/2777x1851!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2F81%2F9a01aabc47e6ad5d91b10f0e5589%2Fap26196663321965.jpg"
+      "title": "Perseids Meteor Shower",
+      "link": "https://www.nasa.gov/image-article/perseids-meteor-shower-2/",
+      "pubDate": "Thu, 13 Aug 2026 15:08:34 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp?w=1200"
     },
     {
       "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
@@ -72,6 +80,14 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/total_eclipse_spain26.jpg?w=1708&#038;h=2560&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "Cascade Volcanoes Shrouded in Smoke",
+      "link": "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/",
+      "pubDate": "Thu, 13 Aug 2026 04:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cascade-volcanoes-shrouded-in-smoke/ISS075-E-1705.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon ",
@@ -112,22 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://images-assets.nasa.gov/image/KSC-20260806-PH-RCR01_0149/KSC-20260806-PH-RCR01_0149~large.jpg?w=1280&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "APOD: 2026 August 12 – Perseids over a Little Planet",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-12-perseids-over-a-little-planet/",
-      "pubDate": "Wed, 12 Aug 2026 14:30:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/A_Planet_of_Meteors.jpg?w=4922&#038;h=5500&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products",
-      "link": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/",
-      "pubDate": "Wed, 12 Aug 2026 14:13:13 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://science.nasa.gov/wp-content/uploads/2026/08/side-by-side-graphic-polargeospatial.jpg?w=2048"
     },
     {
       "title": "Were these ancient rock images painted with human blood?",
@@ -194,6 +194,14 @@
       "thumbnail": null
     },
     {
+      "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+      "link": "https://www.nature.com/articles/s41586-026-10959-w",
+      "pubDate": "2026-08-13T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
       "link": "https://www.nature.com/articles/s41586-026-10960-3",
       "pubDate": "2026-08-13T00:00:00.000Z",
@@ -210,48 +218,40 @@
       "thumbnail": null
     },
     {
+      "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
+      "link": "https://www.nature.com/articles/d41586-026-02503-7",
+      "pubDate": "2026-08-13T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "AI isn’t ready to research itself",
+      "link": "https://www.nature.com/articles/d41586-026-02494-5",
+      "pubDate": "2026-08-13T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Why China should reassess how it rewards young scientists",
+      "link": "https://www.nature.com/articles/d41586-026-02525-1",
+      "pubDate": "2026-08-13T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Will the mRNA flu shot work better than a regular seasonal one? What the science says",
+      "link": "https://www.nature.com/articles/d41586-026-02502-8",
+      "pubDate": "2026-08-13T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
       "link": "https://www.nature.com/articles/s41586-026-10994-7",
-      "pubDate": "2026-08-12T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Reply to: Pre-clinical data interpretation requires clinical context",
-      "link": "https://www.nature.com/articles/s41586-026-10773-4",
-      "pubDate": "2026-08-12T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Pre-clinical data interpretation requires clinical context",
-      "link": "https://www.nature.com/articles/s41586-026-10774-3",
-      "pubDate": "2026-08-12T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
-      "link": "https://www.nature.com/articles/d41586-026-02463-y",
-      "pubDate": "2026-08-12T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Rattlesnakes’ own anti-venom could protect humans too",
-      "link": "https://www.nature.com/articles/d41586-026-02461-0",
-      "pubDate": "2026-08-12T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "The probiotic bacteria engineered to treat diabetes",
-      "link": "https://www.nature.com/articles/d41586-026-02521-5",
       "pubDate": "2026-08-12T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -263,17 +263,17 @@
     "periods": [
       {
         "name": "Today",
-        "temperature": 77,
+        "temperature": 78,
         "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms Likely",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/tsra,60?size=medium"
+        "shortForecast": "Light Rain",
+        "icon": "https://api.weather.gov/icons/land/day/rain,60/tsra,90?size=medium"
       },
       {
         "name": "Tonight",
-        "temperature": 64,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30/tsra_sct,20?size=medium"
+        "shortForecast": "Chance Light Rain then Slight Chance T-storms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,50/tsra_sct,20?size=medium"
       },
       {
         "name": "Friday",
