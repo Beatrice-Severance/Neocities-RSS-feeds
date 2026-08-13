@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T01:47:16.844Z",
+  "generatedAt": "2026-08-13T04:48:48.539Z",
   "items": [
     {
       "title": "Photos: See the best photos from the solar eclipse",
@@ -66,6 +66,14 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Fd7%2F2ec249ce42cf9c1afcddadbc15fe%2Ffarflungpostcard-fa1.jpg"
     },
     {
+      "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/",
+      "pubDate": "Thu, 13 Aug 2026 04:05:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/total_eclipse_spain26.jpg?w=1708&#038;h=2560&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon ",
       "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
       "pubDate": "Wed, 12 Aug 2026 20:40:27 +0000",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://science.nasa.gov/wp-content/uploads/2026/08/side-by-side-graphic-polargeospatial.jpg?w=2048"
-    },
-    {
-      "title": "Stops Along the Path of Totality",
-      "link": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
-      "pubDate": "Wed, 12 Aug 2026 04:01:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/iceland_oli2_20260725.jpg?w=2160&#038;h=1500&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Were these ancient rock images painted with human blood?",
@@ -263,31 +263,31 @@
     "periods": [
       {
         "name": "Tonight",
-        "temperature": 66,
+        "temperature": 67,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy then Patchy Fog",
-        "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium"
+        "shortForecast": "Mostly Cloudy then Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium"
       },
       {
         "name": "Thursday",
-        "temperature": 77,
+        "temperature": 78,
         "temperatureUnit": "F",
         "shortForecast": "Rain Showers Likely",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,70?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,60?size=medium"
       },
       {
         "name": "Thursday Night",
-        "temperature": 63,
+        "temperature": 64,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,40?size=medium"
+        "shortForecast": "Chance Rain Showers then Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium"
       },
       {
         "name": "Friday",
         "temperature": 80,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers then Slight Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/tsra_sct,40?size=medium"
+        "shortForecast": "Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium"
       }
     ]
   }
