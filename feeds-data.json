@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:50:21.999Z",
+  "generatedAt": "2026-08-14T21:22:09.034Z",
   "items": [
     {
       "title": "How Americans deceive ourselves about slavery",
@@ -66,6 +66,14 @@
       "thumbnail": null
     },
     {
+      "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies ",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
+      "pubDate": "Fri, 14 Aug 2026 20:00:38 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/05/liveenable-im3-sustainabilitylogistics-withastros-1.png?w=2048"
+    },
+    {
       "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
       "link": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
       "pubDate": "Fri, 14 Aug 2026 18:44:36 +0000",
@@ -122,12 +130,20 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg?w=2048"
     },
     {
-      "title": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
-      "link": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/",
-      "pubDate": "Thu, 13 Aug 2026 19:03:19 +0000",
-      "source": "NASA",
+      "title": "Drought may have driven Brazil’s first yellow fever outbreak in nearly 80 years",
+      "link": "https://www.science.org/content/article/drought-may-have-driven-brazil-s-first-yellow-fever-outbreak-nearly-80-years",
+      "pubDate": "2026-08-14T02:00:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc-0453-2.jpg?w=2048"
+      "thumbnail": null
+    },
+    {
+      "title": "Budget cuts and delays leave hundreds of Argentine postdocs in limbo",
+      "link": "https://www.science.org/content/article/budget-cuts-and-delays-leave-hundreds-argentine-postdocs-limbo",
+      "pubDate": "2026-08-14T01:45:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
     },
     {
       "title": "Surprising uniqueness of Puerto Rico’s trees could make them more resistant to drought",
@@ -173,22 +189,6 @@
       "title": "Can a new, safer class of pain drugs ever rival opioids?",
       "link": "https://www.science.org/content/article/can-new-safer-class-pain-drugs-ever-rival-opioids",
       "pubDate": "2026-08-12T04:25:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Denisovans towered over their contemporaries and munched a bunch of meat",
-      "link": "https://www.science.org/content/article/denisovans-towered-over-their-contemporaries-and-munched-bunch-meat",
-      "pubDate": "2026-08-12T02:50:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Hundreds of paper-mill papers peddled in ads were later published",
-      "link": "https://www.science.org/content/article/hundreds-paper-mill-papers-peddled-ads-were-later-published",
-      "pubDate": "2026-08-12T02:45:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -279,7 +279,7 @@
         "name": "Saturday",
         "temperature": 84,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Fog then Cloudy",
+        "shortForecast": "Showers And Thunderstorms Likely then Cloudy",
         "icon": "https://api.weather.gov/icons/land/day/tsra,60/ovc?size=medium"
       },
       {
