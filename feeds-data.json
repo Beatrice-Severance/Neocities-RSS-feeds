@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-15T18:25:19.100Z",
+  "generatedAt": "2026-08-15T21:18:09.814Z",
   "items": [
+    {
+      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
+      "pubDate": "Sat, 15 Aug 2026 16:04:13 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2F26%2F0f584d12440d84f472e564abd51d%2Fap26227676878406.jpg"
+    },
     {
       "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
       "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1067+0+0/resize/1600x1067!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd2%2F2f%2Facb9d38d4476942a27974b218729%2Fap26227063972379.jpg"
-    },
-    {
-      "title": "How Americans deceive ourselves about slavery",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
-      "pubDate": "Fri, 14 Aug 2026 14:13:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
     },
     {
       "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
@@ -266,7 +266,7 @@
         "temperature": 82,
         "temperatureUnit": "F",
         "shortForecast": "Isolated Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium"
       },
       {
         "name": "Tonight",
@@ -277,17 +277,17 @@
       },
       {
         "name": "Sunday",
-        "temperature": 84,
+        "temperature": 82,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms then Mostly Cloudy",
+        "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20/bkn?size=medium"
       },
       {
         "name": "Sunday Night",
-        "temperature": 62,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       }
     ]
   }
