@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T01:05:15.614Z",
+  "generatedAt": "2026-08-15T03:36:11.156Z",
   "items": [
     {
       "title": "How Americans deceive ourselves about slavery",
@@ -265,8 +265,8 @@
         "name": "Tonight",
         "temperature": 65,
         "temperatureUnit": "F",
-        "shortForecast": "Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/night/rain_showers,90/tsra,50?size=medium"
+        "shortForecast": "Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/tsra,50?size=medium"
       },
       {
         "name": "Saturday",
