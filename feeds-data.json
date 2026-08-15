@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-15T15:17:30.519Z",
+  "generatedAt": "2026-08-15T18:25:19.100Z",
   "items": [
+    {
+      "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+      "pubDate": "Sat, 15 Aug 2026 14:21:32 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5636x3757+0+0/resize/5636x3757!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Fa1%2F6e38896b4a979ffd096341a82971%2Fap26226626090930.jpg"
+    },
+    {
+      "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
+      "pubDate": "Sat, 15 Aug 2026 13:25:34 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4493x3369+0+0/resize/4493x3369!/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2020%2F10%2F14%2Fgettyimages-1196823860.jpg"
+    },
+    {
+      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+      "pubDate": "Sat, 15 Aug 2026 13:04:43 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2305x1534+0+0/resize/2305x1534!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F1c%2F0b8a82da48ad86f9e33aba22900b%2Fap26218282881622.jpg"
+    },
     {
       "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
       "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
@@ -40,30 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": null
-    },
-    {
-      "title": "As speed cameras spread to more states, so does the backlash from drivers",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
-      "pubDate": "Fri, 14 Aug 2026 12:54:58 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0c%2Fbd%2Feb0bbc6a4d299a609f3a54c708c5%2Fimg-1429.JPG"
-    },
-    {
-      "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-      "pubDate": "Fri, 14 Aug 2026 12:37:54 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4773x3353+0+0/resize/4773x3353!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F85%2F291072c24e068b7eb789a170e2f8%2Fgettyimages-2204397801.jpg"
-    },
-    {
-      "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
-      "pubDate": "Fri, 14 Aug 2026 12:05:24 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7776x5184+0+0/resize/7776x5184!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2Fdb%2F0d9c5b7a4a02bb008f9edd9a4030%2Fap26223537855881.jpg"
     },
     {
       "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
@@ -262,25 +262,25 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 83,
+        "name": "This Afternoon",
+        "temperature": 82,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy then Isolated Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/bkn/tsra,20?size=medium"
+        "shortForecast": "Isolated Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20?size=medium"
       },
       {
         "name": "Tonight",
         "temperature": 71,
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,20/tsra,40?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,20/tsra_sct,40?size=medium"
       },
       {
         "name": "Sunday",
         "temperature": 84,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20/bkn?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20/bkn?size=medium"
       },
       {
         "name": "Sunday Night",
