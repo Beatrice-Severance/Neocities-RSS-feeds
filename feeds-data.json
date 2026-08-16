@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-15T21:18:09.814Z",
+  "generatedAt": "2026-08-16T01:08:54.363Z",
   "items": [
+    {
+      "title": "Are robotaxis finally here?",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
+      "pubDate": "Sat, 15 Aug 2026 17:30:21 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "State Department spokesperson on Iran war and U.S. visa revocations",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
+      "pubDate": "Sat, 15 Aug 2026 17:20:51 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
       "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
@@ -48,22 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/800x450+0+0/resize/800x450!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F7c%2Fbc50566e458397e9f3999b72dee3%2F00-lk-exercisingwhilepregnant-header.gif"
-    },
-    {
-      "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
-      "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
-      "pubDate": "Sat, 15 Aug 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3600+0+0/resize/5400x3600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2F10%2F1044f9c34be8bd15a6eac178a202%2Fgettyimages-1234325178.jpg"
-    },
-    {
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
-      "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-      "pubDate": "Sat, 15 Aug 2026 04:29:20 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1067+0+0/resize/1600x1067!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd2%2F2f%2Facb9d38d4476942a27974b218729%2Fap26227063972379.jpg"
     },
     {
       "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
@@ -262,25 +262,18 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 82,
-        "temperatureUnit": "F",
-        "shortForecast": "Isolated Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 71,
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,20/tsra_sct,40?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/tsra,20/tsra,30?size=medium"
       },
       {
         "name": "Sunday",
         "temperature": 82,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20/bkn?size=medium"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
         "name": "Sunday Night",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+      },
+      {
+        "name": "Monday",
+        "temperature": 81,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       }
     ]
   }
