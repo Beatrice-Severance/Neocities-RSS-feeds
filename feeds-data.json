@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T21:17:06.913Z",
+  "generatedAt": "2026-08-17T01:06:29.468Z",
   "items": [
     {
       "title": "Multiple people dead as flooding continues in Indiana",
@@ -262,18 +262,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 84,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 62,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Mostly Clear then Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium"
       },
       {
         "name": "Monday",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Tuesday",
+        "temperature": 82,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny then Showers And Thunderstorms Likely",
+        "icon": "https://api.weather.gov/icons/land/day/sct/tsra_hi,60?size=medium"
       }
     ]
   }
