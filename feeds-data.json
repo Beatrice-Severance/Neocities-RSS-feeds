@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-08-18T06:38:43.634Z",
+  "generatedAt": "2026-08-18T09:29:39.339Z",
   "items": [
+    {
+      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+      "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1536x2048+0+0/resize/1536x2048!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Fac%2F41feedfc41cb8734493954424915%2Fimg-2092-1.JPEG"
+    },
+    {
+      "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+      "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+435/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2Fdf%2Ff45f14c14cfcb98b8ddc88511027%2Fgettyimages-1742725166.jpg"
+    },
+    {
+      "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+      "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5340x3560+0+0/resize/5340x3560!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2Fd2%2F76a9069343ef9239df777b269961%2Fap23164765254861.jpg"
+    },
+    {
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
+      "pubDate": "Tue, 18 Aug 2026 04:41:19 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
       "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
@@ -29,38 +61,6 @@
       "title": "Palestinian family in West Bank fear settler violence will rob them of home",
       "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
       "pubDate": "Mon, 17 Aug 2026 17:27:58 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
-    },
-    {
-      "title": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
-      "link": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing",
-      "pubDate": "Mon, 17 Aug 2026 17:01:54 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5696x3797+0+0/resize/5696x3797!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2F03%2F3ff8bda14805ab7f9b0a020c8039%2Fgettyimages-2290849775.jpg"
-    },
-    {
-      "title": "Democratic Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
-      "pubDate": "Mon, 17 Aug 2026 15:53:37 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3145x2098+0+0/resize/3145x2098!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fe4%2F54e258d64cf7a8c8330950025822%2Fgettyimages-2267402013.jpg"
-    },
-    {
-      "title": "DHS defends investigating agency critics and giving them warning notices",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
-      "pubDate": "Mon, 17 Aug 2026 09:31:13 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2675x1197+0+0/resize/2675x1197!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F8c%2F52ae56f74768b4ab07d4250de7d1%2Fsignal-cameras-2.jpg"
-    },
-    {
-      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-      "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
-      "pubDate": "Mon, 17 Aug 2026 07:48:21 -0400",
       "source": "NPR News",
       "category": "News",
       "thumbnail": null
@@ -272,15 +272,15 @@
         "name": "Tuesday",
         "temperature": 79,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers then Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/tsra_sct,50?size=medium"
+        "shortForecast": "Slight Chance Rain Showers then Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra_sct,50?size=medium"
       },
       {
         "name": "Tuesday Night",
         "temperature": 61,
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,50/sct?size=medium"
       },
       {
         "name": "Wednesday",
