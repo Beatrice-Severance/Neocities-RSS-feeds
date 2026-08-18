@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-18T03:41:40.561Z",
+  "generatedAt": "2026-08-18T06:38:43.634Z",
   "items": [
+    {
+      "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
+      "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
+      "pubDate": "Tue, 18 Aug 2026 01:56:44 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4562x3016+0+0/resize/4562x3016!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F7b%2Fa260b60145b09b204967727264b5%2Fap26229700078367.jpg"
+    },
+    {
+      "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "pubDate": "Tue, 18 Aug 2026 01:51:50 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5103x3402+0+0/resize/5103x3402!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F79%2Fb43421cc43fd92e9f9981e27a206%2Fap26229653630022.jpg"
+    },
     {
       "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
       "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
@@ -8,6 +24,14 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4424x2949+0+0/resize/4424x2949!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F80%2F8e29a0d243ea8195ea10d2976bee%2Fgettyimages-1240972620.jpg"
+    },
+    {
+      "title": "Palestinian family in West Bank fear settler violence will rob them of home",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
+      "pubDate": "Mon, 17 Aug 2026 17:27:58 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
     },
     {
       "title": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
@@ -40,30 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": null
-    },
-    {
-      "title": "Sen. Mark Kelly says USS Lincoln sailors 'can't get basic needs met'",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
-      "pubDate": "Mon, 17 Aug 2026 06:49:59 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/4000x2666!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2Fde%2F0eab7cc848008eeadafd49f1217f%2Fgettyimages-2255797338.jpg"
-    },
-    {
-      "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
-      "pubDate": "Mon, 17 Aug 2026 06:00:10 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2Fa9%2F5c1755fa40c89beef0871ab675bb%2Fgettyimages-1438843136.jpg"
-    },
-    {
-      "title": "Advocates worry new bans on student IDs will trip up younger voters",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
-      "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3712+0+0/resize/5568x3712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2F3d%2Fc814e3734658aa97909269616ef0%2Fgettyimages-2182413885.jpg"
     },
     {
       "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
@@ -262,7 +262,7 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 63,
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy",
@@ -272,19 +272,19 @@
         "name": "Tuesday",
         "temperature": 79,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20/tsra_sct,60?size=medium"
+        "shortForecast": "Chance Rain Showers then Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/tsra_sct,50?size=medium"
       },
       {
         "name": "Tuesday Night",
-        "temperature": 60,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,50/tsra_hi,30?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium"
       },
       {
         "name": "Wednesday",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
