@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-19T03:43:17.773Z",
+  "generatedAt": "2026-08-19T06:39:09.832Z",
   "items": [
+    {
+      "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+      "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+      "pubDate": "Wed, 19 Aug 2026 00:55:08 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1131x754+0+0/resize/1131x754!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F82%2F6b5a17c8482b90b1d19f3770b94d%2Fap26229698921444.jpg"
+    },
     {
       "title": "Key results from Florida primaries, so far",
       "link": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
@@ -58,12 +66,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4897x3428+0+0/resize/4897x3428!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2F9a%2Fbec4d78a4fb4a3826e4a7363141f%2Fgettyimages-2211085365.jpg"
     },
     {
-      "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
-      "pubDate": "Tue, 18 Aug 2026 05:30:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F4d%2F6b0ddbb343728c51f36c178a2daa%2Fhv0a4246.jpg"
+      "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
+      "pubDate": "Wed, 19 Aug 2026 05:02:06 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e408024-alt.jpg?w=1536"
+    },
+    {
+      "title": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
+      "pubDate": "Wed, 19 Aug 2026 04:05:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": null
     },
     {
       "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
@@ -112,22 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lala-batters-hawaii/hurricanelala_virs2_20260816.jpg"
-    },
-    {
-      "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
-      "pubDate": "Mon, 17 Aug 2026 23:10:41 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04976_opgs_edr_fcam_FLB_839253016EDR_F1240348FHAZ00337M_.jpg?w=1024&#038;h=1024&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA Selects Companies to Provide Payload Processing Services",
-      "link": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
-      "pubDate": "Mon, 17 Aug 2026 20:17:20 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg?w=1080"
     },
     {
       "title": "Medieval Europe was battered with 16 catastrophic floods in just 2 years",
@@ -262,11 +262,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Rain Showers then Patchy Fog",
-        "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/fog?size=medium"
+        "shortForecast": "Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/fog?size=medium"
       },
       {
         "name": "Wednesday",
@@ -277,14 +277,14 @@
       },
       {
         "name": "Wednesday Night",
-        "temperature": 56,
+        "temperature": 58,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Thursday",
-        "temperature": 80,
+        "temperature": 81,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
