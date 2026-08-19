@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-19T18:31:03.336Z",
+  "generatedAt": "2026-08-19T21:22:20.476Z",
   "items": [
+    {
+      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
+      "pubDate": "Wed, 19 Aug 2026 16:09:39 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2086+0+0/resize/3000x2086!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2Fdd%2F1c3635e949728c9542dc5c1a0838%2Fgettyimages-2284535020.jpg"
+    },
+    {
+      "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
+      "pubDate": "Wed, 19 Aug 2026 15:45:11 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2Ffe%2Fb85204cc4a80a347365d7a885309%2Fgettyimages-2153586575.jpg"
+    },
     {
       "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
       "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
@@ -50,20 +66,28 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2F04%2F566676034d6b836e5d4f9476ec09%2Ffarflungpostcard-eleanorb.jpg"
     },
     {
-      "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
-      "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
-      "pubDate": "Wed, 19 Aug 2026 07:14:31 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
+      "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
+      "pubDate": "Wed, 19 Aug 2026 19:57:48 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2023/02/techleap-logo-crop.jpeg?w=2048"
     },
     {
-      "title": "How India's blocking of a film exposing real-life police abuses backfired",
-      "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
-      "pubDate": "Wed, 19 Aug 2026 06:02:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F91%2F6cd3686d4c8893b07c4035c0279f%2F4.jpg"
+      "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
+      "pubDate": "Wed, 19 Aug 2026 18:08:25 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/swift-over-earth-animation-2025.jpg?w=900"
+    },
+    {
+      "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
+      "link": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
+      "pubDate": "Wed, 19 Aug 2026 18:02:40 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg?w=5568&#038;h=3712&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Ancient Milky Way Merger",
@@ -106,33 +130,17 @@
       "thumbnail": null
     },
     {
-      "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
-      "link": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
-      "pubDate": "Tue, 18 Aug 2026 18:49:50 +0000",
-      "source": "NASA",
+      "title": "Is NSF’s new call for research proposals good news? Scientists and staffers have doubts",
+      "link": "https://www.science.org/content/article/nsf-s-new-call-research-proposals-good-news-scientists-and-staffers-have-doubts",
+      "pubDate": "2026-08-19T03:45:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/content/dam/science/missions/lro/NASA_LRO_Falcon9impact_2026_GIF.gif?w=1200&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
-      "link": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
-      "pubDate": "Tue, 18 Aug 2026 18:03:44 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/2027-gbs-email-header-cc.png?w=1500"
-    },
-    {
-      "title": "NASA’s B777 Gets New Coat of Paint",
-      "link": "https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/",
-      "pubDate": "Tue, 18 Aug 2026 15:10:36 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg?w=1536"
+      "thumbnail": null
     },
     {
       "title": "‘Brain-eating amoeba’ appears to love crawling into narrow spaces",
       "link": "https://www.science.org/content/article/brain-eating-amoeba-appears-love-crawling-narrow-spaces",
-      "pubDate": "2026-08-19T12:10:27.000Z",
+      "pubDate": "2026-08-19T12:10:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -140,7 +148,7 @@
     {
       "title": "Former Fauci adviser pleads guilty to hiding COVID-19 communications",
       "link": "https://www.science.org/content/article/former-fauci-adviser-pleads-guilty-hiding-covid-19-communications",
-      "pubDate": "2026-08-19T11:30:16.000Z",
+      "pubDate": "2026-08-19T11:30:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -162,7 +170,7 @@
       "thumbnail": null
     },
     {
-      "title": "China mission aims for the Moon's hidden water with ‘hopping’ probe",
+      "title": "China mission aims for the Moon’s hidden water with ‘hopping’ probe",
       "link": "https://www.science.org/content/article/china-mission-aims-moon-s-hidden-water-hopping-probe",
       "pubDate": "2026-08-19T08:00:00.000Z",
       "source": "Science (AAAS)",
@@ -181,14 +189,6 @@
       "title": "NIH lifts ban on funding research in South Africa",
       "link": "https://www.science.org/content/article/nih-lifts-ban-funding-research-south-africa",
       "pubDate": "2026-08-18T05:47:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Could indigo light prevent nearsightedness in children?",
-      "link": "https://www.science.org/content/article/could-indigo-light-prevent-nearsightedness-children",
-      "pubDate": "2026-08-18T11:00:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -265,15 +265,15 @@
         "name": "This Afternoon",
         "temperature": 79,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+        "shortForecast": "Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
         "name": "Tonight",
         "temperature": 57,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear then Patchy Fog",
-        "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium"
+        "shortForecast": "Partly Cloudy then Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium"
       },
       {
         "name": "Thursday",
