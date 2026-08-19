@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-19T01:05:40.664Z",
+  "generatedAt": "2026-08-19T03:43:17.773Z",
   "items": [
+    {
+      "title": "Key results from Florida primaries, so far",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
+      "pubDate": "Tue, 18 Aug 2026 17:01:17 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat",
       "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F4d%2F6b0ddbb343728c51f36c178a2daa%2Fhv0a4246.jpg"
-    },
-    {
-      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-      "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1536x2048+0+0/resize/1536x2048!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Fac%2F41feedfc41cb8734493954424915%2Fimg-2092-1.JPEG"
     },
     {
       "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
@@ -265,8 +265,8 @@
         "name": "Tonight",
         "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms then Patchy Fog",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,90/fog?size=medium"
+        "shortForecast": "Slight Chance Rain Showers then Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/fog?size=medium"
       },
       {
         "name": "Wednesday",
