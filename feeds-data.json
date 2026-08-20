@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T01:05:13.970Z",
+  "generatedAt": "2026-08-20T03:43:31.011Z",
   "items": [
     {
       "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
@@ -130,6 +130,14 @@
       "thumbnail": null
     },
     {
+      "title": "These trees are making air quality in cities worse",
+      "link": "https://www.nature.com/articles/d41586-026-02586-2",
+      "pubDate": "2026-08-20T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Evidence for vacuum-enhanced superconductivity in NbSe<sub>2</sub>",
       "link": "https://www.nature.com/articles/s41586-026-11037-x",
       "pubDate": "2026-08-19T00:00:00.000Z",
@@ -180,14 +188,6 @@
     {
       "title": "Observation of conformal field theory spectra in a quantum simulator",
       "link": "https://www.nature.com/articles/s41586-026-10904-x",
-      "pubDate": "2026-08-19T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Wake-activated neuronal populations that regulate sleep drive",
-      "link": "https://www.nature.com/articles/s41586-026-10928-3",
       "pubDate": "2026-08-19T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
