@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-20T12:42:34.088Z",
+  "generatedAt": "2026-08-20T15:30:31.754Z",
   "items": [
+    {
+      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
+      "pubDate": "Thu, 20 Aug 2026 11:18:21 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5008x3339+0+0/resize/5008x3339!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F85%2Ff4%2F17fd79214a8193f3eb2d32e83ea2%2Fgettyimages-2290494709.jpg"
+    },
     {
       "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
       "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
@@ -26,22 +34,6 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5351x3202+0+0/resize/5351x3202!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2Fc3%2F33edef4d4edd988204482e55de1b%2Fgettyimages-2288234598.jpg"
     },
     {
-      "title": "Privacy advocates call on Maryland to investigate data brokers",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-      "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7672x5117+0+0/resize/7672x5117!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Ffe%2Fc3241bf848ecab758bcd383d2633%2Fgettyimages-2291175333.jpg"
-    },
-    {
-      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-      "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Ff6%2F7b3317d7468bb9a75d13c36730f2%2F20260603-icegreivance839.jpg"
-    },
-    {
       "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
       "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
       "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
@@ -58,12 +50,44 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faa%2F0d%2Fa46f60a842ba897f050d339a7e5f%2F20260805-dsc7274.jpg"
     },
     {
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
-      "pubDate": "Thu, 20 Aug 2026 04:52:29 -0400",
+      "title": "Privacy advocates call on Maryland to investigate data brokers",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+      "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": null
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7672x5117+0+0/resize/7672x5117!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Ffe%2Fc3241bf848ecab758bcd383d2633%2Fgettyimages-2291175333.jpg"
+    },
+    {
+      "title": "The system meant to protect ICE detainees has collapsed",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Ff6%2F7b3317d7468bb9a75d13c36730f2%2F20260603-icegreivance839.jpg"
+    },
+    {
+      "title": "NASA Selects University Teams to Help Advance Aviation Research",
+      "link": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/",
+      "pubDate": "Thu, 20 Aug 2026 14:57:01 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/uli-round-9-awards.jpg?w=1400"
+    },
+    {
+      "title": "The View from Above: The Gemini Visual Acuity Experiments",
+      "link": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
+      "pubDate": "Thu, 20 Aug 2026 14:30:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://images-assets.nasa.gov/image/s65-45683/s65-45683~large.jpg?w=1920&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA Data Feeds River Forecasts as Snow Drought Effects Linger",
+      "link": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/",
+      "pubDate": "Thu, 20 Aug 2026 14:12:09 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/washing_water_extremes2.png?w=3840&#038;h=1920&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
@@ -104,30 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764.png?w=2048"
-    },
-    {
-      "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
-      "link": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/",
-      "pubDate": "Wed, 19 Aug 2026 15:55:10 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/nasa-state-hubs-announcement-aug-19.jpg?w=1920"
-    },
-    {
-      "title": "Career Spotlight: Mechanic (Ages 14-18)",
-      "link": "https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/",
-      "pubDate": "Wed, 19 Aug 2026 13:48:20 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://images-assets.nasa.gov/image/KSC-20190326-PH_KLS01_0047/KSC-20190326-PH_KLS01_0047~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
-      "pubDate": "Wed, 19 Aug 2026 05:02:06 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e408024-alt.jpg?w=1536"
     },
     {
       "title": "Truck-size crocodilians once ruled South America’s wetlands",
@@ -210,6 +210,14 @@
       "thumbnail": null
     },
     {
+      "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
+      "link": "https://www.nature.com/articles/d41586-026-02612-3",
+      "pubDate": "2026-08-20T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
       "link": "https://www.nature.com/articles/d41586-026-02549-7",
       "pubDate": "2026-08-20T00:00:00.000Z",
@@ -248,14 +256,6 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
-      "link": "https://www.nature.com/articles/s41586-026-10777-0",
-      "pubDate": "2026-08-19T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
@@ -265,8 +265,8 @@
         "name": "Today",
         "temperature": 80,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Fog then Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium"
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       },
       {
         "name": "Tonight",
