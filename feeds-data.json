@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-20T15:30:31.754Z",
+  "generatedAt": "2026-08-20T18:35:14.623Z",
   "items": [
+    {
+      "title": "Three things to know about the $40 trillion federal debt",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
+      "pubDate": "Thu, 20 Aug 2026 12:50:41 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x5477+0+0/resize/8216x5477!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Fa0%2F506bb6d54c868aa88475ac2c643a%2Fgettyimages-2290607514.jpg"
+    },
+    {
+      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
+      "pubDate": "Thu, 20 Aug 2026 12:49:11 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F2d%2Fc70abf054c1dbce79346ac29142b%2Fap26222696212458.jpg"
+    },
     {
       "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
       "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
@@ -26,22 +42,6 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7525x5016+0+0/resize/7525x5016!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2Fbd%2F4c7281554a0c82aac58fcef79a0c%2Fap26232291378439.jpg"
     },
     {
-      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-      "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5351x3202+0+0/resize/5351x3202!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2Fc3%2F33edef4d4edd988204482e55de1b%2Fgettyimages-2288234598.jpg"
-    },
-    {
-      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-      "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2F5a%2Fa8d42a1f419c9a609b0f30a5ac30%2Fjoollof-00537.jpg"
-    },
-    {
       "title": "They grew up with disability rights. Now, they're fighting to keep them",
       "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
       "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
@@ -58,12 +58,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7672x5117+0+0/resize/7672x5117!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Ffe%2Fc3241bf848ecab758bcd383d2633%2Fgettyimages-2291175333.jpg"
     },
     {
-      "title": "The system meant to protect ICE detainees has collapsed",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
       "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Ff6%2F7b3317d7468bb9a75d13c36730f2%2F20260603-icegreivance839.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2F5a%2Fa8d42a1f419c9a609b0f30a5ac30%2Fjoollof-00537.jpg"
+    },
+    {
+      "title": "Artemis Mission Patches",
+      "link": "https://www.nasa.gov/image-article/artemis-mission-patches/",
+      "pubDate": "Thu, 20 Aug 2026 15:13:51 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260806-ph-rcr01-0010orig.jpg?w=2048"
     },
     {
       "title": "NASA Selects University Teams to Help Advance Aviation Research",
@@ -98,6 +106,14 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/IMG_5201_sgarbossa.jpeg?w=1208&#038;h=1800&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
+      "title": "An Uncommon Drifter in the Denmark Strait",
+      "link": "https://science.nasa.gov/earth/earth-observatory/an-uncommon-drifter-in-the-denmark-strait/",
+      "pubDate": "Thu, 20 Aug 2026 04:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-uncommon-drifter-in-the-denmark-strait/greenlandberg_oli2_20260612.jpg?w=1440&#038;h=1440&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
       "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
       "pubDate": "Wed, 19 Aug 2026 19:57:48 +0000",
@@ -114,20 +130,28 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/swift-over-earth-animation-2025.jpg?w=900"
     },
     {
-      "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
-      "link": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
-      "pubDate": "Wed, 19 Aug 2026 18:02:40 +0000",
-      "source": "NASA",
+      "title": "Footprints may reveal biggest known mammal from age of the dinosaurs",
+      "link": "https://www.science.org/content/article/footprints-may-reveal-biggest-known-mammal-age-dinosaurs",
+      "pubDate": "2026-08-20T12:15:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg?w=5568&#038;h=3712&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
-      "title": "Ancient Milky Way Merger",
-      "link": "https://www.nasa.gov/image-article/ancient-milky-way-merger/",
-      "pubDate": "Wed, 19 Aug 2026 16:18:48 +0000",
-      "source": "NASA",
+      "title": "Scientific spat erupts over claim that bones have key immune vessels",
+      "link": "https://www.science.org/content/article/scientific-spat-erupts-over-claim-bones-have-key-immune-vessels",
+      "pubDate": "2026-08-20T11:00:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764.png?w=2048"
+      "thumbnail": null
+    },
+    {
+      "title": "NASA abandons orbit-boosting rescue mission for space observatory",
+      "link": "https://www.science.org/content/article/nasa-abandons-orbit-boosting-rescue-mission-space-observatory",
+      "pubDate": "2026-08-20T10:38:53.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
     },
     {
       "title": "Truck-size crocodilians once ruled South America’s wetlands",
@@ -170,32 +194,32 @@
       "thumbnail": null
     },
     {
-      "title": "Mysterious droplets in cat kidneys may help felines send long-lasting messages",
-      "link": "https://www.science.org/content/article/mysterious-droplets-cat-kidneys-may-help-felines-send-long-lasting-messages",
-      "pubDate": "2026-08-19T11:00:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+      "link": "https://www.nature.com/articles/s41586-026-11043-z",
+      "pubDate": "2026-08-20T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "China mission aims for the Moon’s hidden water with ‘hopping’ probe",
-      "link": "https://www.science.org/content/article/china-mission-aims-moon-s-hidden-water-hopping-probe",
-      "pubDate": "2026-08-19T08:00:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Medieval Europe was battered with 16 catastrophic floods in just 2 years",
-      "link": "https://www.science.org/content/article/medieval-europe-was-battered-16-catastrophic-floods-just-2-years",
-      "pubDate": "2026-08-18T06:25:10.000Z",
-      "source": "Science (AAAS)",
+      "title": "Hidden volcanoes hint at Moon’s turbulent past",
+      "link": "https://www.nature.com/articles/d41586-026-02555-9",
+      "pubDate": "2026-08-20T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
       "title": "To shield the fetus, link a protein to these drugs",
       "link": "https://www.nature.com/articles/d41586-026-02553-x",
+      "pubDate": "2026-08-20T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Astronaut vest cuts radiation exposure in half",
+      "link": "https://www.nature.com/articles/d41586-026-02556-8",
       "pubDate": "2026-08-20T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -226,33 +250,9 @@
       "thumbnail": null
     },
     {
-      "title": "Evidence for vacuum-enhanced superconductivity in NbSe<sub>2</sub>",
-      "link": "https://www.nature.com/articles/s41586-026-11037-x",
-      "pubDate": "2026-08-19T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Too much mate choice overwhelms frogs",
-      "link": "https://www.nature.com/articles/d41586-026-02554-w",
-      "pubDate": "2026-08-19T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "A black hole's spin could finally be measured by a high-speed star",
-      "link": "https://www.nature.com/articles/d41586-026-02607-0",
-      "pubDate": "2026-08-19T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
-      "link": "https://www.nature.com/articles/s41586-026-10776-1",
-      "pubDate": "2026-08-19T00:00:00.000Z",
+      "title": "Staggering 90% of biomedical papers now show signs of AI help",
+      "link": "https://www.nature.com/articles/d41586-026-02551-z",
+      "pubDate": "2026-08-20T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
@@ -262,32 +262,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
+        "name": "This Afternoon",
         "temperature": 80,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+        "shortForecast": "Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
         "name": "Tonight",
-        "temperature": 61,
+        "temperature": 62,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,20?size=medium"
+        "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium"
       },
       {
         "name": "Friday",
-        "temperature": 79,
+        "temperature": 81,
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,40/tsra_sct,30?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,50/tsra_sct,60?size=medium"
       },
       {
         "name": "Friday Night",
-        "temperature": 61,
+        "temperature": 62,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms then Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,40/few?size=medium"
+        "shortForecast": "Showers And Thunderstorms Likely then Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,60/sct?size=medium"
       }
     ]
   }
