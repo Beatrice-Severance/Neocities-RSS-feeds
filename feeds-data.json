@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:41:04.224Z",
+  "generatedAt": "2026-08-21T15:30:01.589Z",
   "items": [
     {
       "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
@@ -194,8 +194,24 @@
       "thumbnail": null
     },
     {
+      "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+      "link": "https://www.nature.com/articles/d41586-026-02626-x",
+      "pubDate": "2026-08-21T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
       "link": "https://www.nature.com/articles/d41586-026-02566-6",
+      "pubDate": "2026-08-21T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+      "link": "https://www.nature.com/articles/d41586-026-02352-4",
       "pubDate": "2026-08-21T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -240,22 +256,6 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
-      "link": "https://www.nature.com/articles/d41586-026-02574-6",
-      "pubDate": "2026-08-20T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
-      "link": "https://www.nature.com/articles/d41586-026-02612-3",
-      "pubDate": "2026-08-20T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
@@ -265,8 +265,8 @@
         "name": "Today",
         "temperature": 79,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra,30/tsra,40?size=medium"
+        "shortForecast": "Showers And Thunderstorms then Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra,90/tsra,40?size=medium"
       },
       {
         "name": "Tonight",
