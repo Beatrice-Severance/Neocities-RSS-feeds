@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T01:05:11.791Z",
+  "generatedAt": "2026-08-22T03:38:43.927Z",
   "items": [
     {
       "title": "Supreme Court allows Trump's ballroom construction to continue for now",
@@ -263,14 +263,14 @@
     "periods": [
       {
         "name": "Tonight",
-        "temperature": 61,
+        "temperature": 60,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms then Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/few?size=medium"
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Saturday",
-        "temperature": 79,
+        "temperature": 78,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
@@ -284,7 +284,7 @@
       },
       {
         "name": "Sunday",
-        "temperature": 77,
+        "temperature": 74,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
