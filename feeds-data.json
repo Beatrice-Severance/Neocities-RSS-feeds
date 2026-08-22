@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T21:21:18.292Z",
+  "generatedAt": "2026-08-22T01:05:11.791Z",
   "items": [
     {
       "title": "Supreme Court allows Trump's ballroom construction to continue for now",
@@ -130,6 +130,14 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/uli-round-9-awards.jpg?w=1400"
     },
     {
+      "title": "Neurologist with antivaccine views to lead NIH’s child health institute",
+      "link": "https://www.science.org/content/article/neurologist-antivaccine-views-lead-nih-s-child-health-institute",
+      "pubDate": "2026-08-21T06:05:51.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Deadly tick-borne virus gains ground in Europe as climate warms",
       "link": "https://www.science.org/content/article/deadly-tick-borne-virus-gains-ground-europe-climate-warms",
       "pubDate": "2026-08-21T02:35:00.000Z",
@@ -181,14 +189,6 @@
       "title": "Truck-size crocodilians once ruled South America’s wetlands",
       "link": "https://www.science.org/content/article/truck-size-crocodilians-once-ruled-south-america-s-wetlands",
       "pubDate": "2026-08-19T05:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Is NSF’s new call for research proposals good news? Scientists and staffers have doubts",
-      "link": "https://www.science.org/content/article/nsf-s-new-call-research-proposals-good-news-scientists-and-staffers-have-doubts",
-      "pubDate": "2026-08-19T03:45:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -262,18 +262,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 81,
-        "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,60?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms Likely then Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,60/few?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/few?size=medium"
       },
       {
         "name": "Saturday",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Sunday",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       }
     ]
   }
