@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-23T15:19:07.464Z",
+  "generatedAt": "2026-08-23T18:24:55.221Z",
   "items": [
+    {
+      "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
+      "pubDate": "Sun, 23 Aug 2026 12:55:37 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2Fd5%2F911484d44872a24cf96947ff2c4c%2Fgettyimages-2291343083.jpg"
+    },
+    {
+      "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
+      "pubDate": "Sun, 23 Aug 2026 12:15:30 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F74%2F268774bb463099addcf16280a4b4%2Fmusician-insurance-01-morgan-mendoza.jpg"
+    },
     {
       "title": "Becerra, running for governor of California, faces a health insurance problem",
       "link": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
@@ -48,22 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7621x5182+0+0/resize/7621x5182!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F2d%2F04a3bf1644f79d3e3d92152ed94c%2Fgettyimages-2291174805.jpg"
-    },
-    {
-      "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
-      "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-      "pubDate": "Sat, 22 Aug 2026 00:36:27 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x746+0+0/resize/1024x746!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2F76%2Fce6c9c994f5eab171f25f577f3bb%2Fgetty-uscanadatariffs.jpg"
-    },
-    {
-      "title": "A battle over 'Italian brainrot' could shape who owns AI art",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
-      "pubDate": "Fri, 21 Aug 2026 18:16:46 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F75%2F30399660481c98a69fd03025dc83%2F2026-08-ai-videogames2.jpg"
     },
     {
       "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
@@ -262,29 +262,29 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 76,
+        "name": "This Afternoon",
+        "temperature": 75,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Tonight",
-        "temperature": 52,
+        "temperature": 53,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Mostly Clear then Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium"
       },
       {
         "name": "Monday",
-        "temperature": 77,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+        "shortForecast": "Patchy Fog then Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium"
       },
       {
         "name": "Monday Night",
-        "temperature": 57,
+        "temperature": 58,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
