@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T21:18:44.842Z",
+  "generatedAt": "2026-08-23T01:10:08.287Z",
   "items": [
     {
       "title": "Trump administration's 75-country visa ban was illegal, judge rules",
@@ -262,13 +262,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 78,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 54,
         "temperatureUnit": "F",
@@ -279,8 +272,8 @@
         "name": "Sunday",
         "temperature": 76,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Sunday Night",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Monday",
+        "temperature": 78,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       }
     ]
   }
