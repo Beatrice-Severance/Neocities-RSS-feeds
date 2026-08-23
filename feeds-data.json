@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T01:10:08.287Z",
+  "generatedAt": "2026-08-23T03:48:01.044Z",
   "items": [
     {
       "title": "Trump administration's 75-country visa ban was illegal, judge rules",
@@ -263,10 +263,10 @@
     "periods": [
       {
         "name": "Tonight",
-        "temperature": 54,
+        "temperature": 55,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Clear",
+        "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
       },
       {
         "name": "Sunday",
@@ -277,17 +277,17 @@
       },
       {
         "name": "Sunday Night",
-        "temperature": 53,
+        "temperature": 52,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Monday",
-        "temperature": 78,
+        "temperature": 77,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       }
     ]
   }
