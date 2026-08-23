@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T09:24:29.944Z",
+  "generatedAt": "2026-08-23T12:34:18.985Z",
   "items": [
     {
       "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
@@ -262,21 +262,14 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Overnight",
-        "temperature": 56,
-        "temperatureUnit": "F",
-        "shortForecast": "Clear",
-        "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
-      },
-      {
-        "name": "Sunday",
+        "name": "Today",
         "temperature": 76,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       },
       {
-        "name": "Sunday Night",
+        "name": "Tonight",
         "temperature": 52,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+      },
+      {
+        "name": "Monday Night",
+        "temperature": 57,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       }
     ]
   }
