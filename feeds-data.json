@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:18:49.519Z",
+  "generatedAt": "2026-08-24T01:07:48.744Z",
   "items": [
     {
       "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
@@ -262,13 +262,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 75,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 53,
         "temperatureUnit": "F",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Tuesday",
+        "temperature": 81,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       }
     ]
   }
