@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T03:52:38.547Z",
+  "generatedAt": "2026-08-24T06:53:11.582Z",
   "items": [
     {
       "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
@@ -66,6 +66,14 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8023x5348+0+0/resize/8023x5348!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2F5d%2Fa89f809d4a75a3f216dfcc2ecc60%2Fap26084563885466.jpg"
     },
     {
+      "title": "What Lake Bonneville Left Behind",
+      "link": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
+      "pubDate": "Mon, 24 Aug 2026 04:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604.jpg?w=2322&#038;h=1940&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
       "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
       "pubDate": "Sun, 23 Aug 2026 07:39:28 +0000",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300"
-    },
-    {
-      "title": "SmallSat 2026",
-      "link": "https://science.nasa.gov/earth/smallsat-2026/",
-      "pubDate": "Thu, 20 Aug 2026 20:05:41 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": null
     },
     {
       "title": "Neurologist with antivaccine views to lead NIH’s child health institute",
@@ -262,22 +262,22 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 52,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear then Patchy Fog",
-        "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium"
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Monday",
         "temperature": 79,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Fog then Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium"
+        "shortForecast": "Patchy Fog then Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium"
       },
       {
         "name": "Monday Night",
-        "temperature": 58,
+        "temperature": 57,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
