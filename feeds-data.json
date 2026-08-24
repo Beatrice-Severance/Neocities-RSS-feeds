@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:43:42.975Z",
+  "generatedAt": "2026-08-24T15:36:29.859Z",
   "items": [
     {
       "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
@@ -50,20 +50,20 @@
       "thumbnail": null
     },
     {
+      "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
+      "pubDate": "Mon, 24 Aug 2026 04:45:44 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
       "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
       "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
       "pubDate": "Sun, 23 Aug 2026 23:47:04 -0400",
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F7c%2Ff1eb163047479c477379e538b3ca%2Fap26235796925254.jpg"
-    },
-    {
-      "title": "Learning to live in a post-American world",
-      "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-      "pubDate": "Sun, 23 Aug 2026 17:21:23 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
     },
     {
       "title": "What Lake Bonneville Left Behind",
@@ -130,7 +130,7 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300"
     },
     {
-      "title": "Neurologist with antivaccine views to lead NIH’s child health institute",
+      "title": "Neurologist with MAHA ties to lead NIH’s child health institute",
       "link": "https://www.science.org/content/article/neurologist-antivaccine-views-lead-nih-s-child-health-institute",
       "pubDate": "2026-08-21T06:05:51.000Z",
       "source": "Science (AAAS)",
@@ -284,10 +284,10 @@
       },
       {
         "name": "Tuesday Night",
-        "temperature": 64,
+        "temperature": 65,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy then Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/sct/tsra_hi,40?size=medium"
+        "shortForecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/bkn/tsra_hi,40?size=medium"
       }
     ]
   }
