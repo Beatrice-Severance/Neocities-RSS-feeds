@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-24T15:36:29.859Z",
+  "generatedAt": "2026-08-24T18:36:14.921Z",
   "items": [
     {
-      "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
       "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
       "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Fc7%2Fd03614dc43d88cabaee45cf02e8c%2Fap26232565516998.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3790x2534+0+0/resize/3790x2534!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F1c%2F23da8dcd4c6d9d50ba932deba0e5%2Fap26236622592645.jpg"
     },
     {
       "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
@@ -66,6 +66,30 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F7c%2Ff1eb163047479c477379e538b3ca%2Fap26235796925254.jpg"
     },
     {
+      "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/",
+      "pubDate": "Mon, 24 Aug 2026 17:34:09 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/55483612275-859663d405-o.jpg?w=2048"
+    },
+    {
+      "title": "MAIA Air Sensor at Work in Addis Ababa",
+      "link": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
+      "pubDate": "Mon, 24 Aug 2026 17:27:01 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26698/PIA26698.jpg?w=4128&#038;h=1908&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
+      "link": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/",
+      "pubDate": "Mon, 24 Aug 2026 17:21:28 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26694/PIA26694.png?w=2317&#038;h=1896&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "What Lake Bonneville Left Behind",
       "link": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
       "pubDate": "Mon, 24 Aug 2026 04:01:00 +0000",
@@ -106,28 +130,12 @@
       "thumbnail": null
     },
     {
-      "title": "Webb Opens Treasure Chest",
-      "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
-      "pubDate": "Fri, 21 Aug 2026 17:35:11 +0000",
-      "source": "NASA",
+      "title": "China abruptly delays mission to probe Moon’s hidden water",
+      "link": "https://www.science.org/content/article/china-abruptly-delays-mission-probe-moon-s-hidden-water",
+      "pubDate": "2026-08-24T12:20:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/55457472091-12a8c7edb0-o.jpg?w=1497"
-    },
-    {
-      "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
-      "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
-      "pubDate": "Fri, 21 Aug 2026 17:06:36 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/artemis-ii-crew-at-wh-aug-19.webp?w=2048"
-    },
-    {
-      "title": "Europe’s Scorching Summer",
-      "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
-      "pubDate": "Fri, 21 Aug 2026 04:01:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300"
+      "thumbnail": null
     },
     {
       "title": "Neurologist with MAHA ties to lead NIH’s child health institute",
@@ -181,14 +189,6 @@
       "title": "NASA abandons orbit-boosting rescue mission for space observatory",
       "link": "https://www.science.org/content/article/nasa-abandons-orbit-boosting-rescue-mission-space-observatory",
       "pubDate": "2026-08-20T10:38:53.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Truck-size crocodilians once ruled South America’s wetlands",
-      "link": "https://www.science.org/content/article/truck-size-crocodilians-once-ruled-south-america-s-wetlands",
-      "pubDate": "2026-08-19T05:30:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -262,7 +262,7 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
+        "name": "This Afternoon",
         "temperature": 79,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
@@ -279,15 +279,15 @@
         "name": "Tuesday",
         "temperature": 81,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+        "shortForecast": "Patchy Fog then Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium"
       },
       {
         "name": "Tuesday Night",
         "temperature": 65,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/bkn/tsra_hi,40?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/bkn/tsra_hi,50?size=medium"
       }
     ]
   }
