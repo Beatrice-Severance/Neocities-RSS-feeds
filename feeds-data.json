@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:06:55.598Z",
+  "generatedAt": "2026-08-25T03:46:07.653Z",
   "items": [
     {
       "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
@@ -280,14 +280,14 @@
         "temperature": 65,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/bkn/tsra_hi,50?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/bkn/tsra_hi,40?size=medium"
       },
       {
         "name": "Wednesday",
         "temperature": 81,
         "temperatureUnit": "F",
         "shortForecast": "Slight Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers?size=medium"
       }
     ]
   }
