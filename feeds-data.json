@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-08-24T21:25:34.520Z",
+  "generatedAt": "2026-08-25T01:06:55.598Z",
   "items": [
     {
-      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+      "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+      "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+      "pubDate": "Mon, 24 Aug 2026 18:22:13 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3402x2722+0+0/resize/3402x2722!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F8e%2Fcdcdf55840c58c59f6c67c03f089%2Ffifth-fleet-8-24-26.jpg"
+    },
+    {
+      "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
+      "link": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
+      "pubDate": "Mon, 24 Aug 2026 17:17:31 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5503x3674+0+0/resize/5503x3674!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd1%2F55%2F558e63144444b9c89a18f93c81f2%2Fdrinking-cups-getty-pic.jpg"
+    },
+    {
+      "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
       "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
       "pubDate": "Mon, 24 Aug 2026 16:53:45 -0400",
       "source": "NPR News",
@@ -48,22 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3776x2118+0+0/resize/3776x2118!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F60%2Fc97dbe7449fd8074944fa5aa583f%2Fap26212604480578.jpg"
-    },
-    {
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief",
-      "pubDate": "Mon, 24 Aug 2026 04:46:05 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
-    },
-    {
-      "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
-      "link": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
-      "pubDate": "Mon, 24 Aug 2026 04:45:44 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
     },
     {
       "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
@@ -262,25 +262,18 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 79,
-        "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 57,
+        "temperature": 56,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Mostly Clear then Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium"
       },
       {
         "name": "Tuesday",
         "temperature": 81,
         "temperatureUnit": "F",
-        "shortForecast": "Patchy Fog then Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium"
+        "shortForecast": "Patchy Fog then Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium"
       },
       {
         "name": "Tuesday Night",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
         "icon": "https://api.weather.gov/icons/land/night/bkn/tsra_hi,50?size=medium"
+      },
+      {
+        "name": "Wednesday",
+        "temperature": 81,
+        "temperatureUnit": "F",
+        "shortForecast": "Slight Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium"
       }
     ]
   }
