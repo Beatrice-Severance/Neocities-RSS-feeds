@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:36:05.333Z",
+  "generatedAt": "2026-08-25T21:24:55.604Z",
   "items": [
     {
       "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
@@ -18,7 +18,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5809x3873+0+0/resize/5809x3873!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2F65%2F3da8ad3a4ba5ae42f372bf37a189%2Fap26160575103570.jpg"
     },
     {
-      "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+      "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
       "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
       "pubDate": "Tue, 25 Aug 2026 11:20:18 -0400",
       "source": "NPR News",
@@ -66,6 +66,38 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8516x5678+0+0/resize/8516x5678!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F47%2Fdba05d284318a540221bd45f9cfb%2Fap26122373189543.jpg"
     },
     {
+      "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/",
+      "pubDate": "Tue, 25 Aug 2026 20:20:58 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "NASA Ames’ Contributions to Roman’s Mission",
+      "link": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/",
+      "pubDate": "Tue, 25 Aug 2026 19:44:55 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/roman-beautypass2026-med.png?w=2000"
+    },
+    {
+      "title": "NASA Ames Experts Available for Roman Space Telescope Interviews ",
+      "link": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/",
+      "pubDate": "Tue, 25 Aug 2026 18:47:01 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars",
+      "link": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/",
+      "pubDate": "Tue, 25 Aug 2026 17:55:02 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/pandora/news/2026/Pandora_ArtistsConcept.jpg?w=6000&#038;h=3000&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "Galactic Gems Glisten in New Gallery From NASA’s Chandra",
       "link": "https://science.nasa.gov/missions/chandra/galactic-gems-glisten-in-new-gallery-from-nasas-chandra/",
       "pubDate": "Tue, 25 Aug 2026 16:13:49 +0000",
@@ -98,36 +130,12 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260821-ph-ser01-0003large.jpg?w=1439"
     },
     {
-      "title": "Perseverance Captures Another Phobos Transit",
-      "link": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/",
-      "pubDate": "Mon, 24 Aug 2026 17:56:49 +0000",
-      "source": "NASA",
+      "title": "In a global first, Mexico approves use of RNA-based fungicide",
+      "link": "https://www.science.org/content/article/global-first-mexico-approves-use-rna-based-fungicide",
+      "pubDate": "2026-08-25T02:30:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26811/PIA26811.png?w=2011&#038;h=1372&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
-      "link": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/",
-      "pubDate": "Mon, 24 Aug 2026 17:53:57 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604_th.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
-      "link": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/",
-      "pubDate": "Mon, 24 Aug 2026 17:34:09 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/55483612275-859663d405-o.jpg?w=2048"
-    },
-    {
-      "title": "MAIA Air Sensor at Work in Addis Ababa",
-      "link": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
-      "pubDate": "Mon, 24 Aug 2026 17:27:01 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26698/PIA26698.jpg?w=4128&#038;h=1908&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
       "title": "This is what a Jurassic forest may have sounded like",
@@ -181,14 +189,6 @@
       "title": "For investigators in NIH’s autism initiative, funding comes with a ‘big spotlight’",
       "link": "https://www.science.org/content/article/investigators-nih-s-autism-initiative-funding-comes-big-spotlight",
       "pubDate": "2026-08-20T04:32:35.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "AI chatbots are becoming experts at changing people's minds. What's their secret?",
-      "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-      "pubDate": "2026-08-20T02:00:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
