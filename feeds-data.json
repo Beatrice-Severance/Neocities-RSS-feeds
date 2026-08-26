@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-26T03:51:19.002Z",
+  "generatedAt": "2026-08-26T06:43:17.335Z",
   "items": [
+    {
+      "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
+      "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
+      "pubDate": "Wed, 26 Aug 2026 01:45:58 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4247x2831+0+0/resize/4247x2831!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fab%2F14%2Fb7f5344145919c92e6229778b45e%2Fap26237808284639.jpg"
+    },
+    {
+      "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
+      "pubDate": "Wed, 26 Aug 2026 01:45:34 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6440x4293+0+0/resize/6440x4293!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F14%2Fb2e550804322968c74be9d57195b%2Fap26236711302607.jpg"
+    },
     {
       "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
       "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
@@ -50,20 +66,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4724x3150+0+0/resize/4724x3150!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F58%2Fcc%2F974394ce4f7fb718d4f804a3a274%2F0h1a0631.JPG"
     },
     {
-      "title": "Several states will decide voter ID ballot measures this year",
-      "link": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
-      "pubDate": "Tue, 25 Aug 2026 10:40:36 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2Ff5%2Fb3660f854c69a6690fe1ebb8598f%2Fap25251758060957.jpg"
-    },
-    {
-      "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
-      "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
-      "pubDate": "Tue, 25 Aug 2026 07:09:01 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
+      "title": "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/",
+      "pubDate": "Wed, 26 Aug 2026 04:05:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png?w=3505&#038;h=3505&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg?w=2048"
-    },
-    {
-      "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
-      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
-      "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/HelioSwarm.jpg?w=1650&#038;h=1290&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Researchers presented 6000 papers at a major meeting. Could AI reproduce their findings?",
@@ -262,32 +262,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 66,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/tsra_hi,50?size=medium"
+        "shortForecast": "Slight Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,50?size=medium"
       },
       {
         "name": "Wednesday",
-        "temperature": 83,
+        "temperature": 82,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Wednesday Night",
-        "temperature": 61,
+        "temperature": 62,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Thursday",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       }
     ]
   }
