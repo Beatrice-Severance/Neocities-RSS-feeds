@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-26T19:44:20.542Z",
+  "generatedAt": "2026-08-27T00:26:29.251Z",
   "items": [
+    {
+      "title": "Drugstores say Medicare's $50 obesity drug program is catching on",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs",
+      "pubDate": "Wed, 26 Aug 2026 17:11:42 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8667x5768+0+0/resize/8667x5768!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2F4a%2F1c240dd84cec8720230c8e70ee3f%2Fgettyimages-2150031845.jpg"
+    },
     {
       "title": "Immigration arrests soar, hitting 50,000 in July",
       "link": "https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8608x5739+0+0/resize/8608x5739!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2F84%2F0799dcde42459af58848bd15cc39%2Fgettyimages-2290506003.jpg"
-    },
-    {
-      "title": "At least 98 killed and hundreds missing after flash floods in Nepal and China",
-      "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
-      "pubDate": "Wed, 26 Aug 2026 08:27:19 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5084x3380+0+0/resize/5084x3380!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2Fab%2Fb25a5bd34115bba2ae3410546008%2Fap26238503532584.jpg"
     },
     {
       "title": "Building Foresight for Earth Science, featuring Lindsey Jacobson",
@@ -130,6 +130,14 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/1-pia26777-d2026-0824-rl0031661-pano-med.jpg?w=2048"
     },
     {
+      "title": "NSF shrinks support for social sciences in prestigious graduate fellowship program",
+      "link": "https://www.science.org/content/article/nsf-shrinks-support-social-sciences-prestigious-graduate-fellowship-program",
+      "pubDate": "2026-08-26T04:55:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "NASA’s Roman telescope readies a sweeping view of the universe",
       "link": "https://www.science.org/content/article/nasa-s-roman-telescope-readies-sweeping-view-universe",
       "pubDate": "2026-08-26T01:45:00.000Z",
@@ -181,14 +189,6 @@
       "title": "Worldwide study of diseases gets historic funding influx",
       "link": "https://www.science.org/content/article/worldwide-study-diseases-gets-historic-funding-influx",
       "pubDate": "2026-08-25T04:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "In a global first, Mexico approves use of RNA-based fungicide",
-      "link": "https://www.science.org/content/article/global-first-mexico-approves-use-rna-based-fungicide",
-      "pubDate": "2026-08-25T02:30:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -262,25 +262,18 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 81,
-        "temperatureUnit": "F",
-        "shortForecast": "Isolated Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Isolated Rain Showers then Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/few?size=medium"
+        "shortForecast": "Isolated Rain Showers then Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium"
       },
       {
         "name": "Thursday",
         "temperature": 80,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Thursday Night",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Friday",
+        "temperature": 82,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       }
     ]
   }
