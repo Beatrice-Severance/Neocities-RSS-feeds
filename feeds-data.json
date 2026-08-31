@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-30T23:09:29.889Z",
+  "generatedAt": "2026-08-31T03:37:29.544Z",
   "items": [
+    {
+      "title": "What Argentina gets right about youth soccer — and what the U.S. gets wrong",
+      "link": "https://www.npr.org/2026/08/30/nx-s1-5924666/what-argentina-gets-right-about-youth-soccer-and-what-the-u-s-gets-wrong",
+      "pubDate": "Sun, 30 Aug 2026 22:27:49 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5126x3417+0+0/resize/5126x3417!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2Fa4%2Fe84805c04008bce2436595d04546%2Fgettyimages-963426734.jpg"
+    },
+    {
+      "title": "Families of pilgrims likely caught in floods are desperate for news from Nepal",
+      "link": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal",
+      "pubDate": "Sun, 30 Aug 2026 19:32:39 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F2b%2F143192c743568661f1a089d182fa%2Fnepal-floods-1.jpg"
+    },
     {
       "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
       "link": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
@@ -48,22 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3002+0+0/resize/4500x3002!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2F88%2F809a965e4ef2b49547ac8d1220a1%2F20260825-mcgarvey-npr-1194.JPG"
-    },
-    {
-      "title": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent",
-      "link": "https://www.npr.org/2026/08/30/nx-s1-5946399/africa-dolly-parton-fans",
-      "pubDate": "Sun, 30 Aug 2026 06:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2F49%2F8eafbc484b7a8dad967be0d67348%2Fgettyimages-2287054395.jpg"
-    },
-    {
-      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
-      "link": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
-      "pubDate": "Sun, 30 Aug 2026 05:52:41 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4627x2115+0+0/resize/4627x2115!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Fb5%2F8c0f91b946acaecb425753937db8%2Fap26241725231648.jpg"
     },
     {
       "title": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
@@ -194,6 +194,14 @@
       "thumbnail": null
     },
     {
+      "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
+      "link": "https://www.nature.com/articles/d41586-026-02684-1",
+      "pubDate": "2026-08-30T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
       "link": "https://www.nature.com/articles/d41586-026-02727-7",
       "pubDate": "2026-08-30T00:00:00.000Z",
@@ -248,46 +256,38 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "A solution to the mystery of the missing neutrinos",
-      "link": "https://www.nature.com/articles/d41586-026-02628-9",
-      "pubDate": "2026-08-27T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 83,
-        "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,40?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 70,
         "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms Likely then Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,60/tsra_sct,30?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30?size=medium"
       },
       {
         "name": "Monday",
-        "temperature": 89,
+        "temperature": 87,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,30/tsra_sct,20?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,30/tsra_hi,20?size=medium"
       },
       {
         "name": "Monday Night",
-        "temperature": 71,
+        "temperature": 72,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy then Slight Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/sct/tsra_hi,20?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium"
+      },
+      {
+        "name": "Tuesday",
+        "temperature": 90,
+        "temperatureUnit": "F",
+        "shortForecast": "Slight Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium"
       }
     ]
   }
