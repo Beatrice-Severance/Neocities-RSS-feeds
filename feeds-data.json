@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-01T18:08:40.502Z",
+  "generatedAt": "2026-09-01T23:00:15.781Z",
   "items": [
+    {
+      "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
+      "link": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
+      "pubDate": "Tue, 01 Sep 2026 18:18:20 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4506x3004+0+0/resize/4506x3004!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2F52%2F179496f743818662229b7f9fcd78%2Fap26239625128302.jpg"
+    },
     {
       "title": "Congress averts a government shutdown ahead of the midterms",
       "link": "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
@@ -58,12 +66,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4943x3379+0+0/resize/4943x3379!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2F8f%2Fcaac34fd4b09acc833423b45784c%2Fgettyimages-1229296822-1.jpg"
     },
     {
-      "title": "A makeover for college: No gym, no meal plan and two years of work",
-      "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
-      "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2F77%2F10168df842b489d7f3542486cabb%2Fhe-reinventing-college-1.jpg"
+      "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
+      "pubDate": "Tue, 01 Sep 2026 21:08:37 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048"
+    },
+    {
+      "title": "What’s Up: September 2026 Skywatching Tips from NASA",
+      "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/",
+      "pubDate": "Tue, 01 Sep 2026 19:15:25 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/september/Harvest%20Moon_212_Mike%20Linnihan_Used%20with%20Permission.jpg?w=1870&#038;h=1241&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Historic Engines Take Their Place on Artemis III",
@@ -114,18 +130,26 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg?w=1639"
     },
     {
-      "title": "Roman Commissioning",
-      "link": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
-      "pubDate": "Mon, 31 Aug 2026 12:16:53 +0000",
-      "source": "NASA",
+      "title": "NASA’s New Horizons mission may shut down two instruments over lack of funding",
+      "link": "https://www.science.org/content/article/nasa-s-new-horizons-mission-may-shut-down-two-instruments-over-lack-funding",
+      "pubDate": "2026-09-01T05:00:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/RST_Beauty_S2_4K_60_ProRes.00422_print.jpg?w=1024&#038;h=576&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
-      "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/",
-      "pubDate": "Mon, 31 Aug 2026 04:05:00 +0000",
-      "source": "NASA",
+      "title": "Brain stimulation takes aim at improving women’s health",
+      "link": "https://www.science.org/content/article/brain-stimulation-takes-aim-improving-women-s-health",
+      "pubDate": "2026-09-01T04:00:45.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Fearing traumatic seal die-off, Australia moves to evacuate polar research station",
+      "link": "https://www.science.org/content/article/fearing-traumatic-seal-die-australia-moves-evacuate-polar-research-station",
+      "pubDate": "2026-09-01T03:30:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
     },
@@ -165,30 +189,6 @@
       "title": "In autism advisory committee’s funding plan, critics see a veiled antivaccine focus",
       "link": "https://www.science.org/content/article/autism-advisory-committee-s-funding-plan-critics-see-veiled-antivaccine-focus",
       "pubDate": "2026-08-31T06:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Russia bets on new research facilities to rebuild foreign ties",
-      "link": "https://www.science.org/content/article/russia-bets-new-research-facilities-rebuild-foreign-ties",
-      "pubDate": "2026-08-31T02:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Will Meta’s settlement in social media addiction case be a boon for research?",
-      "link": "https://www.science.org/content/article/will-meta-s-settlement-social-media-addiction-case-be-boon-research",
-      "pubDate": "2026-08-31T12:45:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Snake embryos often coil in one direction. Now, we may know why",
-      "link": "https://www.science.org/content/article/snake-embryos-often-coil-one-direction-now-we-may-know-why",
-      "pubDate": "2026-08-31T09:00:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -262,18 +262,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 89,
-        "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 72,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium"
       },
       {
         "name": "Wednesday",
@@ -284,10 +277,17 @@
       },
       {
         "name": "Wednesday Night",
-        "temperature": 71,
+        "temperature": 73,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear then Chance Showers And Thunderstorms",
+        "shortForecast": "Mostly Clear then Slight Chance Showers And Thunderstorms",
         "icon": "https://api.weather.gov/icons/land/night/few/tsra_hi,30?size=medium"
+      },
+      {
+        "name": "Thursday",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "shortForecast": "Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,40?size=medium"
       }
     ]
   }
