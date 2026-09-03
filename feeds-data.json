@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T22:58:20.325Z",
+  "generatedAt": "2026-09-03T02:55:30.430Z",
   "items": [
     {
       "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
@@ -130,6 +130,14 @@
       "thumbnail": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
+      "title": "Fauci speaks out about the pandemic, global health—and his own record",
+      "link": "https://www.science.org/content/article/fauci-speaks-out-about-pandemic-global-health-and-his-own-record",
+      "pubDate": "2026-09-02T07:00:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Ancient sheep virus found hiding in medieval parchment",
       "link": "https://www.science.org/content/article/ancient-sheep-virus-found-hiding-medieval-parchment",
       "pubDate": "2026-09-02T02:00:00.000Z",
@@ -181,14 +189,6 @@
       "title": "California to vote on spending $16 billion to boost research after Trump cuts",
       "link": "https://www.science.org/content/article/california-vote-spending-16-billion-boost-research-after-trump-cuts",
       "pubDate": "2026-09-01T07:05:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Scientists identify early signal of dangerous pregnancy complications",
-      "link": "https://www.science.org/content/article/scientists-identify-early-signal-dangerous-pregnancy-complications",
-      "pubDate": "2026-08-31T11:10:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -262,32 +262,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 90,
-        "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 72,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/tsra_hi,30?size=medium"
+        "shortForecast": "Partly Cloudy then Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/sct/tsra_hi,40?size=medium"
       },
       {
         "name": "Thursday",
-        "temperature": 86,
+        "temperature": 87,
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,50/tsra_sct,30?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,40/tsra_sct,30?size=medium"
       },
       {
         "name": "Thursday Night",
-        "temperature": 69,
+        "temperature": 70,
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,50/tsra_hi,90?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/tsra_sct,50/tsra_sct,90?size=medium"
+      },
+      {
+        "name": "Friday",
+        "temperature": 88,
+        "temperatureUnit": "F",
+        "shortForecast": "Showers And Thunderstorms Likely then Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,60/bkn?size=medium"
       }
     ]
   }
