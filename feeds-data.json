@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T22:38:05.465Z",
+  "generatedAt": "2026-09-06T02:55:46.288Z",
   "items": [
     {
       "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
@@ -10,7 +10,7 @@
       "thumbnail": null
     },
     {
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+      "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
       "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400",
       "source": "NPR News",
@@ -262,13 +262,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 79,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 61,
         "temperatureUnit": "F",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Labor Day",
+        "temperature": 78,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       }
     ]
   }
