@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T02:55:46.288Z",
+  "generatedAt": "2026-09-06T07:39:34.147Z",
   "items": [
     {
       "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
@@ -262,11 +262,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy then Patchy Fog",
-        "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium"
+        "shortForecast": "Patchy Fog",
+        "icon": "https://api.weather.gov/icons/land/night/fog?size=medium"
       },
       {
         "name": "Sunday",
@@ -277,14 +277,14 @@
       },
       {
         "name": "Sunday Night",
-        "temperature": 59,
+        "temperature": 58,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Labor Day",
-        "temperature": 78,
+        "temperature": 79,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
