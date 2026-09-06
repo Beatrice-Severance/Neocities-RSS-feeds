@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T17:30:04.815Z",
+  "generatedAt": "2026-09-06T19:59:14.776Z",
   "items": [
     {
       "title": "German exit polls suggest far-right party has big lead in regional election",
-      "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
       "pubDate": "Sun, 06 Sep 2026 12:36:48 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3376x2251+0+0/resize/3376x2251!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F2b%2F18c9cb3346b3b36ea5ce83575239%2Fap26249325207672.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6671x4447+0+0/resize/6671x4447!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F8b%2F4944bf8c48818ed67eaa4a898590%2Fap26249584589925.jpg"
     },
     {
       "title": "American Muslims are giving Texas barbecue a halal makeover",
@@ -263,7 +263,7 @@
     "periods": [
       {
         "name": "This Afternoon",
-        "temperature": 80,
+        "temperature": 81,
         "temperatureUnit": "F",
         "shortForecast": "Partly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
