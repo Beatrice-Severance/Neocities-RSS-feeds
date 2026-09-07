@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T18:58:43.722Z",
+  "generatedAt": "2026-09-07T23:16:24.211Z",
   "items": [
     {
       "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
@@ -18,6 +18,14 @@
       "thumbnail": null
     },
     {
+      "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+      "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2700+0+0/resize/3600x2700!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Fd4%2F1bcc9d044d2a8dd6955944772e7b%2Fhbarczyk-npr-copperpeptides-final.jpg"
+    },
+    {
       "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
       "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
       "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
@@ -32,14 +40,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F11%2F4adc649c47c98896855dea7dcaec%2Fmicheltorena-leopo-2026-28.jpg"
-    },
-    {
-      "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
-      "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
-      "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2700+0+0/resize/3600x2700!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Fd4%2F1bcc9d044d2a8dd6955944772e7b%2Fhbarczyk-npr-copperpeptides-final.jpg"
     },
     {
       "title": "Morning news brief",
@@ -234,6 +234,14 @@
       "thumbnail": null
     },
     {
+      "title": "Anthropic AI ‘formalizes’ proof of Fermat’s last theorem in just 11 days",
+      "link": "https://www.nature.com/articles/d41586-026-02822-9",
+      "pubDate": "2026-09-07T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
       "link": "https://www.nature.com/articles/d41586-026-02800-1",
       "pubDate": "2026-09-04T00:00:00.000Z",
@@ -248,32 +256,17 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
-      "link": "https://www.nature.com/articles/d41586-026-02739-3",
-      "pubDate": "2026-09-04T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Labor Day",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
       },
       {
         "name": "Tuesday",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
         "icon": "https://api.weather.gov/icons/land/night/tsra,50/tsra,80?size=medium"
+      },
+      {
+        "name": "Wednesday",
+        "temperature": 81,
+        "temperatureUnit": "F",
+        "shortForecast": "Chance Showers And Thunderstorms then Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/day/tsra,50/bkn?size=medium"
       }
     ]
   }
