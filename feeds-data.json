@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T22:40:45.503Z",
+  "generatedAt": "2026-09-07T02:53:09.764Z",
   "items": [
     {
       "title": "Five dead after Amazon cargo plane crashes at Miami airport",
@@ -262,32 +262,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 81,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 58,
+        "temperature": 57,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Labor Day",
         "temperature": 80,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+        "shortForecast": "Areas Of Fog then Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium"
       },
       {
         "name": "Monday Night",
         "temperature": 60,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+      },
+      {
+        "name": "Tuesday",
+        "temperature": 82,
+        "temperatureUnit": "F",
+        "shortForecast": "Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra_sct,30?size=medium"
       }
     ]
   }
