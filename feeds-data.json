@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T14:46:20.434Z",
+  "generatedAt": "2026-09-07T18:58:43.722Z",
   "items": [
     {
       "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
@@ -50,7 +50,7 @@
       "thumbnail": null
     },
     {
-      "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
+      "title": "Investigators seek answers after Amazon cargo plane crash kills five at Miami airport",
       "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
       "pubDate": "Sun, 06 Sep 2026 15:54:28 -0400",
       "source": "NPR News",
@@ -277,17 +277,17 @@
       },
       {
         "name": "Tuesday",
-        "temperature": 82,
+        "temperature": 83,
         "temperatureUnit": "F",
         "shortForecast": "Partly Sunny then Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,30?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,50?size=medium"
       },
       {
         "name": "Tuesday Night",
-        "temperature": 69,
+        "temperature": 68,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,40/tsra,90?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra,50/tsra,80?size=medium"
       }
     ]
   }
