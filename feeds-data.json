@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T02:53:09.764Z",
+  "generatedAt": "2026-09-07T07:55:16.360Z",
   "items": [
     {
       "title": "Five dead after Amazon cargo plane crashes at Miami airport",
@@ -66,6 +66,22 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2Fec%2F64938f1741d199aebbc31393fde3%2Fap26247569143031.jpg"
     },
     {
+      "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+      "pubDate": "Mon, 07 Sep 2026 04:05:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg?w=4800&#038;h=6000&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "A Bright Spot at Mount Michael",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+      "pubDate": "Mon, 07 Sep 2026 04:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bright-spot-at-mount-michael/mountmichael_oli_20260824.jpg?w=1100&#038;h=917&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
       "link": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
       "pubDate": "Sat, 05 Sep 2026 04:05:00 +0000",
@@ -112,22 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg?w=1440&#038;h=1440&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
-      "link": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
-      "pubDate": "Thu, 03 Sep 2026 17:06:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://images-assets.nasa.gov/image/iss074e0395792/iss074e0395792~large.jpg?w=1920&amp;h=1078&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
-      "pubDate": "Thu, 03 Sep 2026 15:59:48 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04989_mhli_4989MH0001710001803430R00_DXXX.jpg?w=1584&#038;h=1184&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Outrage greets NIH pact that could funnel biodefense research funds to Pentagon",
@@ -262,11 +262,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 57,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
       },
       {
         "name": "Labor Day",
@@ -277,17 +277,17 @@
       },
       {
         "name": "Monday Night",
-        "temperature": 60,
+        "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Tuesday",
         "temperature": 82,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra_sct,30?size=medium"
+        "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,30?size=medium"
       }
     ]
   }
