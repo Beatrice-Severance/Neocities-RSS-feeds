@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-08T15:58:33.406Z",
+  "generatedAt": "2026-09-08T20:42:55.620Z",
   "items": [
+    {
+      "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
+      "link": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
+      "pubDate": "Tue, 08 Sep 2026 15:55:43 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4200x2800+0+0/resize/4200x2800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F9d%2Fffa8dc4f4921a0a00da5c4b51ed7%2Fgettyimages-2293565639.jpg"
+    },
     {
       "title": "Australian social media users to be offered choice to opt out of algorithms",
       "link": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
@@ -58,12 +66,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x792+0+0/resize/1200x792!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fc0%2F2a7e5d7b4177ad5cb82db6cdc4e4%2Fap26070564810264.jpg"
     },
     {
-      "title": "The 2026 midterm general election season is upon us. Here's what to watch",
-      "link": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
-      "pubDate": "Tue, 08 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8667x5768+0+0/resize/8667x5768!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2F2b%2F4c6477fc455e98281566eb111242%2Fgettyimages-2292937076.jpg"
+      "title": "NASA Calls for Proposals to Accelerate Lunar Surface Technologies ",
+      "link": "https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/",
+      "pubDate": "Tue, 08 Sep 2026 20:16:16 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/lunar-enabling-infrastructure-06292026-1.png?w=1920"
+    },
+    {
+      "title": "Superbubble in the Large Magellanic Cloud",
+      "link": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
+      "pubDate": "Tue, 08 Sep 2026 16:49:15 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg?w=1159"
     },
     {
       "title": "NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images  ",
@@ -114,20 +130,28 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg?w=4800&#038;h=6000&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "A Bright Spot at Mount Michael",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
-      "pubDate": "Mon, 07 Sep 2026 04:01:00 +0000",
-      "source": "NASA",
+      "title": "With billion-dollar project, China maps scars of its geological past",
+      "link": "https://www.science.org/content/article/billion-dollar-project-china-maps-scars-its-geological-past",
+      "pubDate": "2026-09-08T04:01:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bright-spot-at-mount-michael/mountmichael_oli_20260824.jpg?w=1100&#038;h=917&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
-      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
-      "pubDate": "Sat, 05 Sep 2026 04:05:00 +0000",
-      "source": "NASA",
+      "title": "U.S. cancer institute director counters gloomy forecast",
+      "link": "https://www.science.org/content/article/u-s-cancer-institute-director-counters-gloomy-forecast",
+      "pubDate": "2026-09-08T03:25:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg?w=3840&#038;h=2160&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
+    },
+    {
+      "title": "Why are human births so difficult? Male babies—not just upright walking—may be to blame",
+      "link": "https://www.science.org/content/article/why-are-human-births-so-difficult-male-babies-not-just-upright-walking-may-be-blame",
+      "pubDate": "2026-09-08T01:35:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
     },
     {
       "title": "New clues suggest how destructive immune cells wreak havoc in the brain",
@@ -165,30 +189,6 @@
       "title": "Bernie Sanders aims to ban AI ‘superintelligence.’ But experts can’t agree on what the term means",
       "link": "https://www.science.org/content/article/bernie-sanders-aims-ban-ai-superintelligence-experts-can-t-agree-what-term-means",
       "pubDate": "2026-09-04T03:10:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Are these killer whales out for revenge on humans—or just trying to play?",
-      "link": "https://www.science.org/content/article/are-these-killer-whales-out-revenge-humans-or-just-trying-play",
-      "pubDate": "2026-09-04T01:05:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "To prevent forest fires, Trump wants to end a road-building ban. Scientists are skeptical",
-      "link": "https://www.science.org/content/article/prevent-forest-fires-trump-wants-end-road-building-ban-scientists-are-skeptical",
-      "pubDate": "2026-09-04T10:00:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "NSF initiative seeks tech fixes for Colorado River water crisis",
-      "link": "https://www.science.org/content/article/nsf-looks-technology-fixes-ease-water-crisis-along-colorado-river",
-      "pubDate": "2026-09-04T09:00:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -262,25 +262,25 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 82,
+        "name": "This Afternoon",
+        "temperature": 81,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers then Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/bkn?size=medium"
+        "shortForecast": "Slight Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20?size=medium"
       },
       {
         "name": "Tonight",
         "temperature": 70,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,30/tsra,60?size=medium"
+        "shortForecast": "Slight Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
+        "icon": "https://api.weather.gov/icons/land/night/tsra,60/tsra,70?size=medium"
       },
       {
         "name": "Wednesday",
-        "temperature": 80,
+        "temperature": 81,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms then Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,50/bkn?size=medium"
+        "shortForecast": "Showers And Thunderstorms Likely then Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,60/bkn?size=medium"
       },
       {
         "name": "Wednesday Night",
