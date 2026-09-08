@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-08T20:42:55.620Z",
+  "generatedAt": "2026-09-08T23:11:13.787Z",
   "items": [
+    {
+      "title": "New report shows the economic toll of ICE raids",
+      "link": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids",
+      "pubDate": "Tue, 08 Sep 2026 16:17:22 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3393x2262+0+0/resize/3393x2262!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2F34%2F17b1505d4cc59148d1455d7d8606%2Fgettyimages-2195368241.jpg"
+    },
     {
       "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
       "link": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
@@ -58,12 +66,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6250x4167+0+0/resize/6250x4167!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fef%2F5e064a58423fa7e0f946d6cc9ed3%2Fgettyimages-1362847684.jpg"
     },
     {
-      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-      "link": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-      "pubDate": "Tue, 08 Sep 2026 05:09:46 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x792+0+0/resize/1200x792!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fc0%2F2a7e5d7b4177ad5cb82db6cdc4e4%2Fap26070564810264.jpg"
+      "title": "From the Corps to the Cosmos, featuring Jaden Caradine",
+      "link": "https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/",
+      "pubDate": "Tue, 08 Sep 2026 20:29:59 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/02/caradine-jaden.jpg?w=1332"
     },
     {
       "title": "NASA Calls for Proposals to Accelerate Lunar Surface Technologies ",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-otherworldly-geology-of-vasquez-rocks/vasquezrockswide_oli_20260728.jpg"
-    },
-    {
-      "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
-      "pubDate": "Mon, 07 Sep 2026 04:05:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg?w=4800&#038;h=6000&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "With billion-dollar project, China maps scars of its geological past",
