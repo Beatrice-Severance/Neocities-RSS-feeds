@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T23:11:13.787Z",
+  "generatedAt": "2026-09-09T03:04:19.842Z",
   "items": [
     {
       "title": "New report shows the economic toll of ICE raids",
@@ -130,6 +130,14 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-otherworldly-geology-of-vasquez-rocks/vasquezrockswide_oli_20260728.jpg"
     },
     {
+      "title": "How an AI math breakthrough ignited a controversy",
+      "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "pubDate": "2026-09-08T07:45:10.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "With billion-dollar project, China maps scars of its geological past",
       "link": "https://www.science.org/content/article/billion-dollar-project-china-maps-scars-its-geological-past",
       "pubDate": "2026-09-08T04:01:00.000Z",
@@ -181,14 +189,6 @@
       "title": "Massive herbarium merger rescues century-old plant collection",
       "link": "https://www.science.org/content/article/massive-herbarium-merger-rescues-century-old-plant-collection",
       "pubDate": "2026-09-04T05:25:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Bernie Sanders aims to ban AI ‘superintelligence.’ But experts can’t agree on what the term means",
-      "link": "https://www.science.org/content/article/bernie-sanders-aims-ban-ai-superintelligence-experts-can-t-agree-what-term-means",
-      "pubDate": "2026-09-04T03:10:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -262,25 +262,18 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 81,
-        "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 70,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,60/tsra,70?size=medium"
+        "shortForecast": "Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra,80/tsra,90?size=medium"
       },
       {
         "name": "Wednesday",
         "temperature": 81,
         "temperatureUnit": "F",
         "shortForecast": "Showers And Thunderstorms Likely then Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,60/bkn?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/tsra_sct,70/bkn?size=medium"
       },
       {
         "name": "Wednesday Night",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Thursday",
+        "temperature": 77,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       }
     ]
   }
