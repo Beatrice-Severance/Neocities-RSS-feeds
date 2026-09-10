@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-10T20:25:08.173Z",
+  "generatedAt": "2026-09-10T22:56:05.873Z",
   "items": [
+    {
+      "title": "Lawsuit challenges intimidation of DHS observers across the country",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
+      "pubDate": "Thu, 10 Sep 2026 17:07:38 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3497+0+0/resize/5500x3497!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2F0a%2F8316b2344b828b250259723ed34c%2Fgettyimages-2259513624.jpg"
+    },
     {
       "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
       "link": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction",
@@ -24,6 +32,14 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/650x365+0+0/resize/650x365!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2Fd4%2Faf610c95412dbaf0440277327fab%2Fbarbara-keating.jpg"
+    },
+    {
+      "title": "Elon Musk threatens to sue over Gibney documentary's \"space lasers\" claim",
+      "link": "https://www.npr.org/2026/09/10/g-s1-142713/musk-trump-2024-lasers-space",
+      "pubDate": "Thu, 10 Sep 2026 11:13:09 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F0d%2F25d6e3c3438fad9d12731db88378%2Fap25183358443915.jpg"
     },
     {
       "title": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims",
@@ -50,20 +66,28 @@
       "thumbnail": null
     },
     {
-      "title": "One year after Charlie Kirk's death, Turning Point USA faces an uncertain future",
-      "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
-      "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4619x3079+0+0/resize/4619x3079!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fc2%2Fcd34c8e64482afde43dbc5c0e68f%2Fap25253691178788.jpg"
+      "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/",
+      "pubDate": "Thu, 10 Sep 2026 21:11:32 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048"
     },
     {
-      "title": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas",
-      "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-      "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5440x3627+0+0/resize/5440x3627!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2F61%2F3d1e4f8941ada017018d93a8b1d8%2Fgettyimages-2294405508.jpg"
+      "title": "NASA Answers President’s Call to Establish United States Space Academy",
+      "link": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
+      "pubDate": "Thu, 10 Sep 2026 20:26:52 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/spaceacademy.webp?w=1919"
+    },
+    {
+      "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/",
+      "pubDate": "Thu, 10 Sep 2026 20:12:39 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2025/12/on-coast-guard-boat.png?w=1536"
     },
     {
       "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
@@ -106,28 +130,20 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048"
     },
     {
-      "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
-      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
-      "pubDate": "Wed, 09 Sep 2026 18:11:24 +0000",
-      "source": "NASA",
+      "title": "Physicists detect the tiny atomic collisions that give a gas its pressure",
+      "link": "https://www.science.org/content/article/physicists-detect-tiny-atomic-collisions-give-gas-its-pressure",
+      "pubDate": "2026-09-10T05:06:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/m101.jpg?w=8999&#038;h=9011&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
-      "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
-      "link": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
-      "pubDate": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "source": "NASA",
+      "title": "What science problem should AI tackle next? A new ‘challenge atlas’ offers answers",
+      "link": "https://www.science.org/content/article/what-science-problem-should-ai-tackle-next-new-challenge-atlas-offers-answers",
+      "pubDate": "2026-09-10T04:15:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Artemis II Crew at NASA Marshall",
-      "link": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/",
-      "pubDate": "Wed, 09 Sep 2026 15:31:44 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig.jpg?w=2048"
+      "thumbnail": null
     },
     {
       "title": "Mind-altering drugs played key role in rise of Andean civilization",
@@ -178,24 +194,16 @@
       "thumbnail": null
     },
     {
-      "title": "How an AI math breakthrough ignited a controversy",
-      "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-      "pubDate": "2026-09-08T07:45:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "With billion-dollar project, China maps scars of its geological past",
-      "link": "https://www.science.org/content/article/billion-dollar-project-china-maps-scars-its-geological-past",
-      "pubDate": "2026-09-08T04:00:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "link": "https://www.nature.com/articles/s41586-026-11079-1",
+      "pubDate": "2026-09-10T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "The neurons that can put a brake on a nervous-system cancer",
+      "link": "https://www.nature.com/articles/d41586-026-02834-5",
       "pubDate": "2026-09-10T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -244,14 +252,6 @@
     {
       "title": "Bacteria recruited to treat cancer",
       "link": "https://www.nature.com/articles/d41586-026-02823-8",
-      "pubDate": "2026-09-09T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Ruins of ancient Asian city show engineering prowess and organization",
-      "link": "https://www.nature.com/articles/d41586-026-02821-w",
       "pubDate": "2026-09-09T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
