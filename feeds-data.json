@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-11T13:13:29.720Z",
+  "generatedAt": "2026-09-11T18:10:03.905Z",
   "items": [
+    {
+      "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
+      "link": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
+      "pubDate": "Fri, 11 Sep 2026 11:34:51 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
+      "link": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
+      "pubDate": "Fri, 11 Sep 2026 10:16:35 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "The voices of Sept. 11: 'My first thought was ... I can't believe that I survived'",
+      "link": "https://www.npr.org/2026/09/11/nx-s1-5965794/the-voices-of-sept-11-my-first-thought-was-i-cant-believe-that-i-survived",
+      "pubDate": "Fri, 11 Sep 2026 09:37:18 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
       "link": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
@@ -34,14 +58,6 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3375+0+0/resize/4500x3375!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2Fa9%2F47eb98314e229e7b619d81398896%2Fdscf7770.jpg"
     },
     {
-      "title": "Empty seats, socialism and Trump dominate the Republican midterm convention",
-      "link": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms",
-      "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4933x3289+0+0/resize/4933x3289!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2Fda%2F3514750e4fea9aefbd77f3a6d4f8%2Fap26254098712836.jpg"
-    },
-    {
       "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
       "link": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
       "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
@@ -50,20 +66,28 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3746x2498+0+0/resize/3746x2498!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5d%2F4f%2Ff5ecab764bd3ba1267b758e5492d%2Fus-canada-bridge.jpg"
     },
     {
-      "title": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
-      "link": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
-      "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6166x4111+0+0/resize/6166x4111!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2F30%2Fa3f50d3a4ac9a4e25e74c240a5eb%2Fgettyimages-2200924488.jpg"
+      "title": "NASA’s Chandra Spots Galactic Gem",
+      "link": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
+      "pubDate": "Fri, 11 Sep 2026 17:19:47 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg?w=1536"
     },
     {
-      "title": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
-      "link": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
-      "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5678x3785+0+0/resize/5678x3785!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2Fa1%2F186525734213814f11f44a294432%2Fap26237779492720.jpg"
+      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
+      "pubDate": "Fri, 11 Sep 2026 15:05:20 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg?w=1920"
+    },
+    {
+      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "pubDate": "Fri, 11 Sep 2026 14:56:25 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/art002e012702large.jpg?w=1920"
     },
     {
       "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
@@ -106,33 +130,25 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2025/12/on-coast-guard-boat.png?w=1536"
     },
     {
-      "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
-      "link": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/",
-      "pubDate": "Thu, 10 Sep 2026 17:28:13 +0000",
-      "source": "NASA",
+      "title": "Swiss trial for 2017 avalanche deaths unsettles hazard researchers",
+      "link": "https://www.science.org/content/article/swiss-trial-2017-avalanche-deaths-unsettles-hazard-researchers",
+      "pubDate": "2026-09-11T12:40:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2017/01/iss046e027528_nr.jpg?w=2048"
+      "thumbnail": null
     },
     {
-      "title": "Dust and Water in Sagittarius A*",
-      "link": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/",
-      "pubDate": "Thu, 10 Sep 2026 16:14:03 +0000",
-      "source": "NASA",
+      "title": "Common gene variant that increases risk of lupus may protect against viruses",
+      "link": "https://www.science.org/content/article/common-gene-variant-increases-risk-lupus-may-protect-against-viruses",
+      "pubDate": "2026-09-11T11:25:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/55459350878-2e1468b664-o.png?w=2048"
-    },
-    {
-      "title": "NASA, IBM Launch AI Foundation Model for Lunar Science",
-      "link": "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
-      "pubDate": "Thu, 10 Sep 2026 12:00:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ai-for-science/mons-rumker-lro.jpg?w=1100&#038;h=1185&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
       "title": "Physicists detect the tiny atomic collisions that give a gas its pressure",
       "link": "https://www.science.org/content/article/physicists-detect-tiny-atomic-collisions-give-gas-its-pressure",
-      "pubDate": "2026-09-10T05:06:00.000Z",
+      "pubDate": "2026-09-10T05:05:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -178,18 +194,18 @@
       "thumbnail": null
     },
     {
-      "title": "Conference posters could garner a wider audience, thanks to a new online platform",
-      "link": "https://www.science.org/content/article/conference-posters-could-garner-wider-audience-thanks-new-online-platform",
-      "pubDate": "2026-09-09T01:35:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+      "link": "https://www.nature.com/articles/d41586-026-02893-8",
+      "pubDate": "2026-09-11T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Denisovans were strong and agile hunters, fossil elbow and primitive tools suggest",
-      "link": "https://www.science.org/content/article/mysterious-human-relatives-were-strong-and-agile-fossil-elbow-and-primitive-tools",
-      "pubDate": "2026-09-09T11:00:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "People trust scientists seen to be 'on their side', UK study find",
+      "link": "https://www.nature.com/articles/d41586-026-02883-w",
+      "pubDate": "2026-09-11T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
@@ -204,6 +220,14 @@
     {
       "title": "Successful early-career scientists rely on network of mentors",
       "link": "https://www.nature.com/articles/d41586-026-02827-4",
+      "pubDate": "2026-09-11T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
+      "link": "https://www.nature.com/articles/d41586-026-02828-3",
       "pubDate": "2026-09-11T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -232,55 +256,31 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "Rivers deliver unexpectedly high loads of microplastics to the sea",
-      "link": "https://www.nature.com/articles/d41586-026-02866-x",
-      "pubDate": "2026-09-10T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
-      "link": "https://www.nature.com/articles/d41586-026-02026-1",
-      "pubDate": "2026-09-10T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
-      "link": "https://www.nature.com/articles/s41586-026-11118-x",
-      "pubDate": "2026-09-09T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 81,
+        "name": "This Afternoon",
+        "temperature": 80,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       },
       {
         "name": "Tonight",
-        "temperature": 63,
+        "temperature": 64,
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Saturday",
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Saturday Night",
