@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-12T17:43:35.755Z",
+  "generatedAt": "2026-09-12T20:10:45.932Z",
   "items": [
+    {
+      "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
+      "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
+      "pubDate": "Sat, 12 Sep 2026 14:29:18 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2F1b%2F0e98c9ea4e2fab1fa554a7d503cc%2Fap26254519545366.jpg"
+    },
     {
       "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
       "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
@@ -50,15 +58,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3900x2600+0+0/resize/3900x2600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F64%2Fb519610746019db99585eaf914de%2Fgettyimages-2293432294.jpg"
     },
     {
-      "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-      "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
-      "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3668+0+0/resize/5500x3668!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F03%2Fd62a2bdb4a0eb5a218f50b31beb6%2F2025-09-29t144314z-1005934355-rc2q1hardga2-rtrmadp-3-usa-shooting-kirk.JPG"
-    },
-    {
-      "title": "Why are the people building the most powerful AI so worried about what it could do?",
+      "title": "Anthropic and OpenAI CEOs call for AI development to slow down",
       "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
       "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
       "source": "NPR News",
@@ -263,10 +263,10 @@
     "periods": [
       {
         "name": "This Afternoon",
-        "temperature": 80,
+        "temperature": 79,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Tonight",
@@ -277,14 +277,14 @@
       },
       {
         "name": "Sunday",
-        "temperature": 68,
+        "temperature": 70,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium"
+        "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium"
       },
       {
         "name": "Sunday Night",
-        "temperature": 48,
+        "temperature": 45,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
