@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:57:33.324Z",
+  "generatedAt": "2026-09-12T03:06:56.915Z",
   "items": [
     {
       "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
@@ -262,13 +262,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 80,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 64,
         "temperatureUnit": "F",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Sunday",
+        "temperature": 70,
+        "temperatureUnit": "F",
+        "shortForecast": "Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium"
       }
     ]
   }
