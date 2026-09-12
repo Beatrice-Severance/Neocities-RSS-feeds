@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:58:50.489Z",
+  "generatedAt": "2026-09-12T17:43:35.755Z",
   "items": [
     {
       "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
@@ -31,7 +31,7 @@
       "pubDate": "Sat, 12 Sep 2026 06:55:14 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4878x3156+0+0/resize/4878x3156!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2Fc9%2F5351d0454768a98200435fec42c0%2Fap26254344695170.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3936x2632+0+0/resize/3936x2632!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F23%2F0402653a4c87b8cad5e5aea20f3c%2Fireland.jpg"
     },
     {
       "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
@@ -42,12 +42,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/3840x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Fed%2F67dc55c34bc4922aa2c467bf9e69%2F009rajashehadeh.jpg"
     },
     {
-      "title": "Why are the people building the most powerful AI so worried about what it could do?",
-      "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+      "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
+      "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
       "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2400+0+0/resize/3600x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Ff0%2Fa0340bef40fdbbc96a5c5127de82%2Fgettyimages-2285103434.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3900x2600+0+0/resize/3900x2600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F64%2Fb519610746019db99585eaf914de%2Fgettyimages-2293432294.jpg"
     },
     {
       "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
@@ -58,12 +58,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3668+0+0/resize/5500x3668!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F03%2Fd62a2bdb4a0eb5a218f50b31beb6%2F2025-09-29t144314z-1005934355-rc2q1hardga2-rtrmadp-3-usa-shooting-kirk.JPG"
     },
     {
-      "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
-      "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
+      "title": "Why are the people building the most powerful AI so worried about what it could do?",
+      "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
       "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3900x2600+0+0/resize/3900x2600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F64%2Fb519610746019db99585eaf914de%2Fgettyimages-2293432294.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2400+0+0/resize/3600x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Ff0%2Fa0340bef40fdbbc96a5c5127de82%2Fgettyimages-2285103434.jpg"
     },
     {
       "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
@@ -262,7 +262,7 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
+        "name": "This Afternoon",
         "temperature": 80,
         "temperatureUnit": "F",
         "shortForecast": "Partly Sunny",
@@ -270,7 +270,7 @@
       },
       {
         "name": "Tonight",
-        "temperature": 55,
+        "temperature": 54,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
