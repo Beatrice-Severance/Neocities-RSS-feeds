@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-12T22:49:50.185Z",
+  "generatedAt": "2026-09-13T03:08:47.770Z",
   "items": [
+    {
+      "title": "Celine Dion returns to the stage after battling rare illness",
+      "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
+      "pubDate": "Sat, 12 Sep 2026 19:54:06 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3231x2154+0+0/resize/3231x2154!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fd1%2F12cb5e554d49be949447d540b0d6%2Fap26255714607289.jpg"
+    },
     {
       "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
       "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
@@ -56,14 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3900x2600+0+0/resize/3900x2600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F64%2Fb519610746019db99585eaf914de%2Fgettyimages-2293432294.jpg"
-    },
-    {
-      "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-      "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
-      "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3668+0+0/resize/5500x3668!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F03%2Fd62a2bdb4a0eb5a218f50b31beb6%2F2025-09-29t144314z-1005934355-rc2q1hardga2-rtrmadp-3-usa-shooting-kirk.JPG"
     },
     {
       "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
@@ -262,13 +262,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 79,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 54,
         "temperatureUnit": "F",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Monday",
+        "temperature": 73,
+        "temperatureUnit": "F",
+        "shortForecast": "Partly Sunny then Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,40?size=medium"
       }
     ]
   }
