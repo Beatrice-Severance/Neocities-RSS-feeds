@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-13T20:18:51.733Z",
+  "generatedAt": "2026-09-13T22:51:39.023Z",
   "items": [
+    {
+      "title": "Trump warns against slowing down AI but he is not against some guardrails",
+      "link": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
+      "pubDate": "Sun, 13 Sep 2026 18:32:39 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3682x2454+0+0/resize/3682x2454!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2Fc4%2F5be7a97d47de84dedd8b5180b45c%2Fap26256495459897.jpg"
+    },
     {
       "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
       "link": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
@@ -21,6 +29,14 @@
       "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
       "link": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
       "pubDate": "Sun, 13 Sep 2026 08:04:27 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "From fracking to data centers: Hearing from people on both sides of the opposition",
+      "link": "https://www.npr.org/2026/09/13/nx-s1-5946724/from-fracking-to-data-centers-hearing-from-people-on-both-sides-of-the-opposition",
+      "pubDate": "Sun, 13 Sep 2026 08:04:24 -0400",
       "source": "NPR News",
       "category": "News",
       "thumbnail": null
@@ -48,22 +64,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2699+0+0/resize/4800x2699!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2Fe0%2Fd019d9fd457ab3c71073ec829910%2Fhbarczyk-npr-isiswife-final2.jpg"
-    },
-    {
-      "title": "Celine Dion returns to the stage after battling rare illness",
-      "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
-      "pubDate": "Sat, 12 Sep 2026 19:54:06 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3231x2154+0+0/resize/3231x2154!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fd1%2F12cb5e554d49be949447d540b0d6%2Fap26255714607289.jpg"
-    },
-    {
-      "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-      "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
-      "pubDate": "Sat, 12 Sep 2026 14:29:18 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2F1b%2F0e98c9ea4e2fab1fa554a7d503cc%2Fap26254519545366.jpg"
     },
     {
       "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
@@ -265,8 +265,8 @@
         "name": "This Afternoon",
         "temperature": 65,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       },
       {
         "name": "Tonight",
