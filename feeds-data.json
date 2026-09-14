@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-14T11:47:39.248Z",
+  "generatedAt": "2026-09-14T17:41:12.965Z",
   "items": [
+    {
+      "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
+      "pubDate": "Mon, 14 Sep 2026 10:03:14 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5417x3611+0+0/resize/5417x3611!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2Ffc%2F1ccf0e8a46b29f60adc926f3d0cd%2Fgettyimages-2228025410.jpg"
+    },
     {
       "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
       "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
@@ -42,7 +50,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/973x1500+0+0/resize/973x1500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F3c%2F920cb5674ebeb7b4c414ffb74a6b%2Frovelli.jpg"
     },
     {
-      "title": "ChatGPT has a feature to help those in crisis. But where can you find it?",
+      "title": "NPR looked for ChatGPT's new crisis feature. It's hard to find",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
       "pubDate": "Mon, 14 Sep 2026 05:00:00 -0400",
       "source": "NPR News",
@@ -50,20 +58,36 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2070x1449+0+0/resize/2070x1449!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F9d%2Fe5b47f3844908ef5dba33179e3db%2Fgettyimages-1875359257.jpg"
     },
     {
-      "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
-      "pubDate": "Mon, 14 Sep 2026 02:20:28 -0400",
+      "title": "Lawmakers home in on midterm messages as Congress returns to session",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5966873/lawmakers-hone-in-on-midterm-messages-as-congress-returns-to-session",
+      "pubDate": "Mon, 14 Sep 2026 04:43:06 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3311x2207+0+0/resize/3311x2207!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F28%2Ff630b55b495cb10b486704385278%2Fap26257113610710.jpg"
+      "thumbnail": null
     },
     {
-      "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
-      "link": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train",
-      "pubDate": "Mon, 14 Sep 2026 01:46:26 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/2000x1333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fef%2F8d2005be4e1f8d6595a80fb2ddf9%2Fap26256648790763.jpg"
+      "title": "NASA Welcomes Djibouti as Newest Artemis Accords Signatory  ",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/",
+      "pubDate": "Mon, 14 Sep 2026 16:46:07 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/nhq202609140011medium.jpg?w=1280"
+    },
+    {
+      "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
+      "link": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/",
+      "pubDate": "Mon, 14 Sep 2026 16:00:11 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/55527488950-2ce6740658-o.jpg?w=2048"
+    },
+    {
+      "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/",
+      "pubDate": "Mon, 14 Sep 2026 15:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/jsc2026e045076.jpg?w=2048"
     },
     {
       "title": "APOD: 2026 September 14 – Where Your Elements Came From",
@@ -106,31 +130,15 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg?w=1536"
     },
     {
-      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
-      "pubDate": "Fri, 11 Sep 2026 15:05:20 +0000",
-      "source": "NASA",
+      "title": "Single brain implant lets paralyzed people both talk and gesture via an avatar",
+      "link": "https://www.science.org/content/article/single-brain-implant-lets-paralyzed-people-both-talk-and-gesture-avatar",
+      "pubDate": "2026-09-14T11:50:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg?w=1920"
+      "thumbnail": null
     },
     {
-      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "pubDate": "Fri, 11 Sep 2026 14:56:25 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/art002e012702large.jpg?w=1920"
-    },
-    {
-      "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
-      "pubDate": "Fri, 11 Sep 2026 04:05:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg?w=3828&#038;h=3798&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+      "title": "‘Chilling’ warning or overreaction? AI bioweapons report divides experts",
       "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
       "pubDate": "2026-09-13T10:40:00.000Z",
       "source": "Science (AAAS)",
@@ -186,16 +194,32 @@
       "thumbnail": null
     },
     {
-      "title": "Mind-altering drugs played key role in rise of Andean civilization",
-      "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-      "pubDate": "2026-09-10T02:00:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-02908-4",
+      "pubDate": "2026-09-14T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "How is climate change affecting conifers and their ability to sequester carbon?",
+      "link": "https://www.nature.com/articles/d41586-026-02847-0",
+      "pubDate": "2026-09-14T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
       "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
       "link": "https://www.nature.com/articles/d41586-026-02852-3",
+      "pubDate": "2026-09-14T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
+      "link": "https://www.nature.com/articles/d41586-026-02895-6",
       "pubDate": "2026-09-14T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -218,41 +242,17 @@
       "thumbnail": null
     },
     {
+      "title": "Drug firms’ secret data supercharge AI protein models",
+      "link": "https://www.nature.com/articles/d41586-026-02882-x",
+      "pubDate": "2026-09-14T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
       "link": "https://www.nature.com/articles/d41586-026-02826-5",
       "pubDate": "2026-09-13T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
-      "link": "https://www.nature.com/articles/d41586-026-02893-8",
-      "pubDate": "2026-09-11T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "NSF moves to overhaul funding approach in line with White House priorities",
-      "link": "https://www.nature.com/articles/d41586-026-02892-9",
-      "pubDate": "2026-09-11T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "People trust scientists seen to be 'on their side', UK study find",
-      "link": "https://www.nature.com/articles/d41586-026-02883-w",
-      "pubDate": "2026-09-11T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
-      "link": "https://www.nature.com/articles/d41586-026-02763-3",
-      "pubDate": "2026-09-11T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
@@ -262,25 +262,25 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
+        "name": "This Afternoon",
         "temperature": 71,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny then Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,30?size=medium"
+        "shortForecast": "Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium"
       },
       {
         "name": "Tonight",
         "temperature": 64,
         "temperatureUnit": "F",
         "shortForecast": "Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,30/tsra,90?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/tsra,40/tsra,90?size=medium"
       },
       {
         "name": "Tuesday",
         "temperature": 75,
         "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms then Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/day/tsra,80/bkn?size=medium"
+        "shortForecast": "Showers And Thunderstorms Likely",
+        "icon": "https://api.weather.gov/icons/land/day/tsra,60/tsra,20?size=medium"
       },
       {
         "name": "Tuesday Night",
