@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-14T17:41:12.965Z",
+  "generatedAt": "2026-09-14T21:28:15.502Z",
   "items": [
+    {
+      "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
+      "pubDate": "Mon, 14 Sep 2026 16:34:20 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
+      "pubDate": "Mon, 14 Sep 2026 14:45:21 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
+      "pubDate": "Mon, 14 Sep 2026 14:25:04 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x4032+0+0/resize/6048x4032!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F34%2F398eb31e4d519173a26dd6b84761%2Fgettyimages-2280598328.jpg"
+    },
     {
       "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
@@ -42,27 +66,11 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6626x4418+0+0/resize/6626x4418!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3b%2F0f%2F4fd8e65041fc8150332646b65064%2Fap26257353631930.jpg"
     },
     {
-      "title": "New Carlo Rovelli book challenges science's understanding of reality and the universe",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5968442/on-the-equality-of-all-things-physics-carlo-rovelli",
-      "pubDate": "Mon, 14 Sep 2026 05:44:44 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/973x1500+0+0/resize/973x1500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F3c%2F920cb5674ebeb7b4c414ffb74a6b%2Frovelli.jpg"
-    },
-    {
-      "title": "NPR looked for ChatGPT's new crisis feature. It's hard to find",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
-      "pubDate": "Mon, 14 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2070x1449+0+0/resize/2070x1449!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F9d%2Fe5b47f3844908ef5dba33179e3db%2Fgettyimages-1875359257.jpg"
-    },
-    {
-      "title": "Lawmakers home in on midterm messages as Congress returns to session",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5966873/lawmakers-hone-in-on-midterm-messages-as-congress-returns-to-session",
-      "pubDate": "Mon, 14 Sep 2026 04:43:06 -0400",
-      "source": "NPR News",
-      "category": "News",
+      "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
+      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/",
+      "pubDate": "Mon, 14 Sep 2026 19:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
       "thumbnail": null
     },
     {
@@ -122,12 +130,12 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/backgroundimage.001-Aimee_Schechter.jpg?w=920&#038;h=920&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "NASA’s Chandra Spots Galactic Gem",
-      "link": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
-      "pubDate": "Fri, 11 Sep 2026 17:19:47 +0000",
-      "source": "NASA",
+      "title": "NSF memo implementing Trump’s ‘golden age’ of science unsettles researchers",
+      "link": "https://www.science.org/content/article/nsf-memo-implementing-trump-s-golden-age-science-unsettles-researchers",
+      "pubDate": "2026-09-14T03:05:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg?w=1536"
+      "thumbnail": null
     },
     {
       "title": "Single brain implant lets paralyzed people both talk and gesture via an avatar",
@@ -186,10 +194,10 @@
       "thumbnail": null
     },
     {
-      "title": "What science problem should AI tackle next? A new ‘challenge atlas’ offers answers",
-      "link": "https://www.science.org/content/article/what-science-problem-should-ai-tackle-next-new-challenge-atlas-offers-answers",
-      "pubDate": "2026-09-10T04:15:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Encoded and non-genetic protein variants expand human functional proteome",
+      "link": "https://www.nature.com/articles/s41586-026-11124-z",
+      "pubDate": "2026-09-14T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
@@ -218,6 +226,14 @@
       "thumbnail": null
     },
     {
+      "title": "Donor-funded science is rising in Brazil ― upending a long tradition",
+      "link": "https://www.nature.com/articles/d41586-026-02829-2",
+      "pubDate": "2026-09-14T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
       "link": "https://www.nature.com/articles/d41586-026-02895-6",
       "pubDate": "2026-09-14T00:00:00.000Z",
@@ -240,22 +256,6 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "Drug firms’ secret data supercharge AI protein models",
-      "link": "https://www.nature.com/articles/d41586-026-02882-x",
-      "pubDate": "2026-09-14T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
-      "link": "https://www.nature.com/articles/d41586-026-02826-5",
-      "pubDate": "2026-09-13T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
@@ -263,10 +263,10 @@
     "periods": [
       {
         "name": "This Afternoon",
-        "temperature": 71,
+        "temperature": 69,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium"
+        "shortForecast": "Rain Showers Likely",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,70?size=medium"
       },
       {
         "name": "Tonight",
@@ -284,10 +284,10 @@
       },
       {
         "name": "Tuesday Night",
-        "temperature": 55,
+        "temperature": 54,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       }
     ]
   }
