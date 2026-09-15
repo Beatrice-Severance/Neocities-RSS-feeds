@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-15T11:04:19.028Z",
+  "generatedAt": "2026-09-15T16:14:41.463Z",
   "items": [
+    {
+      "title": "Geopolitics and grain don't mix, say these Montana farmers",
+      "link": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
+      "pubDate": "Tue, 15 Sep 2026 08:33:19 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5120x3413+0+0/resize/5120x3413!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F93%2Ff1a77e1e49cd8ea87447bd2b6b26%2Fgettyimages-2163441146.jpg"
+    },
+    {
+      "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
+      "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+      "pubDate": "Tue, 15 Sep 2026 07:35:49 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
       "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
@@ -10,7 +26,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fbe%2Fb2d620a64366b606757712b1c441%2Fair-pollution-2291713193.jpg"
     },
     {
-      "title": "NATO jets down drone in Lithuanian airspace",
+      "title": "NATO jets shoot down a drone in Lithuanian airspace",
       "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
       "pubDate": "Tue, 15 Sep 2026 05:06:30 -0400",
       "source": "NPR News",
@@ -50,20 +66,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F25%2F15d5ea6c40c29a4a99d4b6e0c477%2Fimg-1869.jpeg"
     },
     {
-      "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
-      "link": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-      "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F99%2F77740fc4442eb560062face82027%2Fsanders-bannon-diptych.jpg"
+      "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/",
+      "pubDate": "Tue, 15 Sep 2026 14:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?w=30866&#038;h=38204&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
-      "link": "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
-      "pubDate": "Tue, 15 Sep 2026 04:44:26 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
+      "title": "Travel",
+      "link": "https://www.nasa.gov/centers-and-facilities/nssc/travel/",
+      "pubDate": "Tue, 15 Sep 2026 13:38:56 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2020/08/NSSC-BLDG-2012-03.jpg?w=1536"
     },
     {
       "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
@@ -114,20 +130,12 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/jsc2026e045076.jpg?w=2048"
     },
     {
-      "title": "APOD: 2026 September 14 – Where Your Elements Came From",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
-      "pubDate": "Mon, 14 Sep 2026 04:05:00 +0000",
-      "source": "NASA",
+      "title": "Exclusive: New NIH research center on vaccine harms takes shape",
+      "link": "https://www.science.org/content/article/exclusive-new-nih-research-center-vaccine-harms-takes-shape",
+      "pubDate": "2026-09-15T09:55:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/ElementOrigins2_svs_6000.jpg?w=6000&#038;h=4000&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "An Early Look at Fall Color in Canada",
-      "link": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
-      "pubDate": "Mon, 14 Sep 2026 04:00:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-early-look-at-fall-color-in-canada/northerncanada_oli2_20260727.jpg"
+      "thumbnail": null
     },
     {
       "title": "Three wild dogs have traveled farther than any African mammal",
@@ -186,10 +194,10 @@
       "thumbnail": null
     },
     {
-      "title": "Common gene variant that increases risk of lupus may protect against viruses",
-      "link": "https://www.science.org/content/article/common-gene-variant-increases-risk-lupus-may-protect-against-viruses",
-      "pubDate": "2026-09-11T11:25:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
+      "link": "https://www.nature.com/articles/s41586-026-11139-6",
+      "pubDate": "2026-09-15T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
@@ -218,6 +226,14 @@
       "thumbnail": null
     },
     {
+      "title": "The geometric genius of René Descartes",
+      "link": "https://www.nature.com/articles/d41586-026-02723-x",
+      "pubDate": "2026-09-15T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Make AI traceable before it shapes global climate assessments",
       "link": "https://www.nature.com/articles/d41586-026-02905-7",
       "pubDate": "2026-09-15T00:00:00.000Z",
@@ -234,24 +250,8 @@
       "thumbnail": null
     },
     {
-      "title": "CRISPR crops are coming to Europe — why bolder would be better",
-      "link": "https://www.nature.com/articles/d41586-026-02848-z",
-      "pubDate": "2026-09-15T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Underground hydrogen could spur a green-energy revolution — if companies can find it",
-      "link": "https://www.nature.com/articles/d41586-026-02850-5",
-      "pubDate": "2026-09-15T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Cities and countryside are intimately linked — green initiatives must recognize that",
-      "link": "https://www.nature.com/articles/d41586-026-02853-2",
+      "title": "Global inequality panel is a chance for research to change lives",
+      "link": "https://www.nature.com/articles/d41586-026-02885-8",
       "pubDate": "2026-09-15T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -265,8 +265,8 @@
         "name": "Today",
         "temperature": 74,
         "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra,80/tsra,30?size=medium"
+        "shortForecast": "Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,30?size=medium"
       },
       {
         "name": "Tonight",
