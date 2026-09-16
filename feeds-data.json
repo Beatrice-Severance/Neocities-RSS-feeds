@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-15T23:23:31.910Z",
+  "generatedAt": "2026-09-16T03:19:57.279Z",
   "items": [
+    {
+      "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
+      "link": "https://www.npr.org/2026/09/15/nx-s1-5970459/ice-dhs-david-streever-free-speech",
+      "pubDate": "Tue, 15 Sep 2026 23:03:47 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1536+0+0/resize/2048x1536!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F40%2Fc0a5347f4a63bb9eb267ac2267b5%2Fstreeter-daughter-vacation.jpg"
+    },
+    {
+      "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
+      "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
+      "pubDate": "Tue, 15 Sep 2026 20:55:41 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5934x3956+0+0/resize/5934x3956!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fdf%2F4dda3cb24dc9841217bdc2687213%2Fec-tr-gold-20260820-26-76906.jpg"
+    },
     {
       "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey's future",
       "link": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future",
@@ -50,20 +66,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6988x4661+0+0/resize/6988x4661!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F51%2F901c10eb4ec385ec7e99e086a5cd%2Fgettyimages-2293050779.jpg"
     },
     {
-      "title": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why",
-      "link": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole",
-      "pubDate": "Tue, 15 Sep 2026 12:53:39 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1368x912+0+0/resize/1368x912!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2F2b%2Fe3bca98c4528a838f8378a50515d%2Fppe-kim-images-01.png"
-    },
-    {
-      "title": "Geopolitics and grain don't mix, say these Montana farmers",
-      "link": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
-      "pubDate": "Tue, 15 Sep 2026 08:33:19 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5120x3413+0+0/resize/5120x3413!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F93%2Ff1a77e1e49cd8ea87447bd2b6b26%2Fgettyimages-2163441146.jpg"
+      "title": "NASA Ames Stars of the Month: September 2026",
+      "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/",
+      "pubDate": "Tue, 15 Sep 2026 23:46:11 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/nasa-arc-s-stars-of-the-mont-sep-2026.jpg?w=1920"
     },
     {
       "title": "NASA Invites Media to International Observe the Moon Night",
@@ -88,14 +96,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg?w=1366"
-    },
-    {
-      "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/",
-      "pubDate": "Tue, 15 Sep 2026 14:00:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png?w=30866&#038;h=38204&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Travel",
@@ -270,24 +270,24 @@
       },
       {
         "name": "Wednesday",
-        "temperature": 73,
+        "temperature": 71,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+        "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers?size=medium"
       },
       {
         "name": "Wednesday Night",
         "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/bkn/tsra_sct,40?size=medium"
+        "shortForecast": "Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers/rain_showers,30?size=medium"
       },
       {
         "name": "Thursday",
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,20?size=medium"
+        "shortForecast": "Chance Rain Showers then Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/bkn?size=medium"
       }
     ]
   }
