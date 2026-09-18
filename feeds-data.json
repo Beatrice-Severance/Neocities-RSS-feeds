@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T23:26:00.589Z",
+  "generatedAt": "2026-09-18T03:11:34.998Z",
   "items": [
     {
       "title": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
@@ -26,7 +26,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4465x2977+0+0/resize/4465x2977!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F48%2Faa2bf1d3423199aafddd4d94987e%2F09112026-mpr-superior10034.jpg"
     },
     {
-      "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+      "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
       "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
       "pubDate": "Thu, 17 Sep 2026 15:33:30 -0400",
       "source": "NPR News",
@@ -194,6 +194,22 @@
       "thumbnail": null
     },
     {
+      "title": "Cognitive resilience helps to predict Alzheimer’s dementia ",
+      "link": "https://www.nature.com/articles/d41586-026-02897-4",
+      "pubDate": "2026-09-18T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Chinese companies doubled down on science after US tech restrictions",
+      "link": "https://www.nature.com/articles/d41586-026-02946-y",
+      "pubDate": "2026-09-18T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
       "link": "https://www.nature.com/articles/s41586-026-11134-x",
       "pubDate": "2026-09-17T00:00:00.000Z",
@@ -240,22 +256,6 @@
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
-    },
-    {
-      "title": "How a team of AIs discovered a promising lung-cancer drug",
-      "link": "https://www.nature.com/articles/d41586-026-02954-y",
-      "pubDate": "2026-09-17T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Who gets credit in the AI era? OpenAI maths bombshell sparks debate",
-      "link": "https://www.nature.com/articles/d41586-026-02910-w",
-      "pubDate": "2026-09-17T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
-      "thumbnail": null
     }
   ],
   "weather": {
@@ -265,8 +265,8 @@
         "name": "Tonight",
         "temperature": 57,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Friday",
