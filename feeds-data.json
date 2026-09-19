@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:01:55.490Z",
+  "generatedAt": "2026-09-19T22:39:19.411Z",
   "items": [
     {
       "title": "The new lines of southern Lebanon",
@@ -265,15 +265,15 @@
         "name": "This Afternoon",
         "temperature": 68,
         "temperatureUnit": "F",
-        "shortForecast": "Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/day/tsra,80?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra,30?size=medium"
       },
       {
         "name": "Tonight",
         "temperature": 59,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,80/tsra,70?size=medium"
+        "shortForecast": "Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra,70?size=medium"
       },
       {
         "name": "Sunday",
