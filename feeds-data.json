@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-20T15:26:21.034Z",
+  "generatedAt": "2026-09-20T20:19:14.924Z",
   "items": [
+    {
+      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+      "link": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+      "pubDate": "Sun, 20 Sep 2026 13:29:29 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7489x4992+0+0/resize/7489x4992!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2F9e%2F55e4991d44b1a77d05ebbbdf2f6b%2Fap26263591596464.jpg"
+    },
     {
       "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
       "link": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
@@ -48,14 +56,6 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5440x3627+0+0/resize/5440x3627!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff7%2Fe7%2F30ae5c6649fcaa1d8badb854e7e1%2Fap26262779814089.jpg"
-    },
-    {
-      "title": "How the NPR College Podcast Challenge changed lives",
-      "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
-      "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2F4d%2Fb3c0529a4aa08fd694892a746367%2Fmalota-student-podcast-challenge-03-3.jpg"
     },
     {
       "title": "NPR's College Podcast Challenge is back for 2026",
@@ -262,32 +262,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 65,
+        "name": "This Afternoon",
+        "temperature": 64,
         "temperatureUnit": "F",
-        "shortForecast": "Slight Chance Rain Showers then Cloudy",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/ovc?size=medium"
+        "shortForecast": "Cloudy",
+        "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
       },
       {
         "name": "Tonight",
-        "temperature": 53,
+        "temperature": 54,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+        "shortForecast": "Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
       },
       {
         "name": "Monday",
-        "temperature": 63,
+        "temperature": 62,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,30?size=medium"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
         "name": "Monday Night",
-        "temperature": 49,
+        "temperature": 52,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium"
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
       }
     ]
   }
