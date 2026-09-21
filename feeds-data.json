@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T22:58:04.033Z",
+  "generatedAt": "2026-09-21T03:19:08.248Z",
   "items": [
     {
       "title": "Federal immigration agent shoots and injures man in Austin, Texas",
@@ -262,15 +262,8 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 64,
-        "temperatureUnit": "F",
-        "shortForecast": "Cloudy",
-        "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 54,
+        "temperature": 53,
         "temperatureUnit": "F",
         "shortForecast": "Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
@@ -284,10 +277,17 @@
       },
       {
         "name": "Monday Night",
-        "temperature": 52,
+        "temperature": 49,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+      },
+      {
+        "name": "Tuesday",
+        "temperature": 62,
+        "temperatureUnit": "F",
+        "shortForecast": "Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       }
     ]
   }
