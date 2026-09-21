@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-21T18:10:16.727Z",
+  "generatedAt": "2026-09-21T23:49:10.794Z",
   "items": [
+    {
+      "title": "What the equinox 'henge' effect tells us about U.S. cities",
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5973179/equinox-henge-sunrise-sunset",
+      "pubDate": "Mon, 21 Sep 2026 15:50:13 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1289+0+0/resize/2000x1289!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2Fbf%2F0231db284eae8d5b61ff0eab3ab4%2Fgettyimages-1170783240.jpg"
+    },
     {
       "title": "Aviation regulators turn to AI to help manage the nation's airspace",
       "link": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
@@ -42,12 +50,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1370x913+0+0/resize/1370x913!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F76%2Ff0%2Fe977506b4da8b313d83bd18dc1d0%2Ftanner-faaborg-1100-farm-web.jpg"
     },
     {
-      "title": "The data center backlash is reshaping American politics — one community at a time",
-      "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
+      "title": "Germany's leader stands his ground after his party loses in state elections",
+      "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
       "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2Fbe%2F3ffab7784106b3325f48fffcf69b%2F2026-09-datacenterprotest-final.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6211x4143+0+0/resize/6211x4143!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fb9%2F40663d144d0c832afd763d006499%2Fgettyimages-2295702844.jpg"
     },
     {
       "title": "What to know as world leaders converge at the United Nations this week",
@@ -58,12 +66,44 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4853x3313+0+0/resize/4853x3313!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2Fa2%2Fb8513b0c4408b983f61eee13d8e9%2Fgettyimages-2293714469.jpg"
     },
     {
-      "title": "Germany's leader stands his ground after his party loses in state elections",
-      "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
-      "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6211x4143+0+0/resize/6211x4143!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fb9%2F40663d144d0c832afd763d006499%2Fgettyimages-2295702844.jpg"
+      "title": "Embracing the Equinox",
+      "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/",
+      "pubDate": "Mon, 21 Sep 2026 21:55:40 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/5677/Equinox-1.jpeg?w=1920&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory  ",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/",
+      "pubDate": "Mon, 21 Sep 2026 21:21:32 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/55541281672-5c736ba51b-k.jpg?w=2047"
+    },
+    {
+      "title": "NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce",
+      "link": "https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/",
+      "pubDate": "Mon, 21 Sep 2026 21:03:04 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/state-hubs-kickoff2-jpg.jpeg?w=2048"
+    },
+    {
+      "title": "Perseverance’s View of ‘Turquoise Bay’",
+      "link": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
+      "pubDate": "Mon, 21 Sep 2026 19:17:59 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26815/PIA26815.jpg?w=11750&#038;h=2448&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/",
+      "pubDate": "Mon, 21 Sep 2026 18:43:13 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/55540215826-eb77fe7409-o.jpg?w=2048"
     },
     {
       "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
@@ -90,44 +130,12 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/vol-better.jpg?w=1536"
     },
     {
-      "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
-      "pubDate": "Mon, 21 Sep 2026 04:05:00 +0000",
-      "source": "NASA",
+      "title": "White House move to seize control of NIH grant decisions upsets senators and scientists",
+      "link": "https://www.science.org/content/article/white-house-move-seize-control-nih-grant-decisions-upsets-senators-and-scientists",
+      "pubDate": "2026-09-21T05:58:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=3000&#038;h=2000&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Arctic Melt Season Length Levels Off",
-      "link": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
-      "pubDate": "Mon, 21 Sep 2026 04:00:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-melt-season-length-levels-off/arcticmelttrend_20002009.jpg"
-    },
-    {
-      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
-      "pubDate": "Sun, 20 Sep 2026 04:05:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg?w=1280&#038;h=1477&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "APOD: 2026 September 19 – A Zodiacal Night",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
-      "pubDate": "Sat, 19 Sep 2026 04:05:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=2060&#038;h=1393&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/",
-      "pubDate": "Fri, 18 Sep 2026 19:56:08 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg?w=1080"
+      "thumbnail": null
     },
     {
       "title": "This dolphin chased a fish until it puked—then ate the vomit",
@@ -186,14 +194,6 @@
       "thumbnail": null
     },
     {
-      "title": "California to spend billions on ‘visionary’ plan to boost fish habitat",
-      "link": "https://www.science.org/content/article/california-spend-billions-visionary-plan-boost-fish-habitat",
-      "pubDate": "2026-09-15T03:30:55.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
       "title": "Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",
       "link": "https://www.nature.com/articles/s41586-026-11160-9",
       "pubDate": "2026-09-21T00:00:00.000Z",
@@ -218,7 +218,7 @@
       "thumbnail": null
     },
     {
-      "title": "Edible batteries inspired by rice paper power medical devices in the body",
+      "title": "Edible batteries power medical devices in the body",
       "link": "https://www.nature.com/articles/d41586-026-02987-3",
       "pubDate": "2026-09-21T00:00:00.000Z",
       "source": "Nature",
@@ -262,24 +262,17 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 63,
-        "temperatureUnit": "F",
-        "shortForecast": "Cloudy",
-        "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 50,
+        "temperature": 51,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,40?size=medium"
+        "shortForecast": "Rain Showers Likely",
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers,70/rain_showers,30?size=medium"
       },
       {
         "name": "Tuesday",
         "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers then Mostly Cloudy",
+        "shortForecast": "Chance Rain Showers then Partly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/bkn?size=medium"
       },
       {
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Wednesday",
+        "temperature": 65,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       }
     ]
   }
