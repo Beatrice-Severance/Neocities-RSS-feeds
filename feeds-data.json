@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T23:49:10.794Z",
+  "generatedAt": "2026-09-22T03:18:29.940Z",
   "items": [
     {
       "title": "What the equinox 'henge' effect tells us about U.S. cities",
@@ -263,24 +263,24 @@
     "periods": [
       {
         "name": "Tonight",
-        "temperature": 51,
+        "temperature": 50,
         "temperatureUnit": "F",
-        "shortForecast": "Rain Showers Likely",
-        "icon": "https://api.weather.gov/icons/land/night/rain_showers,70/rain_showers,30?size=medium"
+        "shortForecast": "Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,30?size=medium"
       },
       {
         "name": "Tuesday",
         "temperature": 61,
         "temperatureUnit": "F",
-        "shortForecast": "Chance Rain Showers then Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/bkn?size=medium"
+        "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium"
       },
       {
         "name": "Tuesday Night",
         "temperature": 47,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Clear",
-        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+        "shortForecast": "Partly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Wednesday",
