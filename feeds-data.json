@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T23:29:13.202Z",
+  "generatedAt": "2026-09-23T03:19:17.909Z",
   "items": [
     {
       "title": "Questions remain after grand jury declines indictment in Nolan Wells' death",
@@ -66,6 +66,14 @@
       "thumbnail": null
     },
     {
+      "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/",
+      "pubDate": "Wed, 23 Sep 2026 00:40:16 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05014_opgs_edr_ncam_NRB_842619188EDR_S1250000NCAM00259M_.jpg?w=1024&#038;h=512&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
       "link": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
       "pubDate": "Tue, 22 Sep 2026 19:19:45 +0000",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/5677/Equinox-1.jpeg?w=1920&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory  ",
-      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/",
-      "pubDate": "Mon, 21 Sep 2026 21:21:32 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/55541281672-5c736ba51b-k.jpg?w=2047"
     },
     {
       "title": "Submerged land bridge may have helped people cross the Mediterranean",
@@ -262,25 +262,18 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 61,
-        "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 47,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       },
       {
         "name": "Wednesday",
         "temperature": 65,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Wednesday Night",
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+      },
+      {
+        "name": "Thursday",
+        "temperature": 66,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       }
     ]
   }
