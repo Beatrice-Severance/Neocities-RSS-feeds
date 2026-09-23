@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-09-23T16:05:55.958Z",
+  "generatedAt": "2026-09-23T21:04:30.021Z",
   "items": [
+    {
+      "title": "Trump set to greet Xi for high-stakes state visit",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+      "pubDate": "Wed, 23 Sep 2026 14:23:19 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5869x3913+0+0/resize/5869x3913!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F7a%2F1094091b469a9206052f1f67c31e%2Fgettyimages-2275589464.jpg"
+    },
+    {
+      "title": "Iran's president gives a rare wartime speech at the U.N.",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
+      "pubDate": "Wed, 23 Sep 2026 14:14:40 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F13%2F307a810041e88b26be27e72565d3%2Fgettyimages-2296136332.jpg"
+    },
+    {
+      "title": "A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood",
+      "link": "https://www.npr.org/2026/09/23/g-s1-144677/a-catholic-media-star-will-be-beatified-in-st-louis-moving-a-step-closer-to-sainthood",
+      "pubDate": "Wed, 23 Sep 2026 14:09:31 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x1923+0+0/resize/2500x1923!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2Fa4%2F1b2efff4436da19d6751634f200a%2Fap19340672275077.jpg"
+    },
+    {
+      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+      "pubDate": "Wed, 23 Sep 2026 12:13:52 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
@@ -34,36 +66,52 @@
       "thumbnail": null
     },
     {
-      "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
-      "pubDate": "Wed, 23 Sep 2026 06:48:47 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4975x3317+0+0/resize/4975x3317!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F53%2Fa8681d124782bf45adb443aebba4%2Fgettyimages-2296045624.jpg"
+      "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
+      "pubDate": "Wed, 23 Sep 2026 20:37:19 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-croatia-74-092326.jpg?w=2048"
     },
     {
-      "title": "Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri",
-      "pubDate": "Wed, 23 Sep 2026 06:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
+      "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
+      "pubDate": "Wed, 23 Sep 2026 20:09:42 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048"
     },
     {
-      "title": "DOJ defends White House media ban, urges court to reject lawsuit",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
-      "pubDate": "Wed, 23 Sep 2026 05:06:47 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2F37%2F8b7d1c7544fd927b8a6718d64216%2Fgettyimages-2296402979.jpg"
+      "title": "NASA Aircraft to Make Low-Altitude Research Flights Over Colorado",
+      "link": "https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/",
+      "pubDate": "Wed, 23 Sep 2026 19:03:03 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960"
     },
     {
-      "title": "Major news outlets banned by Trump will have their day in court",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban",
-      "pubDate": "Wed, 23 Sep 2026 05:01:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2Fef%2F969437ab4f08b80d40e8bfd85bfd%2Fap26262737935550.jpg"
+      "title": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
+      "link": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/",
+      "pubDate": "Wed, 23 Sep 2026 18:43:43 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=2000"
+    },
+    {
+      "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
+      "link": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+      "pubDate": "Wed, 23 Sep 2026 17:15:32 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/earth-observer/2025/NASA-meatball-blk.png?w=1920&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
+      "link": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/",
+      "pubDate": "Wed, 23 Sep 2026 16:03:37 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://images-assets.nasa.gov/image/s79e5277/s79e5277~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
     },
     {
       "title": "FFA 2026 Hyperwall Schedule",
@@ -82,52 +130,12 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2015/04/nesc-tb-26-06-hydrazine-powered-sls-bosster-thrust-vector-control-system.png?w=581"
     },
     {
-      "title": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
-      "pubDate": "Wed, 23 Sep 2026 13:55:34 +0000",
-      "source": "NASA",
+      "title": "Bones link 10,000-year-old temple complex to a village, not a ‘skull cult’",
+      "link": "https://www.science.org/content/article/bones-link-10-000-year-old-temple-complex-village-not-skull-cult",
+      "pubDate": "2026-09-23T02:00:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/STSCI-H-p26023a-m-2000x1207.jpg?w=2000&#038;h=1207&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
-      "pubDate": "Wed, 23 Sep 2026 04:05:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg?w=925&#038;h=925&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Boom Year for Desert Blooms",
-      "link": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
-      "pubDate": "Wed, 23 Sep 2026 04:01:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20250819.jpg"
-    },
-    {
-      "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/",
-      "pubDate": "Wed, 23 Sep 2026 00:40:16 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05014_opgs_edr_ncam_NRB_842619188EDR_S1250000NCAM00259M_.jpg?w=1024&#038;h=512&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
-      "link": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
-      "pubDate": "Tue, 22 Sep 2026 19:19:45 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/pfo-dcs-vte-working-group-photo.jpg?w=2048"
-    },
-    {
-      "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-      "link": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
-      "pubDate": "Tue, 22 Sep 2026 17:33:10 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/astrobiology/research-images/SampleCollection.jpg?w=4284&#038;h=3204&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
       "title": "Can an AI feel pain? It can at least act like it does",
@@ -181,14 +189,6 @@
       "title": "How the ‘fire amoeba’ withstands temperatures that would kill most complex life",
       "link": "https://www.science.org/content/article/how-fire-amoeba-withstands-temperatures-would-kill-most-complex-life",
       "pubDate": "2026-09-22T12:35:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "White House move to seize control of NIH grant decisions upsets senators and scientists",
-      "link": "https://www.science.org/content/article/white-house-move-seize-control-nih-grant-decisions-upsets-senators-and-scientists",
-      "pubDate": "2026-09-21T05:58:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -262,29 +262,29 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
-        "temperature": 65,
+        "name": "This Afternoon",
+        "temperature": 68,
         "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+        "shortForecast": "Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
         "name": "Tonight",
-        "temperature": 49,
+        "temperature": 51,
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Thursday",
-        "temperature": 67,
+        "temperature": 68,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
         "name": "Thursday Night",
-        "temperature": 53,
+        "temperature": 55,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
