@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-09-23T10:45:52.956Z",
+  "generatedAt": "2026-09-23T16:05:55.958Z",
   "items": [
+    {
+      "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
+      "pubDate": "Wed, 23 Sep 2026 10:09:10 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4746x3164+0+0/resize/4746x3164!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2F32%2Fa170cd554db19325eac5c64270cf%2Fap24107445335238.jpg"
+    },
+    {
+      "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
+      "link": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
+      "pubDate": "Wed, 23 Sep 2026 09:31:47 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F40%2F95%2Fe2758c654d04a54183931f8fdfda%2Ffarflungpostcard-rr.jpg"
+    },
+    {
+      "title": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
+      "link": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
+      "pubDate": "Wed, 23 Sep 2026 07:48:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5184x3456+0+0/resize/5184x3456!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2Fc2%2Fecc41850413dbdeeb4b1ccd9692d%2Fnepal-dam-2294347827.jpg"
+    },
+    {
+      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
+      "link": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
+      "pubDate": "Wed, 23 Sep 2026 07:13:32 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+      "pubDate": "Wed, 23 Sep 2026 06:48:47 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4975x3317+0+0/resize/4975x3317!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F53%2Fa8681d124782bf45adb443aebba4%2Fgettyimages-2296045624.jpg"
+    },
     {
       "title": "Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri",
@@ -26,44 +66,28 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2Fef%2F969437ab4f08b80d40e8bfd85bfd%2Fap26262737935550.jpg"
     },
     {
-      "title": "There's growing concern that Trump may deploy the National Guard ahead of elections",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
-      "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F1a%2F9b6573f74c73adb4761c2c257395%2Fgettyimages-2286655279.jpg"
+      "title": "FFA 2026 Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/",
+      "pubDate": "Wed, 23 Sep 2026 14:58:13 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": null
     },
     {
-      "title": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
-      "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4676x3117+0+0/resize/4676x3117!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2Fe2%2F0fd3ddf94b09b25afb4815d800e2%2Fap26257499640719.jpg"
+      "title": "Risk of Hydrazine Use Following Freeze–Thaw Exposure",
+      "link": "https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/",
+      "pubDate": "Wed, 23 Sep 2026 14:31:58 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2015/04/nesc-tb-26-06-hydrazine-powered-sls-bosster-thrust-vector-control-system.png?w=581"
     },
     {
-      "title": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
-      "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7716x5147+0+0/resize/7716x5147!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2F92%2F8c7b2e92419199eb4ed07a616108%2Fgettyimages-2295562157.jpg"
-    },
-    {
-      "title": "Poll: Trust in the U.S. Postal Service delivering mail-in ballots on time has fallen",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978081/usps-election-mail-in-ballot",
-      "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4804x3203+0+0/resize/4804x3203!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2F70%2F55c21b564870b8ddc82d7dbd221b%2Fap23009534843228.jpg"
-    },
-    {
-      "title": "ICE is looking into 'mobile detention facilities'",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5976875/ice-mobile-detention-facilities-immigration",
-      "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5723x3815+0+0/resize/5723x3815!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2Fa9%2Fcca59fcc4e5690922dffbfe80e52%2Fgettyimages-2287296268.jpg"
+      "title": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
+      "pubDate": "Wed, 23 Sep 2026 13:55:34 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/STSCI-H-p26023a-m-2000x1207.jpg?w=2000&#038;h=1207&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
@@ -106,28 +130,12 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/astrobiology/research-images/SampleCollection.jpg?w=4284&#038;h=3204&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
-      "link": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/",
-      "pubDate": "Tue, 22 Sep 2026 15:40:48 +0000",
-      "source": "NASA",
+      "title": "Can an AI feel pain? It can at least act like it does",
+      "link": "https://www.science.org/content/article/can-ai-feel-pain-it-can-least-act-it-does",
+      "pubDate": "2026-09-23T10:30:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/m101-lg.jpg?w=2045"
-    },
-    {
-      "title": "NASA Astronaut to Answer Questions from New Hampshire Students",
-      "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/",
-      "pubDate": "Tue, 22 Sep 2026 13:38:53 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/anil-menon-downlink-sept-22.jpg?w=1280"
-    },
-    {
-      "title": "APOD: 2026 September 22 – Chance Triple Alignment: Plane, Space Station, Sun",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
-      "pubDate": "Tue, 22 Sep 2026 04:05:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=1500&#038;h=1500&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
       "title": "Submerged land bridge may have helped people cross the Mediterranean",
@@ -186,73 +194,65 @@
       "thumbnail": null
     },
     {
-      "title": "This dolphin chased a fish until it puked—then ate the vomit",
-      "link": "https://www.science.org/content/article/dolphin-chased-fish-until-it-puked-then-ate-vomit",
-      "pubDate": "2026-09-21T10:40:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "In praise of human teachers: universities must resist outsourcing everything to AI",
-      "link": "https://www.nature.com/articles/d41586-026-02949-9",
+      "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+      "link": "https://www.nature.com/articles/s41586-026-11189-w",
       "pubDate": "2026-09-23T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "How to stay smart in the age of AI: the science of critical thinking",
-      "link": "https://www.nature.com/articles/d41586-026-02930-6",
+      "title": "Chiral oxazolidinones <i>via</i> biocatalytic aziridination of unactivated alkenes",
+      "link": "https://www.nature.com/articles/s41586-026-11169-0",
       "pubDate": "2026-09-23T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Biosecurity must protect human functional capacity",
-      "link": "https://www.nature.com/articles/d41586-026-02996-2",
-      "pubDate": "2026-09-22T00:00:00.000Z",
+      "title": "Bank accounts reveal the fingerprints of abusive financial control",
+      "link": "https://www.nature.com/articles/d41586-026-03021-2",
+      "pubDate": "2026-09-23T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Why insects need their own protected areas",
-      "link": "https://www.nature.com/articles/d41586-026-02997-1",
-      "pubDate": "2026-09-22T00:00:00.000Z",
+      "title": "Competition heats up in the regenerative-medicine ranks",
+      "link": "https://www.nature.com/articles/d41586-026-02856-z",
+      "pubDate": "2026-09-23T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "A global safety net for climate-risk intelligence is urgently needed",
-      "link": "https://www.nature.com/articles/d41586-026-02995-3",
-      "pubDate": "2026-09-22T00:00:00.000Z",
+      "title": "Huge hoard of metal bars hints at vast Iron Age trade",
+      "link": "https://www.nature.com/articles/d41586-026-02986-4",
+      "pubDate": "2026-09-23T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "What happens in Vegas: one lecturer’s hunt for a projector",
-      "link": "https://www.nature.com/articles/d41586-026-02724-w",
-      "pubDate": "2026-09-22T00:00:00.000Z",
+      "title": "The gene-regulatory evolution of the human skeleton",
+      "link": "https://www.nature.com/articles/s41586-026-11053-x",
+      "pubDate": "2026-09-23T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Dust in the wind is on the decline",
-      "link": "https://www.nature.com/articles/d41586-026-02979-3",
-      "pubDate": "2026-09-22T00:00:00.000Z",
+      "title": "The anthropogenic fingerprint on emerging infectious diseases",
+      "link": "https://www.nature.com/articles/s41586-026-11058-6",
+      "pubDate": "2026-09-23T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "About to give your first lecture? Read this first",
-      "link": "https://www.nature.com/articles/d41586-026-02369-9",
-      "pubDate": "2026-09-22T00:00:00.000Z",
+      "title": "Gravitational torque drives multidecadal variations in length of day",
+      "link": "https://www.nature.com/articles/s41586-026-10999-2",
+      "pubDate": "2026-09-23T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
@@ -262,22 +262,15 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Overnight",
-        "temperature": 48,
-        "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
-      },
-      {
-        "name": "Wednesday",
+        "name": "Today",
         "temperature": 65,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
       },
       {
-        "name": "Wednesday Night",
-        "temperature": 50,
+        "name": "Tonight",
+        "temperature": 49,
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Sunny",
         "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+      },
+      {
+        "name": "Thursday Night",
+        "temperature": 53,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
       }
     ]
   }
