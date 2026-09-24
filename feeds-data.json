@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-09-23T21:04:30.021Z",
+  "generatedAt": "2026-09-24T03:08:41.772Z",
   "items": [
     {
-      "title": "Trump set to greet Xi for high-stakes state visit",
+      "title": "Judge considers restoring journalists' access to White House after Trump's ban",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico",
+      "pubDate": "Wed, 23 Sep 2026 18:40:39 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4932x3289+0+0/resize/4932x3289!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2Fd9%2F0a21cddf4d56a527ef5a95fe71dc%2Fgettyimages-2295956926.jpg"
+    },
+    {
+      "title": "Trump and Xi meet at moment of global consequence",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
       "pubDate": "Wed, 23 Sep 2026 14:23:19 -0400",
       "source": "NPR News",
@@ -58,12 +66,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5184x3456+0+0/resize/5184x3456!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2Fc2%2Fecc41850413dbdeeb4b1ccd9692d%2Fnepal-dam-2294347827.jpg"
     },
     {
-      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
-      "link": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
-      "pubDate": "Wed, 23 Sep 2026 07:13:32 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
+      "title": "NASA Modernizes Commercial Airline Systems",
+      "link": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
+      "pubDate": "Wed, 23 Sep 2026 22:08:54 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/acd26-0034-011.jpg?w=2048"
     },
     {
       "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
@@ -122,12 +130,12 @@
       "thumbnail": null
     },
     {
-      "title": "Risk of Hydrazine Use Following Freeze–Thaw Exposure",
-      "link": "https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/",
-      "pubDate": "Wed, 23 Sep 2026 14:31:58 +0000",
-      "source": "NASA",
+      "title": "Project will harness technology to track Amazon biodiversity in real time",
+      "link": "https://www.science.org/content/article/project-will-harness-technology-track-amazon-biodiversity-real-time",
+      "pubDate": "2026-09-23T06:35:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2015/04/nesc-tb-26-06-hydrazine-powered-sls-bosster-thrust-vector-control-system.png?w=581"
+      "thumbnail": null
     },
     {
       "title": "Bones link 10,000-year-old temple complex to a village, not a ‘skull cult’",
@@ -181,14 +189,6 @@
       "title": "Giant telescope project rejects La Palma as backup site",
       "link": "https://www.science.org/content/article/giant-telescope-project-rejects-la-palma-backup-site",
       "pubDate": "2026-09-22T02:40:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "How the ‘fire amoeba’ withstands temperatures that would kill most complex life",
-      "link": "https://www.science.org/content/article/how-fire-amoeba-withstands-temperatures-would-kill-most-complex-life",
-      "pubDate": "2026-09-22T12:35:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -262,15 +262,8 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 68,
-        "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 51,
+        "temperature": 50,
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
@@ -288,6 +281,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+      },
+      {
+        "name": "Friday",
+        "temperature": 68,
+        "temperatureUnit": "F",
+        "shortForecast": "Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       }
     ]
   }
