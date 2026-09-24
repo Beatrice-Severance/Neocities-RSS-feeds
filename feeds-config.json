@@ -3,5 +3,7 @@
   { "category": "Science",    "name": "NASA",          "url": "https://www.nasa.gov/news-release/feed/" },
   { "category": "Science",    "name": "Science (AAAS)", "url": "https://www.science.org/rss/news_current.xml" },
   { "category": "Science",    "name": "Nature",        "url": "https://www.nature.com/nature.rss" },
-  { "category": "News", "name": "AP News", "url": "https://cdn.mysitemapgenerator.com/shareapi/rss/10072581659" }
+  { "category": "Microbiome", "name": "Pubmed: oral microbiome", "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7/?limit=50&utm_campaign=pubmed-2&fc=20260924135222" },
+  { "category": "Microbiome", "name": "Pubmed: nasal microbiome", "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_/?limit=50&utm_campaign=pubmed-2&fc=20260924135834" },
+  { "category": "Microbiome", "name": "Nature Microbiology", "url": "https://www.nature.com/nmicrobiol.rss" }
 ]
