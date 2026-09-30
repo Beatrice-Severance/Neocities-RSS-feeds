@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T19:46:37.599Z",
+  "generatedAt": "2026-09-30T00:03:29.237Z",
   "items": [
     {
       "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
@@ -66,6 +66,38 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F67%2Fe0fa205a497d986d61027f5d0672%2Ff80f28ba-6862-4a9d-8920-821c9f2417eb.jpg"
     },
     {
+      "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
+      "pubDate": "Tue, 29 Sep 2026 21:27:56 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-header-conceptual-lunar-communications-and-navigation-orbiter.png?w=1536"
+    },
+    {
+      "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/",
+      "pubDate": "Tue, 29 Sep 2026 21:00:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "NASA Features Exploration, Science at International Space Conference ",
+      "link": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/",
+      "pubDate": "Tue, 29 Sep 2026 20:55:24 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/iac.jpg?w=1920"
+    },
+    {
+      "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+      "link": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "pubDate": "Tue, 29 Sep 2026 20:08:01 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg?w=1080"
+    },
+    {
       "title": "NASA Sets Crew-13 Launch, Docking Coverage",
       "link": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
       "pubDate": "Tue, 29 Sep 2026 18:57:14 +0000",
@@ -98,36 +130,12 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg?w=525"
     },
     {
-      "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
-      "link": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/",
-      "pubDate": "Tue, 29 Sep 2026 14:00:00 +0000",
-      "source": "NASA",
+      "title": "Will Trump administration weaken protections for human research subjects?",
+      "link": "https://www.science.org/content/article/will-trump-administration-weaken-protections-human-research-subjects",
+      "pubDate": "2026-09-29T04:45:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/lsp-2-100x.jpg?w=1024"
-    },
-    {
-      "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
-      "pubDate": "Tue, 29 Sep 2026 04:05:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Shrimp_Pawel_2048.jpg?w=2048&#038;h=2560&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "Fire Cloud with a Pileus on Top",
-      "link": "https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/",
-      "pubDate": "Tue, 29 Sep 2026 04:01:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire-cloud-with-a-pileus-on-top/montanafire_master_20260811.jpg"
-    },
-    {
-      "title": "Mars Has Its Charmes",
-      "link": "https://science.nasa.gov/blog/mars-has-its-charmes/",
-      "pubDate": "Tue, 29 Sep 2026 01:27:52 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_1967_0841573976_050EBY_N0910806SRLC08063_0000LMJ.png?w=1648&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
       "title": "These frogs ‘see’ prey with their star-shaped toes",
@@ -181,14 +189,6 @@
       "title": "Japan’s Science Council to face greater governmental oversight",
       "link": "https://www.science.org/content/article/japan-s-science-council-face-greater-governmental-oversight",
       "pubDate": "2026-09-25T12:38:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Laser-generated particles allow scientists to see through walls",
-      "link": "https://www.science.org/content/article/laser-generated-particles-allow-scientists-see-through-walls",
-      "pubDate": "2026-09-25T12:25:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -258,8 +258,16 @@
       "thumbnail": null
     },
     {
+      "title": "The role of gut microbiota-immune axis in swallowing dysfunction and nursing interventions",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42809341/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929200327&v=2.20.1",
+      "pubDate": "Tue, 29 Sep 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
       "title": "Optimizing Antimicrobial Treatment to Cryopreserve and Establish Oral Squamous Cell Carcinoma In-Vitro Models Derived from Habitual Tobacco Chewers",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42808409/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42808409/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929200327&v=2.20.1",
       "pubDate": "Tue, 29 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -267,7 +275,7 @@
     },
     {
       "title": "Adjunctive Effects of a 2% Zinc Citrate Toothpaste on Plaque and Oral Microbiota in Orthodontic Patients: A Randomized Controlled Trial",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42808019/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42808019/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929200327&v=2.20.1",
       "pubDate": "Tue, 29 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -275,7 +283,7 @@
     },
     {
       "title": "Shifting hormones, shaping health: Gender-affirming therapy & oral care",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42807896/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42807896/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929200327&v=2.20.1",
       "pubDate": "Tue, 29 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -283,7 +291,7 @@
     },
     {
       "title": "Gastric bacterial microbiota and gastric carcinogenesis: from dysbiosis to immune remodeling and therapeutic opportunities",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42807795/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42807795/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929200327&v=2.20.1",
       "pubDate": "Tue, 29 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -291,7 +299,7 @@
     },
     {
       "title": "Beyond desensitization: the SCFA-Treg-gut microbiota axis as a mechanistic framework for sustained unresponsiveness in food allergy",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42807696/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42807696/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929200327&v=2.20.1",
       "pubDate": "Tue, 29 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -299,7 +307,7 @@
     },
     {
       "title": "<em>Moraxella salivae</em> sp. nov., isolated from the saliva of a healthy human volunteer",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42807510/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42807510/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929200327&v=2.20.1",
       "pubDate": "Tue, 29 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -307,15 +315,7 @@
     },
     {
       "title": "Editorial: The role of the gut microbiota on bone mass in health and disease, volume II",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42807236/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929154636&v=2.20.1",
-      "pubDate": "Tue, 29 Sep 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Fungal DNA profiles across maternal and neonatal biological sites: findings from an exploratory pilot study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42807077/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42807236/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20260929200327&v=2.20.1",
       "pubDate": "Tue, 29 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -323,7 +323,7 @@
     },
     {
       "title": "Disease-modifying therapies are associated with improved olfactory function via NK cell- microbiota interactions in multiple sclerosis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42807502/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42807502/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929200327&v=2.20.1",
       "pubDate": "Tue, 29 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -331,7 +331,7 @@
     },
     {
       "title": "Study on the Pathogenic Mechanism of <em>Pasteurella multocida</em>",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42796649/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42796649/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929200327&v=2.20.1",
       "pubDate": "Sat, 26 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -339,7 +339,7 @@
     },
     {
       "title": "The Oral and Nasal Gateway Microbiomes: Salivaomics and Systemic Health at the Airway-Digestive Interface",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42795495/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42795495/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929200327&v=2.20.1",
       "pubDate": "Sat, 26 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -347,7 +347,7 @@
     },
     {
       "title": "MUC13 enhances IL-17 signaling pathway activity in nasal epithelial cells",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42784977/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42784977/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929200327&v=2.20.1",
       "pubDate": "Thu, 24 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -355,7 +355,7 @@
     },
     {
       "title": "Physiopathology of nasal and ecnomotopic olfactory receptors: focus on molecular pathways and potential pharmacological modulation",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42781227/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42781227/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929200327&v=2.20.1",
       "pubDate": "Thu, 24 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -363,7 +363,7 @@
     },
     {
       "title": "Bringing work home: the microbiota of children of healthcare workers",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42768098/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42768098/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929200327&v=2.20.1",
       "pubDate": "Mon, 21 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -371,7 +371,7 @@
     },
     {
       "title": "Ozone and PM(2.5) co-exposure exacerbates allergic rhinitis and is associated with PPAR/TRPV1-related barrier damage: Insights from nasal transcriptomics and microbiomics",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42767358/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42767358/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929200327&v=2.20.1",
       "pubDate": "Mon, 21 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -379,9 +379,33 @@
     },
     {
       "title": "Gut microbiota as a therapeutic target of Chinese herbal medicine in allergic rhinitis: the gut-nasal axis and immunity",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42761309/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929154636&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42761309/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20260929200327&v=2.20.1",
       "pubDate": "Sat, 19 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Finishing the fight against HIV",
+      "link": "https://www.nature.com/articles/s41564-026-02510-4",
+      "pubDate": "2026-09-29T00:00:00.000Z",
+      "source": "Nature Microbiology",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Phylogeny-agnostic strain-level prediction of phage–host interactions from genomes using machine learning",
+      "link": "https://www.nature.com/articles/s41564-026-02482-5",
+      "pubDate": "2026-09-29T00:00:00.000Z",
+      "source": "Nature Microbiology",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Oncogenic viral infection triggers LAMP2A SUMOylation and chaperone-mediated autophagy to promote tumorigenesis",
+      "link": "https://www.nature.com/articles/s41564-026-02476-3",
+      "pubDate": "2026-09-29T00:00:00.000Z",
+      "source": "Nature Microbiology",
       "category": "Microbiome",
       "thumbnail": null
     },
@@ -424,55 +448,24 @@
       "source": "Nature Microbiology",
       "category": "Microbiome",
       "thumbnail": null
-    },
-    {
-      "title": "AP2-HS and a GDV1 regulatory feedback loop mediate environmental induction of sexual conversion in <i>Plasmodium falciparum</i>",
-      "link": "https://www.nature.com/articles/s41564-026-02473-6",
-      "pubDate": "2026-09-17T00:00:00.000Z",
-      "source": "Nature Microbiology",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Sequential gene loss promotes expansion of monophasic <i>Salmonella</i> Typhimurium ST34",
-      "link": "https://www.nature.com/articles/s41564-026-02483-4",
-      "pubDate": "2026-09-17T00:00:00.000Z",
-      "source": "Nature Microbiology",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "In vivo CRISPRi screens reveal <i>Escherichia coli</i> functional adaptations in the mouse gut",
-      "link": "https://www.nature.com/articles/s41564-026-02471-8",
-      "pubDate": "2026-09-17T00:00:00.000Z",
-      "source": "Nature Microbiology",
-      "category": "Microbiome",
-      "thumbnail": null
     }
   ],
   "weather": {
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 74,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 61,
         "temperatureUnit": "F",
         "shortForecast": "Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,80?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/tsra,80?size=medium"
       },
       {
         "name": "Wednesday",
         "temperature": 71,
         "temperatureUnit": "F",
-        "shortForecast": "Rain Showers",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,80/rain_showers,40?size=medium"
+        "shortForecast": "Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/day/tsra,80/tsra,40?size=medium"
       },
       {
         "name": "Wednesday Night",
@@ -480,6 +473,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Rain Showers",
         "icon": "https://api.weather.gov/icons/land/night/rain_showers,70/rain_showers,80?size=medium"
+      },
+      {
+        "name": "Thursday",
+        "temperature": 68,
+        "temperatureUnit": "F",
+        "shortForecast": "Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/rain_showers,80?size=medium"
       }
     ]
   }
