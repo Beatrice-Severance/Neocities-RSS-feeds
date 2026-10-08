@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-10-07T18:25:42.022Z",
+  "generatedAt": "2026-10-08T00:42:08.367Z",
   "items": [
+    {
+      "title": "The WHO seeks more details on the death of a plague research lab employee in Russia",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5993873/russia-death-plague-research-institute",
+      "pubDate": "Wed, 07 Oct 2026 17:53:47 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
+      "title": "What is the pneumonic plague?",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
+      "pubDate": "Wed, 07 Oct 2026 17:06:31 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2880x1920+0+0/resize/2880x1920!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F76%2Fb8746ff340d5984bafb43f99a66f%2Fsciencesourceimages-1066890.jpg"
+    },
+    {
+      "title": "This surprising mammal fossil is giving scientists something to chew on",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest",
+      "pubDate": "Wed, 07 Oct 2026 15:59:16 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3879x2016+0+0/resize/3879x2016!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb0%2Fa1%2Fe2f3a3574356abf38f3545bfa159%2Fspecimen.jpeg"
+    },
+    {
+      "title": "Judge orders that Christa Pike execution evidence be preserved",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved",
+      "pubDate": "Wed, 07 Oct 2026 15:53:10 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3959x2639+0+0/resize/3959x2639!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F44%2Ffa719b234310a4364d8e8132d9c4%2Fap26280607293621.jpg"
+    },
+    {
+      "title": "Trump approved the military's 1st firing squad execution since WWII. Why now?",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood",
+      "pubDate": "Wed, 07 Oct 2026 15:08:48 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1998+0+0/resize/3000x1998!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2Faf%2Fd3818918478c8a44efa8c3138215%2Fgettyimages-93016453.jpg"
+    },
     {
       "title": "Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel",
       "link": "https://www.npr.org/2026/10/07/nx-s1-5992963/dyed-diesel-fuel-price-farmers-trucks",
@@ -26,44 +66,28 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1815x2420+0+0/resize/1815x2420!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2Fb9%2F03faed694e70915cdf8acb8c1277%2Fellen-allen-redaction.jpg"
     },
     {
-      "title": "Gut microbes followed migrating humans across continents, new study suggests",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
-      "pubDate": "Wed, 07 Oct 2026 11:00:47 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2272x1704+0+0/resize/2272x1704!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2F5d%2F1e6c188f4e07916b03b5f25caedc%2Ftacuaral-and-jamanchi-077.jpg"
+      "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+      "pubDate": "Wed, 07 Oct 2026 21:16:42 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg?w=2048"
     },
     {
-      "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
-      "pubDate": "Wed, 07 Oct 2026 09:53:54 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2Fa2%2F998e88bf412283021f9ebee697be%2Fpostcard-lahore.jpg"
+      "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
+      "link": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/",
+      "pubDate": "Wed, 07 Oct 2026 20:17:16 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/10/1-falcon9-dragon.png?w=1430"
     },
     {
-      "title": "DIY fertilizer is a blessing as farmers face steep prices due to the Iran war",
-      "link": "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war",
-      "pubDate": "Wed, 07 Oct 2026 09:32:37 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2405+0+0/resize/3600x2405!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2Fd5%2Fdfbf3af048d7a06db77294592807%2Fbokashi-26.jpg"
-    },
-    {
-      "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
-      "link": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
-      "pubDate": "Wed, 07 Oct 2026 06:52:58 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
-    },
-    {
-      "title": "Who will win the 2026 Nobel Prize in economics?",
-      "link": "https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics",
-      "pubDate": "Wed, 07 Oct 2026 06:30:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2374+0+0/resize/3500x2374!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F9b%2F849934d348b69488946a430c099e%2Fgettyimages-1241423375.jpg"
+      "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
+      "link": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
+      "pubDate": "Wed, 07 Oct 2026 20:15:49 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26355/PIA26355.jpg?w=3360&#038;h=3360&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
@@ -106,28 +130,36 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-sea-ice-shrinks-to-its-2026-minimum/arctic_nsidc_20260912.jpg?w=720&#038;h=545&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
-      "link": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
-      "pubDate": "Tue, 06 Oct 2026 18:31:40 +0000",
-      "source": "NASA",
+      "title": "Watch: What’s the deal with OpenAI’s massive dump of math papers?",
+      "link": "https://www.science.org/content/article/watch-what-s-deal-openai-s-massive-dump-math-papers",
+      "pubDate": "2026-10-07T06:15:06.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://images-assets.nasa.gov/image/iss074e0458241/iss074e0458241~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
-      "title": "October 2026 Satellite Puzzler",
-      "link": "https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/",
-      "pubDate": "Tue, 06 Oct 2026 18:27:38 +0000",
-      "source": "NASA",
+      "title": "‘The anti-Fauci’? Lab-leak proponent listed in NIH directory but denies being hired",
+      "link": "https://www.science.org/content/article/anti-fauci-lab-leak-proponent-listed-nih-directory-denies-being-hired",
+      "pubDate": "2026-10-07T05:25:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_octoberpuzzler.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
-      "title": "Lunar Grounding Challenge",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/",
-      "pubDate": "Tue, 06 Oct 2026 18:22:24 +0000",
-      "source": "NASA",
+      "title": "Neanderthals were skilled woodworkers, first-of-its-kind tool trove reveals",
+      "link": "https://www.science.org/content/article/neanderthals-were-skilled-woodworkers-first-its-kind-tool-trove-reveals",
+      "pubDate": "2026-10-07T02:00:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/06/feature-moonbase-img-2f4057.png?w=1280"
+      "thumbnail": null
+    },
+    {
+      "title": "As AI triggers a tsunami of submissions, computer science conferences impose caps",
+      "link": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
+      "pubDate": "2026-10-07T01:40:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
     },
     {
       "title": "World’s once-largest penguin colony is in perilous decline",
@@ -146,7 +178,7 @@
       "thumbnail": null
     },
     {
-      "title": "Nobel Prize honors researchers who solved chemistry’s asymmetry mystery",
+      "title": "Nobel Prize honors researchers who showed how ‘handedness’ can emerge in chemistry",
       "link": "https://www.science.org/content/article/chemistry-nobel-honors-researchers-who-developed-reactions-leading-one-handed-molecules",
       "pubDate": "2026-10-07T06:05:00.000Z",
       "source": "Science (AAAS)",
@@ -162,40 +194,24 @@
       "thumbnail": null
     },
     {
-      "title": "November elections may bring little relief for scientists beleaguered by Trump",
-      "link": "https://www.science.org/content/article/november-elections-may-bring-little-relief-scientists-beleaguered-trump",
-      "pubDate": "2026-10-06T04:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Possible plague death at a Siberian lab baffles scientists",
-      "link": "https://www.science.org/content/article/possible-plague-death-siberian-lab-baffles-scientists",
-      "pubDate": "2026-10-06T04:30:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "‘Complete devastation’: How NSF gutted its social sciences research",
-      "link": "https://www.science.org/content/article/complete-devastation-how-nsf-gutted-its-social-sciences-research",
-      "pubDate": "2026-10-06T03:55:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "The birth of neutrino astronomy nets Nobel Prize in Physics",
-      "link": "https://www.science.org/content/article/architect-south-pole-observatory-wins-physics-nobel",
-      "pubDate": "2026-10-06T06:00:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
       "title": "A guide to Nature Index tables",
       "link": "https://www.nature.com/articles/d41586-026-02999-z",
+      "pubDate": "2026-10-07T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Nobel Prizes 2026: brain switches, ‘ghost’ particle hunter, and 'the chemistry of life'",
+      "link": "https://www.nature.com/articles/d41586-026-03208-7",
+      "pubDate": "2026-10-07T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "NASA releases trove of Moon data from historic Artemis II flight",
+      "link": "https://www.nature.com/articles/d41586-026-03197-7",
       "pubDate": "2026-10-07T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
@@ -242,24 +258,40 @@
       "thumbnail": null
     },
     {
-      "title": "Retrofitted LLM can count the letter ‘i’s in ‘artificial intelligence’",
-      "link": "https://www.nature.com/articles/d41586-026-03059-2",
-      "pubDate": "2026-10-07T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
+      "title": "Exploring <em>Blastocystis</em>: hidden complexity in a common intestinal microbe",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42842449/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007204206&v=2.20.1",
+      "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
       "thumbnail": null
     },
     {
-      "title": "Why sound, strong science alone isn’t enough in pandemic preparedness",
-      "link": "https://www.nature.com/articles/d41586-026-02985-5",
-      "pubDate": "2026-10-07T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
+      "title": "Soil-plant-animal properties and microbial reassembly distinguish cattle oral disease prevalence across converted Amazon pasture systems",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42842037/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007204206&v=2.20.1",
+      "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Gastrointestinal-Responsive Jelly Fig-Alginate Microgels for Restoring Intestinal Barrier Homeostasis through Microbiota-Metabolite Remodeling",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42841666/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007204206&v=2.20.1",
+      "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Rifaximin ameliorates memory impairment and Alzheimer's pathological changes in APP/PS1 mice associated with changes in the gut microbiome-bile acids-serum metabolites networks",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42841516/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007204206&v=2.20.1",
+      "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
       "thumbnail": null
     },
     {
       "title": "Periodontitis and Parkinson's disease: a narrative review of associations, proposed mechanisms, and clinical considerations",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42840879/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42840879/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007204206&v=2.20.1",
       "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -267,7 +299,7 @@
     },
     {
       "title": "The oral-gastric microbial axis in children: salivary signatures as non-invasive biomarkers for pediatric gastritis and Helicobacter pylori infection",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42840477/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42840477/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007204206&v=2.20.1",
       "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -275,7 +307,7 @@
     },
     {
       "title": "From microbiome to outcome: the cascading effects of combining acid suppressants with anti-tuberculosis therapy",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42840472/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42840472/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007204206&v=2.20.1",
       "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -283,39 +315,7 @@
     },
     {
       "title": "Beyond cervicovaginal limitations: potential bidirectional interactions between HPV infection and mucosal microbiota from oral, anorectal and penile sites - a mini-review",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42840393/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007142540&v=2.20.1",
-      "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Metagenomic next-generation sequencing reveals airway microbial dysbiosis and functional alterations in <em>Legionella pneumophila</em> pneumonia",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42840241/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007142540&v=2.20.1",
-      "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "The shifts of submucosal microbiota in treated patients with aggressive periodontitis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42839959/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007142540&v=2.20.1",
-      "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Salivary Microbiome Profiles in Burning Mouth Syndrome With Gastroesophageal Reflux Disease Comorbidity: A Comparative Analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42839368/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007142540&v=2.20.1",
-      "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Preliminary species-dependent growth responses of selected oral bacteria to e-cigarette Liquids and aerosol extracts: a single-species in vitro study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42839235/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42840393/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261007204206&v=2.20.1",
       "pubDate": "Wed, 07 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -323,7 +323,7 @@
     },
     {
       "title": "Senecio scandens extract alleviates allergic rhinitis by attenuating epithelial inflammation and modulating gut microbiota balance",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42833064/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42833064/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007204206&v=2.20.1",
       "pubDate": "Mon, 05 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -331,7 +331,7 @@
     },
     {
       "title": "Niche-specific immune and microbial signatures across the healthy upper respiratory tract mucosa",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42823956/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42823956/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007204206&v=2.20.1",
       "pubDate": "Fri, 02 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -339,7 +339,7 @@
     },
     {
       "title": "Restoring epithelial health in epithelial-driven disease through an early treat-to-target approach: improving patient care towards clinical remission",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42815780/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42815780/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007204206&v=2.20.1",
       "pubDate": "Wed, 30 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -347,7 +347,7 @@
     },
     {
       "title": "Disease-modifying therapies are associated with improved olfactory function via NK cell- microbiota interactions in multiple sclerosis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42807502/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42807502/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007204206&v=2.20.1",
       "pubDate": "Tue, 29 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -355,7 +355,7 @@
     },
     {
       "title": "Study on the Pathogenic Mechanism of <em>Pasteurella multocida</em>",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42796649/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42796649/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007204206&v=2.20.1",
       "pubDate": "Sat, 26 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -363,7 +363,7 @@
     },
     {
       "title": "The Oral and Nasal Gateway Microbiomes: Salivaomics and Systemic Health at the Airway-Digestive Interface",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42795495/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42795495/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007204206&v=2.20.1",
       "pubDate": "Sat, 26 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -371,7 +371,7 @@
     },
     {
       "title": "MUC13 enhances IL-17 signaling pathway activity in nasal epithelial cells",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42784977/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42784977/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007204206&v=2.20.1",
       "pubDate": "Thu, 24 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -379,7 +379,7 @@
     },
     {
       "title": "Physiopathology of nasal and ecnomotopic olfactory receptors: focus on molecular pathways and potential pharmacological modulation",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42781227/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007142540&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42781227/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261007204206&v=2.20.1",
       "pubDate": "Thu, 24 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -454,13 +454,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 74,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 49,
         "temperatureUnit": "F",
@@ -476,10 +469,17 @@
       },
       {
         "name": "Thursday Night",
-        "temperature": 49,
+        "temperature": 48,
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+      },
+      {
+        "name": "Friday",
+        "temperature": 71,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
+        "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium"
       }
     ]
   }
