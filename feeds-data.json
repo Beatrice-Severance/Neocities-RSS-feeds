@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:58:58.401Z",
+  "generatedAt": "2026-10-17T07:41:20.686Z",
   "items": [
     {
       "title": "Katie Zacharia is out as press secretary, White House says",
@@ -66,6 +66,14 @@
       "thumbnail": null
     },
     {
+      "title": "APOD: 2026 October 17 – 3D 67P",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+      "pubDate": "Sat, 17 Oct 2026 04:05:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/anaglyph-NAC_2015-07-25T06.28.48.742Z_lamy.jpg?w=2048&#038;h=1884&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
       "link": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
       "pubDate": "Fri, 16 Oct 2026 20:14:39 +0000",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png?w=2048&#038;h=1365&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "NASA Satellites Observe Historic 2026 El Niño",
-      "link": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
-      "pubDate": "Thu, 15 Oct 2026 17:59:22 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-is-underway/elnino_sen6_20260608_th.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "How scientists domesticated a killer bacterium",
@@ -258,8 +258,48 @@
       "thumbnail": null
     },
     {
+      "title": "Distinct gastrointestinal symptom phenotypes in adults with cystic fibrosis are linked to complications and medication use: the GRAMPUS-CF study",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42888123/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261017034119&v=2.20.1",
+      "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Fecal Microbiota Transfer for Recurrent Clostridioides difficile Infection: A Retrospective Single-Center Analysis",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42887564/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261017034119&v=2.20.1",
+      "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Akkermansia muciniphila attenuates macrophage efferocytosis to enhance anti-PD-1 efficacy in microsatellite-stable colorectal cancer",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42887494/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261017034119&v=2.20.1",
+      "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Efficacy of Lactobacillus reuteri as an adjunctive therapy for seizure control and quality of life in pediatric drug-resistant epilepsy: A prospective interventional study",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42887466/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261017034119&v=2.20.1",
+      "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Oral microbiome profiles in a RUT-confirmed gastric H. pylori-positive cohort: A retrospective pilot comparison of specimen-processing workflows",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42887214/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261017034119&v=2.20.1",
+      "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
       "title": "A high-resolution spatial model of the primate gut microbiome defines niche-specific functions and host-adapted microbial metabolism",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42886573/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261016225857&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42886573/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261017034119&v=2.20.1",
       "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -267,7 +307,7 @@
     },
     {
       "title": "Schizophrenia-associated gut microbiota are linked to reduced colonic PRODH expression and behavioral changes in mice",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42886170/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261016225857&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42886170/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261017034119&v=2.20.1",
       "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -275,47 +315,7 @@
     },
     {
       "title": "Parental Care Modulates Early-Life Oral Microbiome Assembly and Immune Ontogeny in Wild Birds",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42886076/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261016225857&v=2.20.1",
-      "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "The effects of novel oral preclinical PolC inhibitor antibiotic candidates on the gut microbiome in a murine thigh infection model",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42885945/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261016225857&v=2.20.1",
-      "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Acetate modulates host physiology and bacterial energetics to improve antibiotic efficacy during obesity-associated infection",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42885922/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261016225857&v=2.20.1",
-      "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "The Gut Microbiota as a Mediator of the Metabolic Benefits of Fungi and Their Polysaccharides: A Review of Evidence Addressing Causality",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42884732/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261016225857&v=2.20.1",
-      "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Before the Gut: Human Milk Oligosaccharides and Oral Microbial Colonization in Infancy",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42884719/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261016225857&v=2.20.1",
-      "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Effects of Bovine Lactoferrin on Vaginal Microbiota in Healthy Postmenopausal Women: A Randomized, Double-Blind, Placebo-Controlled Trial",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42884644/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261016225857&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42886076/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261017034119&v=2.20.1",
       "pubDate": "Fri, 16 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -323,7 +323,7 @@
     },
     {
       "title": "Community composition drives metabolic competition and Staphylococcus aureus colonization resistance in synthetic nasal communities",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873131/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261016225857&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42873131/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261017034119&v=2.20.1",
       "pubDate": "Wed, 14 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -331,7 +331,7 @@
     },
     {
       "title": "Serotype-independent inhibition of <em>S. pneumoniae</em> by SMiTE, a commensal-derived bacteriocin",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42861988/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261016225857&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42861988/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261017034119&v=2.20.1",
       "pubDate": "Mon, 12 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -339,7 +339,7 @@
     },
     {
       "title": "Processing-driven flavor remodeling and gut-protective effects of black and green Forsythia suspensa leaf teas",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42859044/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261016225857&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42859044/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261017034119&v=2.20.1",
       "pubDate": "Sat, 10 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -347,7 +347,7 @@
     },
     {
       "title": "Integrated-omics endotyping of patients with chronic rhinosinusitis with nasal polyps and their response to glucocorticoid therapy",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42854989/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261016225857&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42854989/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261017034119&v=2.20.1",
       "pubDate": "Fri, 09 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -355,7 +355,7 @@
     },
     {
       "title": "Jianpi Biyan formula ameliorates spleen-deficiency-type allergic rhinitis and modulates the gut-nose axis: Integrated evidence from gut microbiota, SCFA metabolism, and TLR4/NF-kappaB signaling",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42851337/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261016225857&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42851337/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261017034119&v=2.20.1",
       "pubDate": "Fri, 09 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -363,7 +363,7 @@
     },
     {
       "title": "Senecio scandens extract alleviates allergic rhinitis by attenuating epithelial inflammation and modulating gut microbiota balance",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42833064/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261016225857&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42833064/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261017034119&v=2.20.1",
       "pubDate": "Mon, 05 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -371,7 +371,7 @@
     },
     {
       "title": "Niche-specific immune and microbial signatures across the healthy upper respiratory tract mucosa",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42823956/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261016225857&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42823956/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261017034119&v=2.20.1",
       "pubDate": "Fri, 02 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -379,7 +379,7 @@
     },
     {
       "title": "Restoring epithelial health in epithelial-driven disease through an early treat-to-target approach: improving patient care towards clinical remission",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42815780/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261016225857&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42815780/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261017034119&v=2.20.1",
       "pubDate": "Wed, 30 Sep 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -454,10 +454,10 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
-        "temperature": 31,
+        "name": "Overnight",
+        "temperature": 32,
         "temperatureUnit": "F",
-        "shortForecast": "Clear then Widespread Frost",
+        "shortForecast": "Widespread Frost",
         "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
       },
       {
@@ -469,7 +469,7 @@
       },
       {
         "name": "Saturday Night",
-        "temperature": 39,
+        "temperature": 40,
         "temperatureUnit": "F",
         "shortForecast": "Clear",
         "icon": "https://api.weather.gov/icons/land/night/skc?size=medium"
