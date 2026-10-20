@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-20T18:53:32.384Z",
+  "generatedAt": "2026-10-20T23:36:41.672Z",
   "items": [
+    {
+      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+      "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+      "pubDate": "Tue, 20 Oct 2026 16:19:16 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F08%2F95973b6c4216b275907f27dea332%2Fap26289768195932.jpg"
+    },
     {
       "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
       "link": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
@@ -34,20 +42,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4400x4046+0+0/resize/4400x4046!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2Fb8%2Faef234494be2a7c8a3e614b5bcfa%2Fgettyimages-1742945157.jpg"
     },
     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
-      "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": null
-    },
-    {
       "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
       "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
       "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4896x3264+0+0/resize/4896x3264!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F26%2Fe544d725449598514b51dd7221db%2Fgettyimages-2298297976.jpg"
+    },
+    {
+      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+      "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
     },
     {
       "title": "Morning news brief",
@@ -58,12 +66,12 @@
       "thumbnail": null
     },
     {
-      "title": "Rays will face Brewers in World Series to produce a first-time champion",
-      "link": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
-      "pubDate": "Tue, 20 Oct 2026 02:28:10 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3319x2213+0+0/resize/3319x2213!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2Fff%2F93f8110d4be9874c45bf573c63ad%2Fap26293134688107.jpg"
+      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+      "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+      "pubDate": "Tue, 20 Oct 2026 20:21:36 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960"
     },
     {
       "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
@@ -122,12 +130,28 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth’s-water-cycle/terrestrialwaterstorage_trends.jpg?w=2000&#038;h=1380&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
-      "pubDate": "Tue, 20 Oct 2026 01:21:38 +0000",
-      "source": "NASA",
+      "title": "Archaeologists spar over age of key South American dig site",
+      "link": "https://www.science.org/content/article/archaeologists-spar-over-age-key-south-american-dig-site",
+      "pubDate": "2026-10-20T05:20:30.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05037_opgs_edr_ncam_NRB_844669907EDR_S1250558NCAM00543M_.JPG?w=1022&#038;h=1022&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
+    },
+    {
+      "title": "As Ebola epidemic rages, Congo bets on high-stakes ‘hope’ vaccine trial",
+      "link": "https://www.science.org/content/article/ebola-epidemic-rages-congo-bets-high-stakes-hope-vaccine-trial",
+      "pubDate": "2026-10-20T04:45:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "This ‘glue gun ant’ fires sticky webs at its enemies",
+      "link": "https://www.science.org/content/article/glue-gun-ant-fires-sticky-webs-its-enemies",
+      "pubDate": "2026-10-20T03:30:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
     },
     {
       "title": "Could your chatbot tip off a scientific rival? It’s possible, researchers say",
@@ -165,30 +189,6 @@
       "title": "<cite>Science</cite>’s ‘Dance Your Ph.D.’ contest is open again",
       "link": "https://www.science.org/content/article/science-s-dance-your-ph-d-contest-open-again-2027",
       "pubDate": "2026-10-19T03:15:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Department of Justice to fund studies of gender dysphoria and violent behavior",
-      "link": "https://www.science.org/content/article/department-justice-fund-studies-gender-dysphoria-and-violent-behavior",
-      "pubDate": "2026-10-19T10:40:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "Botox was born by domesticating a killer bacterium",
-      "link": "https://www.science.org/content/article/how-scientists-domesticated-killer-bacterium",
-      "pubDate": "2026-10-16T06:15:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "USDA scientists get reprieve from lab closures, but for how long?",
-      "link": "https://www.science.org/content/article/usda-scientists-get-reprieve-lab-closures-how-long",
-      "pubDate": "2026-10-16T03:50:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -258,8 +258,48 @@
       "thumbnail": null
     },
     {
+      "title": "Gut microbiota vesicle reprogramming by Ganoderma lucidum polysaccharide alleviates mycoplasmal pneumonia via the gut-lung axis",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42900711/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020193640&v=2.20.1",
+      "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Association between functional tooth units and frailty in older adults: a cross-sectional study using NHANES 2005-2018",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42900333/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020193640&v=2.20.1",
+      "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Mechanisms by which cannabidiol promotes peripheral nerve regeneration",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42899815/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020193640&v=2.20.1",
+      "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Hidradenitis suppurativa skin microbiome: In-depth analysis and modulation by systemic therapies",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42899700/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020193640&v=2.20.1",
+      "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "The microbiome bone axis in osteomyelitis: integrating evidence from bone oral and gut microbiota",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42899069/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020193640&v=2.20.1",
+      "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
       "title": "Connecting gut microbiome composition to symptom severity and host genetics in endometriosis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42898479/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020145331&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42898479/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020193640&v=2.20.1",
       "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -267,7 +307,7 @@
     },
     {
       "title": "<em>Myroides</em> bacteremia associated with wound myiasis: A case report and focused literature review",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42898124/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020145331&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42898124/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020193640&v=2.20.1",
       "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -275,55 +315,15 @@
     },
     {
       "title": "Differences in rumen microbiome protein metabolism are associated with individual variation in rumen bloating on high-concentrate diets",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42897631/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020145331&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42897631/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020193640&v=2.20.1",
       "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Targeting ubiquitin-dependent mitochondrial autophagy and apoptosis in sarcopenia: the therapeutic potential of phytochemicals",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42897401/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020145331&v=2.20.1",
-      "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Gut microbial and metabolomic alterations associated with herpetic trigeminal neuralgia: an exploratory multi-omics study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42895014/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020145331&v=2.20.1",
-      "pubDate": "Mon, 19 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Reduced-Complexity Cultivation of Human Oral Anaerobic Bacteria Using a Microdroplet-Based Culturomics Platform",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42894962/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020145331&v=2.20.1",
-      "pubDate": "Mon, 19 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Impact of Short-Term Fluoride Supplementation in Pregnancy on the Maternal Microbiome, Pregnancy, and Neonatal Outcomes: A Pilot Randomized Controlled Trial",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42894768/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020145331&v=2.20.1",
-      "pubDate": "Mon, 19 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Oral Candida colonisation and cariogenic bacteria in children and adolescents with cleft lip and/or palate: A systematic review and meta-analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42894730/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261020145331&v=2.20.1",
-      "pubDate": "Mon, 19 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
       "thumbnail": null
     },
     {
       "title": "Basal Cell Carcinoma May Be Associated With Staphylococcus Dysbiosis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42888864/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020145331&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42888864/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020193640&v=2.20.1",
       "pubDate": "Sat, 17 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -331,7 +331,7 @@
     },
     {
       "title": "Community composition drives metabolic competition and Staphylococcus aureus colonization resistance in synthetic nasal communities",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873131/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020145331&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42873131/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020193640&v=2.20.1",
       "pubDate": "Wed, 14 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -339,7 +339,7 @@
     },
     {
       "title": "Serotype-independent inhibition of <em>S. pneumoniae</em> by SMiTE, a commensal-derived bacteriocin",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42861988/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020145331&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42861988/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020193640&v=2.20.1",
       "pubDate": "Mon, 12 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -347,7 +347,7 @@
     },
     {
       "title": "Processing-driven flavor remodeling and gut-protective effects of black and green Forsythia suspensa leaf teas",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42859044/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020145331&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42859044/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020193640&v=2.20.1",
       "pubDate": "Sat, 10 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -355,7 +355,7 @@
     },
     {
       "title": "Integrated-omics endotyping of patients with chronic rhinosinusitis with nasal polyps and their response to glucocorticoid therapy",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42854989/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020145331&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42854989/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020193640&v=2.20.1",
       "pubDate": "Fri, 09 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -363,7 +363,7 @@
     },
     {
       "title": "Jianpi Biyan formula ameliorates spleen-deficiency-type allergic rhinitis and modulates the gut-nose axis: Integrated evidence from gut microbiota, SCFA metabolism, and TLR4/NF-kappaB signaling",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42851337/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020145331&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42851337/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020193640&v=2.20.1",
       "pubDate": "Fri, 09 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -371,7 +371,7 @@
     },
     {
       "title": "Senecio scandens extract alleviates allergic rhinitis by attenuating epithelial inflammation and modulating gut microbiota balance",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42833064/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020145331&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42833064/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020193640&v=2.20.1",
       "pubDate": "Mon, 05 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -379,7 +379,7 @@
     },
     {
       "title": "Niche-specific immune and microbial signatures across the healthy upper respiratory tract mucosa",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42823956/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020145331&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42823956/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261020193640&v=2.20.1",
       "pubDate": "Fri, 02 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -454,13 +454,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 68,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 43,
         "temperatureUnit": "F",
@@ -480,6 +473,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Thursday",
+        "temperature": 71,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       }
     ]
   }
