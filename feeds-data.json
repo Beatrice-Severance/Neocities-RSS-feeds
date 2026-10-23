@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:11:37.002Z",
+  "generatedAt": "2026-10-23T03:22:45.314Z",
   "items": [
     {
       "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
@@ -42,14 +42,6 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x4667+0+0/resize/7000x4667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F71%2F820e6ba548dfabffd935a504e3e6%2Fgettyimages-2264847017.jpg"
     },
     {
-      "title": "Trump merchandise stores are closing: 'He has peaked'",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-      "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F12%2Fce971cb04c06a4a07472c7528d90%2Fwhatsapp-image-2026-10-19-at-17-52-19.jpeg"
-    },
-    {
       "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
       "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
       "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
@@ -64,6 +56,30 @@
       "source": "NPR News",
       "category": "News",
       "thumbnail": null
+    },
+    {
+      "title": "Trump merchandise stores are closing: 'He has peaked'",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
+      "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F12%2Fce971cb04c06a4a07472c7528d90%2Fwhatsapp-image-2026-10-19-at-17-52-19.jpeg"
+    },
+    {
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+      "pubDate": "Thu, 22 Oct 2026 21:39:58 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "Spiral’s Edge",
+      "link": "https://www.nasa.gov/image-article/spirals-edge/",
+      "pubDate": "Thu, 22 Oct 2026 21:35:38 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048"
     },
     {
       "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses ",
@@ -114,20 +130,12 @@
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg?w=2048"
     },
     {
-      "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
-      "link": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
-      "pubDate": "Wed, 21 Oct 2026 16:31:11 +0000",
-      "source": "NASA",
+      "title": "Europe’s summer heat wave killed more than 50,000 people in urban areas",
+      "link": "https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas",
+      "pubDate": "2026-10-22T07:01:00.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920"
-    },
-    {
-      "title": "Tracks Along the Longest Drive on Another World",
-      "link": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-      "pubDate": "Wed, 21 Oct 2026 15:50:44 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_NLF_2006_0845030184_441ECM_N0911496NCAM03006_04_195J.jpg?w=1288&#038;h=968&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
     },
     {
       "title": "First human death linked to recently discovered livestock virus in Europe",
@@ -181,14 +189,6 @@
       "title": "Archaeology fight reopens wounds over peopling of the Americas",
       "link": "https://www.science.org/content/article/archaeologists-spar-over-age-key-south-american-dig-site",
       "pubDate": "2026-10-20T05:20:30.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "As Ebola epidemic rages, Congo bets on high-stakes ‘hope’ vaccine trial",
-      "link": "https://www.science.org/content/article/ebola-epidemic-rages-congo-bets-high-stakes-hope-vaccine-trial",
-      "pubDate": "2026-10-20T04:45:00.000Z",
       "source": "Science (AAAS)",
       "category": "Science",
       "thumbnail": null
@@ -258,8 +258,40 @@
       "thumbnail": null
     },
     {
+      "title": "Sodium Alginate Modification as a Promising Strategy for Inducing Oral Immune Tolerance to Fish Gelatin-Based Cell Scaffolds to Control Allergenic Risks",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42904975/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022232244&v=2.20.1",
+      "pubDate": "Thu, 22 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Correction: The oral immune and inflammatory network under circadian clock control",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42903427/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022232244&v=2.20.1",
+      "pubDate": "Thu, 22 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Butyrate-associated antiproliferative and antitumor effects of <em>Eubacterium limosum</em> KGMB01548 in colorectal cancer",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42903311/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022232244&v=2.20.1",
+      "pubDate": "Thu, 22 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Manganese dioxide nanozyme alleviates PEDV GIIc-associated growth retardation in neonatal piglets by improving antioxidant status, intestinal morphology, and manganese homeostasis",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42903197/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022232244&v=2.20.1",
+      "pubDate": "Thu, 22 Oct 2026 06:00:00 -0400",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
       "title": "Natural products shape microbial ecology and disease in the cystic fibrosis airway",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42902746/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42902746/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022232244&v=2.20.1",
       "pubDate": "Thu, 22 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -267,7 +299,7 @@
     },
     {
       "title": "Aspiration Thrombectomy for High-Risk Pulmonary Embolism With Life-Threatening Anemia and Active Uterine Bleeding: A Case Report",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42902551/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42902551/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022232244&v=2.20.1",
       "pubDate": "Wed, 21 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -275,7 +307,7 @@
     },
     {
       "title": "Metagenomic analysis of oral microbiota in Chinese children with obesity",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42902048/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42902048/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022232244&v=2.20.1",
       "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -283,39 +315,7 @@
     },
     {
       "title": "Recovering anaerobic bacterial genomes in saliva, tumour and blood whole genome sequencing data from patients with prostate cancer",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42901952/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022171135&v=2.20.1",
-      "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Gut microbiota vesicle reprogramming by Ganoderma lucidum polysaccharide alleviates mycoplasmal pneumonia via the gut-lung axis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42900711/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022171135&v=2.20.1",
-      "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Association between functional tooth units and frailty in older adults: a cross-sectional study using NHANES 2005-2018",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42900333/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022171135&v=2.20.1",
-      "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Mechanisms by which cannabidiol promotes peripheral nerve regeneration",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42899815/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022171135&v=2.20.1",
-      "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Hidradenitis suppurativa skin microbiome: In-depth analysis and modulation by systemic therapies",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42899700/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42901952/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261022232244&v=2.20.1",
       "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -323,7 +323,7 @@
     },
     {
       "title": "Yupingfeng alleviates allergic rhinitis by modulating gut microbiota and succinate to inhibit mTOR/S6K signaling",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42901457/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42901457/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022232244&v=2.20.1",
       "pubDate": "Tue, 20 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -331,7 +331,7 @@
     },
     {
       "title": "Basal Cell Carcinoma May Be Associated With Staphylococcus Dysbiosis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42888864/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42888864/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022232244&v=2.20.1",
       "pubDate": "Sat, 17 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -339,7 +339,7 @@
     },
     {
       "title": "Community composition drives metabolic competition and Staphylococcus aureus colonization resistance in synthetic nasal communities",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42873131/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42873131/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022232244&v=2.20.1",
       "pubDate": "Wed, 14 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -347,7 +347,7 @@
     },
     {
       "title": "Serotype-independent inhibition of <em>S. pneumoniae</em> by SMiTE, a commensal-derived bacteriocin",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42861988/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42861988/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022232244&v=2.20.1",
       "pubDate": "Mon, 12 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -355,7 +355,7 @@
     },
     {
       "title": "Processing-driven flavor remodeling and gut-protective effects of black and green Forsythia suspensa leaf teas",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42859044/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42859044/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022232244&v=2.20.1",
       "pubDate": "Sat, 10 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -363,7 +363,7 @@
     },
     {
       "title": "Integrated-omics endotyping of patients with chronic rhinosinusitis with nasal polyps and their response to glucocorticoid therapy",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42854989/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42854989/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022232244&v=2.20.1",
       "pubDate": "Fri, 09 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -371,7 +371,7 @@
     },
     {
       "title": "Jianpi Biyan formula ameliorates spleen-deficiency-type allergic rhinitis and modulates the gut-nose axis: Integrated evidence from gut microbiota, SCFA metabolism, and TLR4/NF-kappaB signaling",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42851337/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42851337/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022232244&v=2.20.1",
       "pubDate": "Fri, 09 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -379,9 +379,25 @@
     },
     {
       "title": "Senecio scandens extract alleviates allergic rhinitis by attenuating epithelial inflammation and modulating gut microbiota balance",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42833064/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022171135&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42833064/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261022232244&v=2.20.1",
       "pubDate": "Mon, 05 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "A toxic friendship drives gut dysmotility",
+      "link": "https://www.nature.com/articles/s41564-026-02517-x",
+      "pubDate": "2026-10-22T00:00:00.000Z",
+      "source": "Nature Microbiology",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Steroid hormones produced by coral-associated <i>Endozoicomonas</i> influence coral immune response during thermal stress",
+      "link": "https://www.nature.com/articles/s41564-026-02494-1",
+      "pubDate": "2026-10-22T00:00:00.000Z",
+      "source": "Nature Microbiology",
       "category": "Microbiome",
       "thumbnail": null
     },
@@ -432,37 +448,14 @@
       "source": "Nature Microbiology",
       "category": "Microbiome",
       "thumbnail": null
-    },
-    {
-      "title": "Publisher Correction: Microbiota-derived 10-hydroxystearic acid activates PPARα to restore gut epithelial barrier integrity and enhance anti-retroviral therapy",
-      "link": "https://www.nature.com/articles/s41564-026-02530-0",
-      "pubDate": "2026-10-16T00:00:00.000Z",
-      "source": "Nature Microbiology",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Acute infection as a driver of chronic diseases and the unsung benefits of vaccination",
-      "link": "https://www.nature.com/articles/s41564-026-02506-0",
-      "pubDate": "2026-10-16T00:00:00.000Z",
-      "source": "Nature Microbiology",
-      "category": "Microbiome",
-      "thumbnail": null
     }
   ],
   "weather": {
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 74,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 50,
+        "temperature": 51,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
@@ -480,6 +473,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+      },
+      {
+        "name": "Saturday",
+        "temperature": 71,
+        "temperatureUnit": "F",
+        "shortForecast": "Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       }
     ]
   }
