@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-02T21:23:28.751Z",
+  "generatedAt": "2026-11-03T05:21:07.057Z",
   "items": [
+    {
+      "title": "Here are Arkansas' 2026 election results",
+      "link": "https://www.npr.org/2026/11/03/g-s1-147136/arkansas-election-results-2026",
+      "pubDate": "Tue, 03 Nov 2026 00:01:00 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/1600x900!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4b%2F18%2F891feacc4871a8a6df3797f9510d%2Fstate-ar-1.png"
+    },
     {
       "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
       "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
@@ -26,7 +34,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fcb%2F16f82eca423aa567a3f7b440f7ae%2Fgettyimages-2185699833.jpg"
     },
     {
-      "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
+      "title": "The Supreme Court rejects a DOJ push to separate California ballots",
       "link": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
       "pubDate": "Mon, 02 Nov 2026 11:34:17 -0500",
       "source": "NPR News",
@@ -50,20 +58,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4735x3157+0+0/resize/4735x3157!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2Fae%2F72c32e9e4280ab25ed64537115d5%2Fgettyimages-2261837536.jpg"
     },
     {
-      "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
-      "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8373x5573+0+0/resize/8373x5573!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F88%2F0f%2Fe3ea9f5f421298d180066e3682d7%2Fgettyimages-2289104970.jpg"
-    },
-    {
       "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
       "link": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
       "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
       "source": "NPR News",
       "category": "News",
       "thumbnail": null
+    },
+    {
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "pubDate": "Mon, 02 Nov 2026 21:35:59 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/10/s63-11625.jpg?w=1536"
     },
     {
       "title": "TB 26-09 Measured Hammer-Tap Inputs",
@@ -122,12 +130,20 @@
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025.jpg?w=2048&#038;h=1991&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
-      "title": "APOD: 2026 November 1 – Colors of the Moon",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-      "pubDate": "Sun, 01 Nov 2026 04:05:00 +0000",
-      "source": "NASA",
+      "title": "U.S. approval of cheap, generic HIV prevention shot may boost global rollout",
+      "link": "https://www.science.org/content/article/u-s-approval-cheap-generic-hiv-prevention-shot-may-boost-global-rollout",
+      "pubDate": "2026-11-02T05:25:45.000Z",
+      "source": "Science (AAAS)",
       "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg?w=960&#038;h=991&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+      "thumbnail": null
+    },
+    {
+      "title": "Did scientists just find 115-million-year-old dinosaur blood?",
+      "link": "https://www.science.org/content/article/did-scientists-just-find-115-million-year-old-dinosaur-blood",
+      "pubDate": "2026-11-02T03:50:00.000Z",
+      "source": "Science (AAAS)",
+      "category": "Science",
+      "thumbnail": null
     },
     {
       "title": "‘Cellophane’ bees make their nests from biodegradable plastic",
@@ -178,18 +194,10 @@
       "thumbnail": null
     },
     {
-      "title": "Who wrote that paper? AI use spurs debate over scientific authorship",
-      "link": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
-      "pubDate": "2026-10-29T11:55:00.000Z",
-      "source": "Science (AAAS)",
-      "category": "Science",
-      "thumbnail": null
-    },
-    {
-      "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
-      "link": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
-      "pubDate": "2026-10-28T05:25:00.000Z",
-      "source": "Science (AAAS)",
+      "title": "Chinese PhD students in clinical medicine can graduate without a thesis — more degrees to follow",
+      "link": "https://www.nature.com/articles/d41586-026-03480-7",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
@@ -250,16 +258,56 @@
       "thumbnail": null
     },
     {
-      "title": "In Indonesia, PhD students blow the whistle on bad supervision",
-      "link": "https://www.nature.com/articles/d41586-026-02465-w",
-      "pubDate": "2026-11-02T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
+      "title": "Microbiota in liver carcinogenesis: Illuminating the complex relationship",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42971664/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261103002106&v=2.20.1",
+      "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Fusobacterium nucleatum in cancer: prognostic relevance and clinical implications",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42971660/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261103002106&v=2.20.1",
+      "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Cachexia Defined by the Asian Working Group for Cachexia 2023 Criteria and Gut Microbiota Diversity in Post-Stroke Patients Capable of Oral Intake",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42971532/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261103002106&v=2.20.1",
+      "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Polystyrene nanoplastics exacerbate hepatic insulin resistance and glycolipid metabolism disorders in high‑fat diet‑induced obese mice",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42971048/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261103002106&v=2.20.1",
+      "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Fungal suppression by bacterial metabolite-activated human intestinal γδT-cells is disrupted in Crohn's disease",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42970564/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261103002106&v=2.20.1",
+      "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Salivary microbiome, socioeconomic status, and cognitive performance: Triangulating the relationship",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42970519/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261103002106&v=2.20.1",
+      "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
       "thumbnail": null
     },
     {
       "title": "Chemoprotective effect of pinoresinol diglucoside against 1,2-dimethylhydrazine-induced colorectal cancer through regulation of nuclear factor-kappa B/inducible nitric oxide synthase/cyclooxygenase-2 signaling and gut dysbiosis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42969994/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261102162327&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42969994/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261103002106&v=2.20.1",
       "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -267,63 +315,15 @@
     },
     {
       "title": "Iron Boride Nanostructures as Oral Acid-Responsive Hydrogen Donors for Alzheimer's Disease Therapy",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42969693/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261102162327&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42969693/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261103002106&v=2.20.1",
       "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Blueberry phytochemicals modulate the gut-vascular axis through microbiome-metabolome interaction",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42969403/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261102162327&v=2.20.1",
-      "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "<em>Faecalibacterium prausnitzii</em>-associated 18β-glycyrrhetinic acid protects against sepsis via ABCC1-mediated suppression of MAPK/NF-κB signaling",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42969360/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261102162327&v=2.20.1",
-      "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Underlying Mechanisms of Helicobacter pylori in Caries Progression and the Corresponding Dual-Responsive Hydrogel-Based Intervention",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42969304/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261102162327&v=2.20.1",
-      "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Bidirectional Interplay Between Periodontitis and Alzheimer's Disease: Mechanisms, Clinical Management, and Preventive Strategies",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42966961/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261102162327&v=2.20.1",
-      "pubDate": "Sun, 01 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Metagenomic Features of Oral Microbiome in Tibetan Dental Caries Patients: An Exploratory Study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42966564/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261102162327&v=2.20.1",
-      "pubDate": "Sat, 31 Oct 2026 06:00:00 -0400",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Metabolic conversion of dioscin-diosgenin and their interactions with gut microbiota: recent advances",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42966154/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261102162327&v=2.20.1",
-      "pubDate": "Sat, 31 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
       "thumbnail": null
     },
     {
       "title": "A prospective controlled evaluation of winterized Pistacia lentiscus oil nasal spray in vasomotor rhinitis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42959128/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261102162327&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42959128/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261103002106&v=2.20.1",
       "pubDate": "Fri, 30 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -331,7 +331,7 @@
     },
     {
       "title": "Respiratory and gastrointestinal mycobiome profiles identify distinct patient clusters associated with asthma control",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42957060/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261102162327&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42957060/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261103002106&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -339,7 +339,7 @@
     },
     {
       "title": "Exploratory analysis of nasal and gut microbial community structure in preschool children with recurrent wheeze",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42955378/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261102162327&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42955378/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261103002106&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -347,7 +347,7 @@
     },
     {
       "title": "The Origins of Allergy: An Outside-In, Bioenergetic Hypothesis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42954029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261102162327&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42954029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261103002106&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -355,7 +355,7 @@
     },
     {
       "title": "Benchmarking and optimisation of bait-capture metagenomics for sequencing of respiratory viruses at scale",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42947248/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261102162327&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42947248/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261103002106&v=2.20.1",
       "pubDate": "Wed, 28 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -363,7 +363,7 @@
     },
     {
       "title": "Local Microenvironment in Adenoid Hypertrophy and Its Clinical Relevance",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42944802/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261102162327&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42944802/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261103002106&v=2.20.1",
       "pubDate": "Tue, 27 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -371,7 +371,7 @@
     },
     {
       "title": "A Synbiotic for the Oral-Nasal Gateway: The Mechanistic Rationale, Pathogen-Targeting Profile, and Implications for Gut and Pulmonary Health",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42940073/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261102162327&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42940073/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261103002106&v=2.20.1",
       "pubDate": "Tue, 27 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -379,7 +379,7 @@
     },
     {
       "title": "Upper respiratory virome signatures reflect COVID-19 severity and post-recovery shifts",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42936086/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261102162327&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42936086/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261103002106&v=2.20.1",
       "pubDate": "Tue, 27 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -454,32 +454,32 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 66,
-        "temperatureUnit": "F",
-        "shortForecast": "Light Rain Likely",
-        "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium"
-      },
-      {
         "name": "Tonight",
-        "temperature": 60,
+        "temperature": 59,
         "temperatureUnit": "F",
         "shortForecast": "Light Rain",
-        "icon": "https://api.weather.gov/icons/land/night/tsra,80?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/tsra,70/tsra,90?size=medium"
       },
       {
         "name": "Tuesday",
-        "temperature": 70,
+        "temperature": 67,
         "temperatureUnit": "F",
-        "shortForecast": "Light Rain",
-        "icon": "https://api.weather.gov/icons/land/day/rain,80/tsra,70?size=medium"
+        "shortForecast": "Slight Chance T-storms then Light Rain",
+        "icon": "https://api.weather.gov/icons/land/day/tsra,80/tsra,90?size=medium"
       },
       {
         "name": "Tuesday Night",
         "temperature": 55,
         "temperatureUnit": "F",
         "shortForecast": "Light Rain",
-        "icon": "https://api.weather.gov/icons/land/night/rain,90/rain,80?size=medium"
+        "icon": "https://api.weather.gov/icons/land/night/tsra,100/tsra,90?size=medium"
+      },
+      {
+        "name": "Wednesday",
+        "temperature": 60,
+        "temperatureUnit": "F",
+        "shortForecast": "Light Rain Likely",
+        "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,40?size=medium"
       }
     ]
   }
