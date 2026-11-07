@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-07T17:25:08.446Z",
+  "generatedAt": "2026-11-07T21:26:45.641Z",
   "items": [
+    {
+      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+      "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+      "pubDate": "Sat, 07 Nov 2026 15:18:18 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F77%2F67a1bd07484b844a6a8d15b90a17%2Fap26301008182475.jpg"
+    },
+    {
+      "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+      "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+      "pubDate": "Sat, 07 Nov 2026 13:37:36 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x4667+0+0/resize/7000x4667!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2Ffc%2Fbb0a469b492cbf28c12a5f5439e8%2Fap26311614976633.jpg"
+    },
     {
       "title": "Ousted Paraguayan president appears before prosecutors",
       "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
@@ -50,20 +66,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdc%2Fd6%2F9429fa5a4e848885d1ed84dab3ce%2F261016-data-center-turner-04.JPG"
     },
     {
-      "title": "The economy propelled Democrats to victory. What can they actually do about it?",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-      "pubDate": "Fri, 06 Nov 2026 16:53:10 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5139x3426+0+0/resize/5139x3426!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Ff3%2F216d65034f5a96ee4c0176aa44c8%2Fgettyimages-2277503865.jpg"
-    },
-    {
-      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-      "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-      "pubDate": "Fri, 06 Nov 2026 15:42:51 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8069x5380+0+0/resize/8069x5380!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F6c%2F50cd0c0a4ea1b5b817c6d594d7b6%2Fap26300479457875.jpg"
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+      "pubDate": "Sat, 07 Nov 2026 18:11:57 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920"
     },
     {
       "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/11/freedom-crossing-downlink-nov-5.jpg?w=1920"
-    },
-    {
-      "title": "Hubble Learns Galactic History From Stars",
-      "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-      "pubDate": "Thu, 05 Nov 2026 12:56:21 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg?w=2048&#038;h=1806&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures",
@@ -259,7 +259,7 @@
     },
     {
       "title": "Hand hygiene versus continued glove use in simulated nursing care: a crossover study on microbial kinetics and unintended transmission",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42972601/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107122507&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42972601/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
       "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -267,7 +267,7 @@
     },
     {
       "title": "A prospective controlled evaluation of winterized Pistacia lentiscus oil nasal spray in vasomotor rhinitis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42959128/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107122507&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42959128/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
       "pubDate": "Fri, 30 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -275,7 +275,7 @@
     },
     {
       "title": "Respiratory and gastrointestinal mycobiome profiles identify distinct patient clusters associated with asthma control",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42957060/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107122507&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42957060/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -283,7 +283,7 @@
     },
     {
       "title": "Exploratory analysis of nasal and gut microbial community structure in preschool children with recurrent wheeze",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42955378/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107122507&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42955378/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -291,7 +291,7 @@
     },
     {
       "title": "The Origins of Allergy: An Outside-In, Bioenergetic Hypothesis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42954029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107122507&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42954029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -299,7 +299,7 @@
     },
     {
       "title": "Benchmarking and optimisation of bait-capture metagenomics for sequencing of respiratory viruses at scale",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42947248/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107122507&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42947248/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
       "pubDate": "Wed, 28 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -307,7 +307,7 @@
     },
     {
       "title": "Local Microenvironment in Adenoid Hypertrophy and Its Clinical Relevance",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42944802/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107122507&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42944802/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
       "pubDate": "Tue, 27 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -315,7 +315,7 @@
     },
     {
       "title": "A Synbiotic for the Oral-Nasal Gateway: The Mechanistic Rationale, Pathogen-Targeting Profile, and Implications for Gut and Pulmonary Health",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42940073/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107122507&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42940073/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
       "pubDate": "Tue, 27 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -390,11 +390,11 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Today",
+        "name": "This Afternoon",
         "temperature": 51,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+        "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
       },
       {
         "name": "Tonight",
@@ -412,10 +412,10 @@
       },
       {
         "name": "Sunday Night",
-        "temperature": 35,
+        "temperature": 32,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
+        "shortForecast": "Mostly Clear",
+        "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
       }
     ]
   }
