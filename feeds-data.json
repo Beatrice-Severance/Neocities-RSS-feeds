@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T00:36:06.996Z",
+  "generatedAt": "2026-11-07T09:37:08.024Z",
   "items": [
     {
       "title": "Israel's Arab-led parties in spotlight after inconclusive election",
@@ -66,6 +66,14 @@
       "thumbnail": null
     },
     {
+      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "pubDate": "Sat, 07 Nov 2026 05:05:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg?w=1500&#038;h=1022&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
       "title": "M30’s Sparkling Stars",
       "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
       "pubDate": "Fri, 06 Nov 2026 16:23:41 +0000",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg?w=2048&#038;h=1806&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
-    },
-    {
-      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "pubDate": "Thu, 05 Nov 2026 05:05:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png?w=982&#038;h=575&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
     },
     {
       "title": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures",
@@ -259,7 +259,7 @@
     },
     {
       "title": "Hand hygiene versus continued glove use in simulated nursing care: a crossover study on microbial kinetics and unintended transmission",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42972601/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261106193606&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42972601/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107043706&v=2.20.1",
       "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -267,7 +267,7 @@
     },
     {
       "title": "A prospective controlled evaluation of winterized Pistacia lentiscus oil nasal spray in vasomotor rhinitis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42959128/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261106193606&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42959128/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107043706&v=2.20.1",
       "pubDate": "Fri, 30 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -275,7 +275,7 @@
     },
     {
       "title": "Respiratory and gastrointestinal mycobiome profiles identify distinct patient clusters associated with asthma control",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42957060/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261106193606&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42957060/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107043706&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -283,7 +283,7 @@
     },
     {
       "title": "Exploratory analysis of nasal and gut microbial community structure in preschool children with recurrent wheeze",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42955378/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261106193606&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42955378/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107043706&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -291,7 +291,7 @@
     },
     {
       "title": "The Origins of Allergy: An Outside-In, Bioenergetic Hypothesis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42954029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261106193606&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42954029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107043706&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -299,7 +299,7 @@
     },
     {
       "title": "Benchmarking and optimisation of bait-capture metagenomics for sequencing of respiratory viruses at scale",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42947248/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261106193606&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42947248/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107043706&v=2.20.1",
       "pubDate": "Wed, 28 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -307,7 +307,7 @@
     },
     {
       "title": "Local Microenvironment in Adenoid Hypertrophy and Its Clinical Relevance",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42944802/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261106193606&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42944802/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107043706&v=2.20.1",
       "pubDate": "Tue, 27 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -315,7 +315,7 @@
     },
     {
       "title": "A Synbiotic for the Oral-Nasal Gateway: The Mechanistic Rationale, Pathogen-Targeting Profile, and Implications for Gut and Pulmonary Health",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42940073/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261106193606&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42940073/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107043706&v=2.20.1",
       "pubDate": "Tue, 27 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -390,8 +390,8 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "Tonight",
-        "temperature": 28,
+        "name": "Overnight",
+        "temperature": 30,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
@@ -405,14 +405,14 @@
       },
       {
         "name": "Saturday Night",
-        "temperature": 39,
+        "temperature": 37,
         "temperatureUnit": "F",
         "shortForecast": "Partly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/sct?size=medium"
       },
       {
         "name": "Sunday",
-        "temperature": 56,
+        "temperature": 57,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
