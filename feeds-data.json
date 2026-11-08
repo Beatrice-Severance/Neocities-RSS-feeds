@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-07T21:26:45.641Z",
+  "generatedAt": "2026-11-08T04:27:07.109Z",
   "items": [
+    {
+      "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+      "pubDate": "Sat, 07 Nov 2026 19:19:52 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2F55%2Fd90a15694546848291f987d5ec35%2Fap23139601436536.jpg"
+    },
+    {
+      "title": "The surprising and often forgotten history of economic populism in Texas",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
+      "pubDate": "Sat, 07 Nov 2026 17:12:07 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
     {
       "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
       "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
@@ -10,7 +26,7 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F77%2F67a1bd07484b844a6a8d15b90a17%2Fap26301008182475.jpg"
     },
     {
-      "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+      "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
       "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
       "pubDate": "Sat, 07 Nov 2026 13:37:36 -0500",
       "source": "NPR News",
@@ -50,20 +66,12 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2059x1367+0+0/resize/2059x1367!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2Fd2%2F7a80d4954842a7193d194eec3b3b%2Fgettyimages-585797523.jpg"
     },
     {
-      "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
-      "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
-      "pubDate": "Sat, 07 Nov 2026 06:50:21 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3060x2886+0+0/resize/3060x2886!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Ff7%2Fee82be5d4122ae3fb680e7233b63%2Fprincess-diana-award-winner-3.jpg"
-    },
-    {
-      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-      "pubDate": "Sat, 07 Nov 2026 05:00:00 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdc%2Fd6%2F9429fa5a4e848885d1ed84dab3ce%2F261016-data-center-turner-04.JPG"
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "pubDate": "Sat, 07 Nov 2026 22:47:03 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg?w=1936"
     },
     {
       "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
@@ -120,14 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg?w=2048"
-    },
-    {
-      "title": "NASA Astronauts to Answer Questions from Florida Students",
-      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
-      "pubDate": "Thu, 05 Nov 2026 15:11:25 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/11/freedom-crossing-downlink-nov-5.jpg?w=1920"
     },
     {
       "title": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures",
@@ -259,7 +259,7 @@
     },
     {
       "title": "Hand hygiene versus continued glove use in simulated nursing care: a crossover study on microbial kinetics and unintended transmission",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42972601/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42972601/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107232705&v=2.20.1",
       "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -267,7 +267,7 @@
     },
     {
       "title": "A prospective controlled evaluation of winterized Pistacia lentiscus oil nasal spray in vasomotor rhinitis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42959128/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42959128/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107232705&v=2.20.1",
       "pubDate": "Fri, 30 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -275,7 +275,7 @@
     },
     {
       "title": "Respiratory and gastrointestinal mycobiome profiles identify distinct patient clusters associated with asthma control",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42957060/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42957060/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107232705&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -283,7 +283,7 @@
     },
     {
       "title": "Exploratory analysis of nasal and gut microbial community structure in preschool children with recurrent wheeze",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42955378/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42955378/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107232705&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -291,7 +291,7 @@
     },
     {
       "title": "The Origins of Allergy: An Outside-In, Bioenergetic Hypothesis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42954029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42954029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107232705&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -299,7 +299,7 @@
     },
     {
       "title": "Benchmarking and optimisation of bait-capture metagenomics for sequencing of respiratory viruses at scale",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42947248/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42947248/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107232705&v=2.20.1",
       "pubDate": "Wed, 28 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -307,7 +307,7 @@
     },
     {
       "title": "Local Microenvironment in Adenoid Hypertrophy and Its Clinical Relevance",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42944802/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42944802/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107232705&v=2.20.1",
       "pubDate": "Tue, 27 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -315,7 +315,7 @@
     },
     {
       "title": "A Synbiotic for the Oral-Nasal Gateway: The Mechanistic Rationale, Pathogen-Targeting Profile, and Implications for Gut and Pulmonary Health",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42940073/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107162644&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42940073/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261107232705&v=2.20.1",
       "pubDate": "Tue, 27 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -390,13 +390,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 51,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 37,
         "temperatureUnit": "F",
@@ -405,7 +398,7 @@
       },
       {
         "name": "Sunday",
-        "temperature": 58,
+        "temperature": 57,
         "temperatureUnit": "F",
         "shortForecast": "Sunny",
         "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
@@ -416,6 +409,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Monday",
+        "temperature": 59,
+        "temperatureUnit": "F",
+        "shortForecast": "Partly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       }
     ]
   }
