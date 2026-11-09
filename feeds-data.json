@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-08T19:19:17.375Z",
+  "generatedAt": "2026-11-09T00:31:47.967Z",
   "items": [
+    {
+      "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+      "pubDate": "Sun, 08 Nov 2026 19:17:43 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4432x2952+0+0/resize/4432x2952!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2Fdd%2F043cc9a24616accf483cbf99a1e6%2Fap26294365742048.jpg"
+    },
+    {
+      "title": "NASA is looking for astronauts to live and work on the Moon",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+      "pubDate": "Sun, 08 Nov 2026 18:36:47 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4599x3066+0+0/resize/4599x3066!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc0%2Fdc73c7204565a92b1ac2edbf6cdf%2Fap26240473368494.jpg"
+    },
+    {
+      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+      "pubDate": "Sun, 08 Nov 2026 14:25:30 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8144x5424+0+0/resize/8144x5424!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2Fa1%2F91147a0b4187a331f76a4c33d532%2Fap26311445819542.jpg"
+    },
     {
       "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
       "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
@@ -26,44 +50,20 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2706x1804+0+0/resize/2706x1804!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F3b%2Fc4576aa14f7f879c8f83e8b05046%2Fap26307590155292.jpg"
     },
     {
+      "title": "SS United States, a historic ship will be sunk to create an artificial reef",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+      "pubDate": "Sun, 08 Nov 2026 08:34:34 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": null
+    },
+    {
       "title": "Climate change is altering the colors we see in the world: an illustrated journey",
       "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
       "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
       "source": "NPR News",
       "category": "News",
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1152x648+0+0/resize/1152x648!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Ff9%2F784a099b4ab8a193c67e536a056e%2Fpromo.gif"
-    },
-    {
-      "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
-      "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3875x2584+0+0/resize/3875x2584!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2Fb0%2F3f6e14cb4c33b4c784b12013ff0a%2Flifeflight-7086.jpg"
-    },
-    {
-      "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
-      "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2998+0+0/resize/4000x2998!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F27%2F4d4fe4984450a672595971ed542a%2Fdesert-bloom-t-merino-87.jpg"
-    },
-    {
-      "title": "How Gen Z voters helped fuel a blue wave for Democrats",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
-      "pubDate": "Sun, 08 Nov 2026 05:00:00 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7917x5278+0+0/resize/7917x5278!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2Fa7%2F31e1b4de4a5e8fe803acc18eb67a%2Fgettyimages-2303442594.jpg"
-    },
-    {
-      "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-      "pubDate": "Sun, 08 Nov 2026 02:35:29 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4492x3208+0+0/resize/4492x3208!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Ffa%2F3f790b7e481ea32d03d42cae34fe%2Fap26311730542307.jpg"
     },
     {
       "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
@@ -259,7 +259,7 @@
     },
     {
       "title": "Fecal microbiota capsule transplantation plus immunotherapy as first-line maintenance therapy for patients with malignant solid tumors: A single-arm, dose-escalation, exploratory phase I study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42998537/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42998537/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108193146&v=2.20.1",
       "pubDate": "Sat, 07 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -267,7 +267,7 @@
     },
     {
       "title": "Starch-chitosan composite particle-stabilized Pickering emulsions for oral celastrol delivery and gut-brain axis-mediated neuroinflammation therapy",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42998452/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42998452/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108193146&v=2.20.1",
       "pubDate": "Sat, 07 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -275,7 +275,7 @@
     },
     {
       "title": "Beyond the brain: curcumin as a multi-target neuropharmacological modulator of the gut-brain axis in major depressive disorder and Parkinson's disease",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42998156/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42998156/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108193146&v=2.20.1",
       "pubDate": "Sat, 07 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -283,7 +283,7 @@
     },
     {
       "title": "Antibiotic Exposure and Treatment Outcomes in Head and Neck Squamous Cell Carcinoma and Nasopharyngeal Carcinoma: A Systematic Review and Meta-Analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42998127/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42998127/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108193146&v=2.20.1",
       "pubDate": "Sat, 07 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -291,7 +291,7 @@
     },
     {
       "title": "Clear aligner interface properties, oral microbial ecology, and strategies for biofilm control and caries-risk mitigation: a scoping review",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42997201/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42997201/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108193146&v=2.20.1",
       "pubDate": "Sat, 07 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -299,7 +299,7 @@
     },
     {
       "title": "Faecalibacterium prausnitzii in neurological disorders: mechanistic links and therapeutic potential along the microbiota-gut-brain axis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42996484/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42996484/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108193146&v=2.20.1",
       "pubDate": "Sat, 07 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -307,7 +307,7 @@
     },
     {
       "title": "Characterization of lower-airway microbial communities in pulmonary tuberculosis by BALF metagenomic sequencing",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42996471/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42996471/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108193146&v=2.20.1",
       "pubDate": "Sat, 07 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -315,7 +315,7 @@
     },
     {
       "title": "Tissue-resolved transcriptomic and proteomic profiling reveals organ-specific molecular signatures associated with inter-animal variation in glycemic response to metformin in obese diabetic Mongolian gerbils",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42996391/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42996391/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261108193146&v=2.20.1",
       "pubDate": "Sat, 07 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -323,7 +323,7 @@
     },
     {
       "title": "Cheese flavor formation in cream-enriched yogurt: Molecular characterization of lipid flavour precursors, aroma-active compounds, and molecular docking analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42999574/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42999574/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108193146&v=2.20.1",
       "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -331,7 +331,7 @@
     },
     {
       "title": "Nasopharyngeal microbiota as a diagnostic biomarker for chronic rhinosinusitis with nasal polyps",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42997464/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42997464/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108193146&v=2.20.1",
       "pubDate": "Sat, 07 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -339,7 +339,7 @@
     },
     {
       "title": "Hand hygiene versus continued glove use in simulated nursing care: a crossover study on microbial kinetics and unintended transmission",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42972601/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42972601/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108193146&v=2.20.1",
       "pubDate": "Mon, 02 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -347,7 +347,7 @@
     },
     {
       "title": "A prospective controlled evaluation of winterized Pistacia lentiscus oil nasal spray in vasomotor rhinitis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42959128/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42959128/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108193146&v=2.20.1",
       "pubDate": "Fri, 30 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -355,7 +355,7 @@
     },
     {
       "title": "Respiratory and gastrointestinal mycobiome profiles identify distinct patient clusters associated with asthma control",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42957060/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42957060/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108193146&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -363,7 +363,7 @@
     },
     {
       "title": "Exploratory analysis of nasal and gut microbial community structure in preschool children with recurrent wheeze",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42955378/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42955378/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108193146&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -371,7 +371,7 @@
     },
     {
       "title": "The Origins of Allergy: An Outside-In, Bioenergetic Hypothesis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42954029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42954029/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108193146&v=2.20.1",
       "pubDate": "Thu, 29 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -379,7 +379,7 @@
     },
     {
       "title": "Benchmarking and optimisation of bait-capture metagenomics for sequencing of respiratory viruses at scale",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42947248/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108141916&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42947248/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261108193146&v=2.20.1",
       "pubDate": "Wed, 28 Oct 2026 06:00:00 -0400",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -454,13 +454,6 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 59,
-        "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/skc?size=medium"
-      },
-      {
         "name": "Tonight",
         "temperature": 36,
         "temperatureUnit": "F",
@@ -480,6 +473,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
         "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+      },
+      {
+        "name": "Tuesday",
+        "temperature": 60,
+        "temperatureUnit": "F",
+        "shortForecast": "Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
       }
     ]
   }
