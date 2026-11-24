@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:22:53.871Z",
+  "generatedAt": "2026-11-24T08:23:28.220Z",
   "items": [
     {
       "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
@@ -66,6 +66,22 @@
       "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2F30%2Fd4914bc74ad997c95d4e79039c90%2Fap26327310507060.jpg"
     },
     {
+      "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/",
+      "pubDate": "Tue, 24 Nov 2026 05:05:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/NGC7771group_Marinoni_1179.jpg?w=1179&#038;h=1422&#038;fit=clip"
+    },
+    {
+      "title": "Eruption Extends Iwo Jima’s Beach",
+      "link": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/",
+      "pubDate": "Tue, 24 Nov 2026 05:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-enlarges-iwo-jima’s-beach/iwojima_oli2_20261026.jpg"
+    },
+    {
       "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
       "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
       "pubDate": "Mon, 23 Nov 2026 21:10:03 +0000",
@@ -112,22 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Ldn1251Comparison_Cruz_2160.jpg?w=2048&#038;h=2048&#038;fit=clip"
-    },
-    {
-      "title": "Laser Focus at the Top of the World",
-      "link": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
-      "pubDate": "Mon, 23 Nov 2026 05:01:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730.jpg?w=1440&#038;h=960&#038;fit=clip"
-    },
-    {
-      "title": "65 Years of Human Spaceflight at NASA Johnson ",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
-      "pubDate": "Sun, 22 Nov 2026 19:13:25 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg?w=1536"
     },
     {
       "title": "Tiny tracking device documents a record-breaking hummingbird journey",
@@ -194,6 +194,14 @@
       "thumbnail": null
     },
     {
+      "title": "COP31 went down in flames over fossil fuels — it sends an important message",
+      "link": "https://www.nature.com/articles/d41586-026-03827-0",
+      "pubDate": "2026-11-23T00:00:00.000Z",
+      "source": "Nature",
+      "category": "Science",
+      "thumbnail": null
+    },
+    {
       "title": "Continuous N-to-C Peptide Synthesis",
       "link": "https://www.nature.com/articles/s41586-026-11448-w",
       "pubDate": "2026-11-23T00:00:00.000Z",
@@ -242,16 +250,32 @@
       "thumbnail": null
     },
     {
-      "title": "<b>I</b>t’s our duty to promote ourselves: even to other scientists. Am I wrong?",
-      "link": "https://www.nature.com/articles/d41586-026-02203-2",
-      "pubDate": "2026-11-23T00:00:00.000Z",
-      "source": "Nature",
-      "category": "Science",
+      "title": "Prebiotic Potential of Codonopsis lanceolata Root Peel Extract: Attenuation of DSS-Induced Colitis Associated with Selective Modulation of the Gut Microbiota",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43073213/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261124032326&v=2.20.1",
+      "pubDate": "Mon, 23 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "System-level Mapping of the Anti-Inflammatory Mechanisms of Curcumin Through Convergent Network Pharmacology, Single-Cell Transcriptomics, and Gut Microbiome Multi-Omics: A Systems Biology Approach",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43072457/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261124032326&v=2.20.1",
+      "pubDate": "Mon, 23 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Akkermansia muciniphila extracellular vesicles enhance immunotherapy and suppress liver cancer by delivering a ferroptosis-inducing protein",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43072368/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261124032326&v=2.20.1",
+      "pubDate": "Mon, 23 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
       "thumbnail": null
     },
     {
       "title": "Formation of an inulin biocorona on food-grade titanium dioxide nanoparticles alleviates gut microbiota dysbiosis and inflammatory responses under calorie restriction",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43070872/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43070872/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261124032326&v=2.20.1",
       "pubDate": "Mon, 23 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -259,7 +283,7 @@
     },
     {
       "title": "Obesity-associated alterations in the subgingival metabolome in periodontally healthy individuals",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43070834/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43070834/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261124032326&v=2.20.1",
       "pubDate": "Mon, 23 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -267,7 +291,7 @@
     },
     {
       "title": "Integrated transcriptomics reveal fibroblast-monocyte crosstalk with JAK-STAT activation associated with <em>Parvimonas micra</em>-induced periodontitis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43070692/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43070692/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261124032326&v=2.20.1",
       "pubDate": "Mon, 23 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -275,7 +299,7 @@
     },
     {
       "title": "\"What's SUPP\": developing an in vitro model for healthy oral biofilms",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43070685/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43070685/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261124032326&v=2.20.1",
       "pubDate": "Mon, 23 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -283,31 +307,7 @@
     },
     {
       "title": "Gastric juice, but not fecal microbiota, reflects gastric mucosal microbial profiles in patients with early gastric neoplasia: implications for minimally invasive sampling",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43070620/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261123182252&v=2.20.1",
-      "pubDate": "Mon, 23 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Complete genome sequences for <em>Bacillus subtilis</em> subsp. <em>subtilis</em> CO39, AUSI98, and type strains belonging to <em>Bacillus vallismortis</em> and <em>Bacillus mojavensis</em>",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43070505/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261123182252&v=2.20.1",
-      "pubDate": "Mon, 23 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Systemic protection of Tongyang Zhixie decoction against radiation-induced intestinal injury: Role of stem cells, apozptosis, and gut microbiota",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43070144/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261123182252&v=2.20.1",
-      "pubDate": "Mon, 23 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Environmental microbial exposure as an under-measured exposome domain: Links to host microbiomes, immune regulation, and disease epidemiology",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43069764/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43070620/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261124032326&v=2.20.1",
       "pubDate": "Mon, 23 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
@@ -315,7 +315,7 @@
     },
     {
       "title": "The Increase of Tuft Cells is the Pathological Feature of Nasal Mucosa Type 2 Inflammation, and Indicates the Poor Prognosis of CRSwNP",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065167/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065167/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261124032326&v=2.20.1",
       "pubDate": "Sat, 21 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -323,7 +323,7 @@
     },
     {
       "title": "Navigating the Nasal-Brain Nexus: Intranasal Delivery of Therapeutics for Brain Tumors - from Direct Nose-to-Brain Transport to Multidimensional Antitumor Mechanisms",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061557/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061557/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261124032326&v=2.20.1",
       "pubDate": "Fri, 20 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -331,7 +331,7 @@
     },
     {
       "title": "Oral Staphylococcus carriage in healthy adults: prevalence, antimicrobial resistance, temporal patterns, and oral-nasal comparisons",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43049965/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43049965/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261124032326&v=2.20.1",
       "pubDate": "Wed, 18 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -339,7 +339,7 @@
     },
     {
       "title": "Features of the microbiome of the nasal mucosa in chronic polypous rhinosinusitis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43046749/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43046749/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261124032326&v=2.20.1",
       "pubDate": "Wed, 18 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -347,7 +347,7 @@
     },
     {
       "title": "Optimizing the treatment of patients with acute non-streptococcal tonsillopharyngitis: focusing on the impact on all stages of the etiopathogenesis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43046743/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43046743/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261124032326&v=2.20.1",
       "pubDate": "Wed, 18 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -355,7 +355,7 @@
     },
     {
       "title": "The role of nasal and gut microbiota in allergic rhinitis: immunomodulation and therapeutic prospects",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43031878/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43031878/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261124032326&v=2.20.1",
       "pubDate": "Sat, 14 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -363,7 +363,7 @@
     },
     {
       "title": "Infant RSV immunity study (IRIS): protocol for a prospective birth cohort in Vancouver, Canada examining how age at respiratory syncytial virus exposure affects how infants respond to the virus immunologically",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43020492/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43020492/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261124032326&v=2.20.1",
       "pubDate": "Thu, 12 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -371,7 +371,7 @@
     },
     {
       "title": "Adjuvant commensal therapy enhances antibiotic efficacy against Staphylococcus aureus",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43010108/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261123182252&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43010108/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261124032326&v=2.20.1",
       "pubDate": "Tue, 10 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -446,14 +446,7 @@
     "location": "Madison, WI",
     "periods": [
       {
-        "name": "This Afternoon",
-        "temperature": 38,
-        "temperatureUnit": "F",
-        "shortForecast": "Mostly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
-      },
-      {
-        "name": "Tonight",
+        "name": "Overnight",
         "temperature": 18,
         "temperatureUnit": "F",
         "shortForecast": "Mostly Clear",
@@ -461,9 +454,9 @@
       },
       {
         "name": "Tuesday",
-        "temperature": 37,
+        "temperature": 38,
         "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
+        "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       },
       {
@@ -472,6 +465,13 @@
         "temperatureUnit": "F",
         "shortForecast": "Mostly Cloudy",
         "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium"
+      },
+      {
+        "name": "Wednesday",
+        "temperature": 41,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
       }
     ]
   }
