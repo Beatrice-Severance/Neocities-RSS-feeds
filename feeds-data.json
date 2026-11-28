@@ -1,69 +1,101 @@
 {
-  "generatedAt": "2026-11-27T03:28:34.032Z",
+  "generatedAt": "2026-11-28T01:04:44.116Z",
   "items": [
     {
-      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-      "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
-      "pubDate": "Thu, 26 Nov 2026 08:47:09 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fce%2F2b1557be47b9bc08a682a6d8f98f%2Fap26329472681866.jpg"
-    },
-    {
-      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-      "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-      "pubDate": "Thu, 26 Nov 2026 08:31:28 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2965x1965+0+0/resize/2965x1965!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2Fca%2Fa076c10a456fae30c7079d94f200%2Fap26330009741123.jpg"
-    },
-    {
-      "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
-      "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
-      "pubDate": "Thu, 26 Nov 2026 07:24:29 -0500",
+      "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+      "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+      "pubDate": "Fri, 27 Nov 2026 06:59:02 -0500",
       "source": "NPR News",
       "category": "News",
       "thumbnail": null
     },
     {
-      "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
-      "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
-      "pubDate": "Thu, 26 Nov 2026 05:00:00 -0500",
+      "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+      "pubDate": "Fri, 27 Nov 2026 06:49:50 -0500",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F06%2F3c7f4c4640bda21c7b9bb12a5fd4%2F2026-10-route66newmexicofood-39.JPG"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2888x1926+0+0/resize/2888x1926!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2Fea%2Ff523d8f84dfa9012828ba7f8a0e5%2Fap26330526061869.jpg"
     },
     {
-      "title": "'Memories of a Good Meal': How food made a difference during WWII",
-      "link": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
-      "pubDate": "Thu, 26 Nov 2026 05:00:00 -0500",
+      "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+      "pubDate": "Fri, 27 Nov 2026 05:59:36 -0500",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5376x1923+0+0/resize/5376x1923!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2Fcd%2F73b10cc14db88fb2861214832873%2Fl-r-june-hersh-steven-fenves-alon-shaya-authors-photo.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4496x3000+0+0/resize/4496x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff2%2Fe6%2F842c0c584574bebf383c85a84897%2Fap26330589214672.jpg"
     },
     {
-      "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
-      "link": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
-      "pubDate": "Thu, 26 Nov 2026 04:44:29 -0500",
+      "title": "Can luxury save Macy's?",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+      "pubDate": "Fri, 27 Nov 2026 05:01:00 -0500",
       "source": "NPR News",
       "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5282x3036+0+0/resize/5282x3036!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2F81%2F8cc1d862402f83522b27d6ff9fa2%2Fimg-1176.jpg"
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x4128+0+0/resize/6192x4128!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2F42%2Fe92e56684604ba12db67369743e2%2Fgettyimages-2305985820.jpg"
     },
     {
-      "title": "Court lets Puerto Rico governor fire firm that runs the island's troubled power grid",
-      "link": "https://www.npr.org/2026/11/26/nx-s1-6054139/court-rules-puerto-ricos-governor-can-fire-company-that-runs-troubled-power-grid",
-      "pubDate": "Thu, 26 Nov 2026 04:44:20 -0500",
+      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+      "pubDate": "Fri, 27 Nov 2026 05:00:00 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg"
+    },
+    {
+      "title": "Screen-free tweens try their hand at Dungeons & Dragons",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+      "pubDate": "Fri, 27 Nov 2026 05:00:00 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F2e%2F399887fb4ec881e2707d4ab12793%2Fd-d-lead-photo.jpg"
+    },
+    {
+      "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+      "pubDate": "Fri, 27 Nov 2026 05:00:00 -0500",
+      "source": "NPR News",
+      "category": "News",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5714x3802+0+0/resize/5714x3802!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2F9c%2F9713cdb545dbb1fb84bae3122894%2Fgettyimages-2272594799.jpg"
+    },
+    {
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
+      "pubDate": "Fri, 27 Nov 2026 04:47:08 -0500",
       "source": "NPR News",
       "category": "News",
       "thumbnail": null
     },
     {
-      "title": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
-      "link": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
-      "pubDate": "Thu, 26 Nov 2026 04:43:27 -0500",
-      "source": "NPR News",
-      "category": "News",
-      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8466x5644+0+0/resize/8466x5644!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2F4e%2Fd1653db84a76bcc9f17e6dbf78cb%2Fgettyimages-2306291610.jpg"
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+      "pubDate": "Fri, 27 Nov 2026 15:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg?w=2048"
+    },
+    {
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://images-assets.nasa.gov/image/jsc2026e415098/jsc2026e415098~large.jpg?w=1920&#038;h=1080&#038;fit=clip&#038;crop=faces%2Cfocalpoint"
+    },
+    {
+      "title": "APOD: 2026 November 27 – The Moon Watchers",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+      "pubDate": "Fri, 27 Nov 2026 05:05:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Plenilunio1_2048r.jpg?w=2022&#038;h=2048&#038;fit=clip"
+    },
+    {
+      "title": "Shivelyuch Socked In",
+      "link": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+      "pubDate": "Fri, 27 Nov 2026 05:01:00 +0000",
+      "source": "NASA",
+      "category": "Science",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108.jpg?w=1440&#038;h=960&#038;fit=clip"
     },
     {
       "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
@@ -96,38 +128,6 @@
       "source": "NASA",
       "category": "Science",
       "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/space-crops/SpaceCrops_thanksgiving.jpg?w=1366&#038;h=618&#038;fit=clip"
-    },
-    {
-      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
-      "link": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/",
-      "pubDate": "Wed, 25 Nov 2026 16:47:29 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/11/ashley-knight-and-parents.jpg?w=1504"
-    },
-    {
-      "title": "Eye of the Sahara",
-      "link": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
-      "pubDate": "Wed, 25 Nov 2026 16:21:04 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg?w=2048"
-    },
-    {
-      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
-      "pubDate": "Wed, 25 Nov 2026 14:56:54 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/milky-way/Hubble_GalacticBulge_HD70_1_FINAL.jpg?w=1536&#038;h=1536&#038;fit=clip"
-    },
-    {
-      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
-      "pubDate": "Wed, 25 Nov 2026 05:05:00 +0000",
-      "source": "NASA",
-      "category": "Science",
-      "thumbnail": null
     },
     {
       "title": "Strange ‘topological’ wires conduct electricity better the thinner they get",
@@ -186,136 +186,144 @@
       "thumbnail": null
     },
     {
-      "title": "Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C<sub>2</sub>H<sub>4</sub> signalling",
-      "link": "https://www.nature.com/articles/s41586-026-11475-7",
-      "pubDate": "2026-11-26T00:00:00.000Z",
+      "title": "The haunting loveliness of boglands: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-03885-4",
+      "pubDate": "2026-11-27T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
-      "link": "https://www.nature.com/articles/d41586-026-03874-7",
-      "pubDate": "2026-11-26T00:00:00.000Z",
+      "title": "Brain area’s mysterious role in speech decoded at last",
+      "link": "https://www.nature.com/articles/d41586-026-03800-x",
+      "pubDate": "2026-11-27T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Navigating grief in academia: ways to find balance",
-      "link": "https://www.nature.com/articles/d41586-026-02752-6",
-      "pubDate": "2026-11-26T00:00:00.000Z",
+      "title": "Life-saving cancer drug pumped out by a plant",
+      "link": "https://www.nature.com/articles/d41586-026-03801-w",
+      "pubDate": "2026-11-27T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
-      "link": "https://www.nature.com/articles/d41586-026-03875-6",
-      "pubDate": "2026-11-26T00:00:00.000Z",
+      "title": "Audio long read: The world’s most precious brain samples — and what they teach us about being human",
+      "link": "https://www.nature.com/articles/d41586-026-03900-8",
+      "pubDate": "2026-11-27T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Orangutans face bleak future after Indonesia’s devastating wildfires",
-      "link": "https://www.nature.com/articles/d41586-026-03828-z",
-      "pubDate": "2026-11-26T00:00:00.000Z",
+      "title": "Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+      "link": "https://www.nature.com/articles/s41586-026-11411-9",
+      "pubDate": "2026-11-27T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "The leading cities in the world for high-quality research in 2025",
-      "link": "https://www.nature.com/articles/d41586-026-03468-3",
-      "pubDate": "2026-11-25T00:00:00.000Z",
+      "title": "Want your research cited in patents? Publishing open access increases your chances",
+      "link": "https://www.nature.com/articles/d41586-026-03754-0",
+      "pubDate": "2026-11-27T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "Dual proofs of legendary Riemann hypothesis stun mathematicians",
-      "link": "https://www.nature.com/articles/d41586-026-03853-y",
-      "pubDate": "2026-11-25T00:00:00.000Z",
+      "title": "Postcards from your graves",
+      "link": "https://www.nature.com/articles/d41586-026-03523-z",
+      "pubDate": "2026-11-27T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
       "thumbnail": null
     },
     {
-      "title": "An in situ redox-converted molecule for all-perovskite tandem solar cells",
-      "link": "https://www.nature.com/articles/s41586-026-11465-9",
-      "pubDate": "2026-11-25T00:00:00.000Z",
+      "title": "Why the incoming US Congress should ban the development of self-improving AI",
+      "link": "https://www.nature.com/articles/d41586-026-03849-8",
+      "pubDate": "2026-11-27T00:00:00.000Z",
       "source": "Nature",
       "category": "Science",
+      "thumbnail": null
+    },
+    {
+      "title": "<em>Nitraria tangutorum</em> Bobr. Kernel Oil Ameliorates D-Galactose-Induced Cognitive Impairment and Neuronal Injury in Mice by Inhibiting the JNK/p38 MAPK Pathway and Restoring Mitochondrial Homeostasis",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43101628/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261127200441&v=2.20.1.post6+d419cc9",
+      "pubDate": "Fri, 27 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "The oral-gut immune axis: a bidirectional hypothesis of the oral cavity as an immune programming hub for systemic and gut mucosal immunity",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43101479/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261127200441&v=2.20.1.post6+d419cc9",
+      "pubDate": "Fri, 27 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Oral Lactobacillus crispatus M247 as add-on prophylaxis for recurrent cystitis in women: a randomized pilot trial",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43100686/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261127200441&v=2.20.1.post6+d419cc9",
+      "pubDate": "Fri, 27 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Taraxacum-derived extracellular nanovesicles attenuate dss-induced colitis through coordinated modulation of gut microbiota, intestinal barrier, and mucosal inflammation",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43099698/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261127200441&v=2.20.1.post6+d419cc9",
+      "pubDate": "Fri, 27 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Oral Nano-vaccines for cancer immunotherapy: mechanisms, barriers, and the oral-GALT-tumor immune axis",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43099571/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261127200441&v=2.20.1.post6+d419cc9",
+      "pubDate": "Fri, 27 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Every-Other-Day Fasting Ameliorates Diet-Induced Fatty Liver Disease with Associated Changes in Gut Microbiota and Bile Acid Profiles",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43098372/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261127200441&v=2.20.1.post6+d419cc9",
+      "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
+      "thumbnail": null
+    },
+    {
+      "title": "Low doses of caffeine improved autistic behaviors in BTBR <sup>T+Itpr3tf/J</sup> mice",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43098369/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261127200441&v=2.20.1.post6+d419cc9",
+      "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
+      "source": "Pubmed: oral microbiome",
+      "category": "Microbiome",
       "thumbnail": null
     },
     {
       "title": "Maintenance of Efficacy Outcomes at Week 52 Among Etrasimod Induction Responders: An Analysis From the Phase 3 ELEVATE UC 52 Trial",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43096337/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261126222832&v=2.20.1.post6+d419cc9",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43096337/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261127200441&v=2.20.1.post6+d419cc9",
       "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: oral microbiome",
       "category": "Microbiome",
       "thumbnail": null
     },
     {
-      "title": "\"Ecology-based approaches for prevention of biofilm formation on the surface of restorative materials in the oral cavity\"",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43096184/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261126222832&v=2.20.1.post6+d419cc9",
+      "title": "Immunometabolic dysregulation in allergic rhinitis: mechanisms and clinical translation",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43097854/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261127200441&v=2.20.1.post6+d419cc9",
       "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "The Updateable Human Virome Database and toolkit: a novel framework for human virome analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43095900/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261126222832&v=2.20.1.post6+d419cc9",
-      "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Comparison of PMA-treated DNA and RNA-based 16S rRNA amplicon sequencing for viable bacterial profiling in patients with cystic fibrosis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43095637/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261126222832&v=2.20.1.post6+d419cc9",
-      "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Therapeutic effects of a potential probiotic product (Ogi-Pro) on gut microbiota and diarrhea alleviation: a preliminary in vivo evaluation in a murine model",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43095627/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261126222832&v=2.20.1.post6+d419cc9",
-      "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Oral microbiota in gastric cancer: from pathobiont mechanisms to microbiome-targeted therapeutics",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43095500/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261126222832&v=2.20.1.post6+d419cc9",
-      "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Microbiome dysbiosis and phytochemical interactions in Alzheimer's disease: the oral-gut-brain axis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43095486/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261126222832&v=2.20.1.post6+d419cc9",
-      "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Potential roles of soy proteins, isoflavones, and exercise in modulating the oral microbiome-host axis in obesity and diabetes: microbial dysbiosis, inflammation, and immunometabolic signaling",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43095401/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1xgjY15FSEnC07BaULFQh2U5FrZpgOyyAb5kFIN6NLMTzKE9D7&fc=20260924135222&ff=20261126222832&v=2.20.1.post6+d419cc9",
-      "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: oral microbiome",
+      "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
       "thumbnail": null
     },
     {
       "title": "Nasal microbiota is involved in Parkinson's disease pathology from olfactory bulb to brain via nose-brain axis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43095621/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261126222832&v=2.20.1.post6+d419cc9",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43095621/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261127200441&v=2.20.1.post6+d419cc9",
       "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -323,7 +331,7 @@
     },
     {
       "title": "Metabolomics of Allergic Airway Diseases Across the Lifespan: From Rhinitis to Asthma",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43088484/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261126222832&v=2.20.1.post6+d419cc9",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43088484/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261127200441&v=2.20.1.post6+d419cc9",
       "pubDate": "Thu, 26 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -331,7 +339,7 @@
     },
     {
       "title": "Bifidobacterium supplementation preserves gut microbiota stability and enhances wellbeing during short-term international travel: a randomized, double-blind, placebo-controlled trial",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43074906/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261126222832&v=2.20.1.post6+d419cc9",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43074906/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261127200441&v=2.20.1.post6+d419cc9",
       "pubDate": "Tue, 24 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -339,7 +347,7 @@
     },
     {
       "title": "Progress on the alterations of human-environmental microorganism and their interaction during spaceflight",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43074542/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261126222832&v=2.20.1.post6+d419cc9",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43074542/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261127200441&v=2.20.1.post6+d419cc9",
       "pubDate": "Tue, 24 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -347,7 +355,7 @@
     },
     {
       "title": "The Increase of Tuft Cells is the Pathological Feature of Nasal Mucosa Type 2 Inflammation, and Indicates the Poor Prognosis of CRSwNP",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065167/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261126222832&v=2.20.1.post6+d419cc9",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065167/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261127200441&v=2.20.1.post6+d419cc9",
       "pubDate": "Sat, 21 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -355,7 +363,7 @@
     },
     {
       "title": "Navigating the Nasal-Brain Nexus: Intranasal Delivery of Therapeutics for Brain Tumors - from Direct Nose-to-Brain Transport to Multidimensional Antitumor Mechanisms",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061557/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261126222832&v=2.20.1.post6+d419cc9",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061557/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261127200441&v=2.20.1.post6+d419cc9",
       "pubDate": "Fri, 20 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -363,15 +371,7 @@
     },
     {
       "title": "Oral Staphylococcus carriage in healthy adults: prevalence, antimicrobial resistance, temporal patterns, and oral-nasal comparisons",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43049965/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261126222832&v=2.20.1.post6+d419cc9",
-      "pubDate": "Wed, 18 Nov 2026 06:00:00 -0500",
-      "source": "Pubmed: nasal microbiome",
-      "category": "Microbiome",
-      "thumbnail": null
-    },
-    {
-      "title": "Features of the microbiome of the nasal mucosa in chronic polypous rhinosinusitis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43046749/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261126222832&v=2.20.1.post6+d419cc9",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43049965/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1B3BG_B5Yy79c68TabKweCbPlvEwdz2zMztFNX-8-CFaXpZA8_&fc=20260924135834&ff=20261127200441&v=2.20.1.post6+d419cc9",
       "pubDate": "Wed, 18 Nov 2026 06:00:00 -0500",
       "source": "Pubmed: nasal microbiome",
       "category": "Microbiome",
@@ -449,29 +449,29 @@
         "name": "Tonight",
         "temperature": 31,
         "temperatureUnit": "F",
-        "shortForecast": "Cloudy",
-        "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium"
-      },
-      {
-        "name": "Friday",
-        "temperature": 46,
-        "temperatureUnit": "F",
-        "shortForecast": "Partly Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
-      },
-      {
-        "name": "Friday Night",
-        "temperature": 33,
-        "temperatureUnit": "F",
-        "shortForecast": "Light Rain Likely",
-        "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,60?size=medium"
+        "shortForecast": "Mostly Cloudy then Slight Chance Rain And Snow",
+        "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium"
       },
       {
         "name": "Saturday",
-        "temperature": 50,
+        "temperature": 51,
         "temperatureUnit": "F",
-        "shortForecast": "Sunny",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=medium"
+        "shortForecast": "Mostly Sunny",
+        "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+      },
+      {
+        "name": "Saturday Night",
+        "temperature": 35,
+        "temperatureUnit": "F",
+        "shortForecast": "Mostly Cloudy then Chance Light Rain",
+        "icon": "https://api.weather.gov/icons/land/night/bkn/rain,30?size=medium"
+      },
+      {
+        "name": "Sunday",
+        "temperature": 39,
+        "temperatureUnit": "F",
+        "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
+        "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium"
       }
     ]
   }
